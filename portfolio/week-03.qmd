@@ -1,8 +1,8 @@
 ---
 title: "Relationship Conversation"
 week: 3
-status: "Belum dimulai"
-self_score: "—"
+status: "Selesai"
+self_score: "15/20"
 assessor_score: "—"
 description: "Evidence listening, boundary, request, atau repair."
 categories: [Fondasi, Relationship]
@@ -22,4 +22,46 @@ Melakukan personal conversation dengan listening, clarity, boundary, dan relatio
 [Buka contoh fiktif Minggu 3](../examples/week-03.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
 :::
 
-{{< include ../includes/evidence-template.md >}}
+## Konteks dan relationship state
+
+Sebagai tim Mentor OSKM ITB (terdiri dari 3 orang: saya, 1 mentor cowok, dan 1 mentor cewek) yang bertugas mendampingi kelompok maba selama 4 hari rangkaian acara, terdapat dinamika ketegangan internal. Saya merasa lebih dekat dengan mentor cowok karena berasumsi mentor cewek pasif dan enggan membaur dengan kami. Namun, saya mendengar dari temannya bahwa dia sebenarnya merasa "ditinggalkan" dan diabaikan dalam dinamika bertiga.
+
+**State sebelum percakapan:** Terjadi *misscommunication* akibat persepsi sepihak di tengah tingginya intensitas tugas lapangan OSKM. Ketegangan berada di skala 6/10. Objective saya adalah mengklarifikasi persepsi, memulihkan kekompakan tim mentor, dan memastikan koordinasi pendampingan maba berjalan inklusif tanpa ada yang merasa terasingkan.
+
+## Potongan transcript
+
+> **Saya:** "Gua denger dari temen lu, lu ngerasa rada ditinggalin ya pas kita tugas mentor OSKM? Sori banget kalau bikin lu ngerasa gitu, jujur gua sama [Mentor Cowok] mikirnya lu yang ragu atau mager gabung sama kita."  
+> **Mentor Cewek:** "Iya, jujur gua ngerasa kalian udah asyik berdua duluan dari awal, jadi gua bingung mau masuk ke obrolan kalian gimana dan ngerasa canggung."  
+> **Saya:** "Oalah, ternyata misskom di situ. Gua minta maaf ya, ke depannya kita bakal selalu info dan ajak lu langsung. Nanti malam kita mau cari hadiah buat maba, lu mau ikut gabung sekalian?"  
+> **Mentor Cewek:** "Pengen sih, tapi kalau udah kemalaman maaf ya gua belum bisa ikut dulu karena kemalaman."  
+> **Saya:** "Nggak apa-apa santai aja, paham kok. Tapi besok pas selesai acara OSKM, kita ngumpul bertiga ya buat evaluasi singkat sambil istirahat bareng sebelum balik."  
+> **Mentor Cewek:** "Oke sip, besok gua usahain ngumpul."
+
+## Analisis listening, boundary, dan repair
+
+Saya mengawali dengan *repair* langsung untuk mengklarifikasi isu "ditinggalkan" tanpa bersikap defensif. Langkah *listening* memperlihatkan bahwa hambatan utama adalah rasa canggung untuk masuk ke dinamika interaksi yang sudah terbentuk duluan, bukan karena ketidakpedulian pada tugas mentor.
+
+**Boundary & Request:** Mentor cewek menyampaikan batasannya (*boundary*) terkait kegiatan di luar jam acara yang terlalu malam, dan kami menghormati hal tersebut tanpa menghakimi. Saya menyampaikan *request* agar kami tetap memiliki waktu khusus bertiga untuk beristirahat dan koordinasi pasca-acara.
+
+**Adaptasi Dinamika:** Pada hari H pasca-acara OSKM, ketika diajak duduk dan istirahat bareng, dia masih menunjukkan gestur canggung (berdiri sendiri, fokus ke HP, hingga akhirnya izin pulang duluan). Ini menunjukkan bahwa memulihkan rasa nyaman di tengah keletihan fisik acara OSKM membutuhkan proses bertahap, bukan sekadar satu kali obrolan.
+
+## Relationship outcome dan evidence
+
+- **Klarifikasi Asumsi:** *Misscommunication* awal berhasil dibongkar; kami menyadari bahwa persepsi sepihak mengenai "mager gabung" adalah asumsi yang keliru.
+- **Transparansi Inisiatif:** Dalam pendampingan maba di hari-hari OSKM berikutnya, kami selalu memastikan pembagian peran dan ajakan interaksi dilakukan secara terbuka bertiga.
+- **Penghormatan Batasan:** Memahami batas kenyamanan dan kapasitas fisik rekan tim pasca-lapangan sehingga tidak memicu prasangka buruk saat dia tidak bisa hadir di agenda malam.
+- **Ketegangan Terkelola:** Skala ketegangan turun dari 6/10 menjadi 3/10. Meskipun kecanggungan belum sepenuhnya hilang, alur komunikasi antar-mentor menjadi lebih terbuka dan profesional.
+
+AI tidak digunakan dalam episode ini karena percakapan bersifat pribadi dan mengandalkan interaksi langsung di lapangan.
+
+## Self-assessment
+
+| Dimensi | Skor | Evidence singkat |
+|---|---:|---|
+| Person & Character | 3 | Kebutuhan rasa nyaman ketiga mentor OSKM diakui dan dihargai |
+| Objective & State | 3 | Menurunkan ketegangan dari asumsi "pasif" menjadi klarifikasi emosional |
+| Repertoire, Language & AI | 3 | Menggunakan inisiasi repair, klarifikasi persepsi, dan penawaran ajakan |
+| Response & Adaptation | 3 | Memahami batasan jam malam rekan dan gestur canggungnya tanpa memaksa |
+| Agreement, Action & Relationship | 3 | Terbentuk kesepakatan keterbukaan komunikasi tim meskipun eksekusi butuh proses |
+
+**Total: 15/20 — Kompeten.**
