@@ -1,8 +1,8 @@
 ---
 title: "Five-Language Translation Portfolio"
 week: 4
-status: "Belum dimulai"
-self_score: "—"
+status: "Selesai"
+self_score: "16/20"
 assessor_score: "—"
 description: "Satu meaning untuk lima person atau character."
 categories: [Fondasi, Language]
@@ -22,4 +22,38 @@ Mengadaptasi repertoire dan language tanpa mengubah core meaning.
 [Buka contoh fiktif Minggu 4](../examples/week-04.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
 :::
 
-{{< include ../includes/evidence-template.md >}}
+## Core meaning
+
+**Fakta yang tidak boleh berubah:** *Deadline submission* kompetisi CompFest (terdiri dari pengumpulan *pitch deck* dan rekaman *voice note* presentasi) yang semula dijadwalkan tanggal 16 Agustus diperpanjang hingga tanggal 19 Agustus. Tim (Davindra, Sisi, dan Theo) yang sudah menyelesaikan draf pada 16 Agustus siang memiliki opsi untuk melakukan revisi atau penyempurnaan sebelum tenggat baru.
+
+| Target/character | Versi language | Alasan adaptasi |
+|---|---|---|
+| **Friend (Sisi & Theo)** | "Siang guys! Pengumpulan CompFest ternyata diundur sampe tanggal 19 Agustus nih. Deck sm VN presentasi kita kan udah aman tuh dari siang ini, mau kita review tipis-tipis dulu atau langsung submit sekarang biar tenang?" | Kasual, mengapresiasi pencapaian tim yang sudah selesai tepat waktu, dan menawarkan pilihan aksi santai. |
+| **Technical peer** | "Update submission CompFest: *deadline* di-extend dari 16 Agustus ke 19 Agustus. Berkas *deck* & *audio track voice note* yang udah rampung siang ini bisa kita *hold* dulu buat *refinement/review* ulang alur slide sebelum *final upload*." | Menggunakan terminologi teknis penyusunan berkas (*hold*, *refinement*, *final upload*), lugas, dan berfokus pada alur kerja eksekusi. |
+| **Manager (Panitia/Koordinator Lomba)** | "Pengumuman resmi dari panitia CompFest menyatakan perpanjangan tenggat pengumpulan *deck* dan *voice note* presentasi hingga 19 Agustus. Draf tim kami telah selesai per 16 Agustus siang dan siap diunggah sesuai prosedur teknis terbaru." | Formal, terstruktur, menekankan status kesiapan tim (*status update*) serta kepatuhan pada keputusan regulasi. |
+| **Customer/User (Maba/Peserta Lomba Lain)** | "Bagi peserta Business Case Competition CompFest, batas akhir pengumpulan berkas *deck* dan rekaman *voice note* presentasi resmi diperpanjang hingga 19 Agustus pukul 23.59 WIB. Pastikan tautan berkas Anda terakses." | Menjelaskan perubahan jadwal dan instruksi tindakan utama tanpa mencampurkan dinamika internal kelompok. |
+| **Public** | "Pengumpulan karya Business Case Competition CompFest diperpanjang hingga 19 Agustus! Manfaatkan waktu tambahan ini untuk mematangkan *deck* dan presentasi terbaik kalian." | Komunikatif, memberikan semangat, fokus pada pesan umum tanpa membeberkan detail teknis internal. |
+
+## Evidence understanding
+
+Saya menguji versi *Friend* kepada Theo tanpa memberikan latar belakang tambahan. Theo langsung memahami bahwa pengumpulan lomba CompFest diundur ke tanggal 19 Agustus dan draf awal kelompok sudah rampung, namun ia sempat ragu apakah rekam ulang *voice note* diwajibkan atau tidak.
+
+Berdasarkan masukan tersebut, saya melakukan penyesuaian kalimat internal menjadi: "Deck sama VN yang kita selesain siang ini udah aman kok, jadi revisi/rekam ulang opsional aja kalau mau poles dikit." Adaptasi ini memperjelas status draf tanpa mengubah *core meaning*.
+
+## Analisis dan batas
+
+Variasi bahasa yang digunakan beradaptasi dari gaya percakapan intim antar-rekan tim, arahan kerja fungsional, laporan formal, petunjuk peserta, hingga pengumuman publik. Pemilihan *repertoire* memastikan pesan disampaikan tepat sasaran: rekan tim butuh kejelasan langkah revisi, panitia butuh *status update*, sedangkan publik hanya butuh informasi umum mengenai tenggat baru.
+
+AI dimanfaatkan untuk memeriksa apakah kelima versi tetap konsisten mempertahankan komponen fakta kunci: identitas lomba (CompFest), tanggal lama (16 Agustus), tanggal baru (19 Agustus), serta komponen berkas wajib (*deck* dan *voice note*).
+
+## Self-assessment
+
+| Dimensi | Skor | Evidence singkat |
+|---|---:|---|
+| Person & Character | 3 | Lima target audiens dibedakan berdasarkan kebutuhan informasi masing-masing |
+| Objective & State | 3 | *Core meaning* perubahan *deadline* dan kelengkapan berkas konsisten di semua versi |
+| Repertoire, Language & AI | 4 | Menggunakan lima variasi *repertoire* dengan justrasi adaptasi dan validasi fakta via AI |
+| Response & Adaptation | 3 | Umpan balik dari Theo menghasilkan penjelasan batas revisi opsional pada draf |
+| Agreement, Action & Relationship | 3 | Opsi keputusan tim dan alur finalisasi berkas dinyatakan secara transparan |
+
+**Total: 16/20 — Kompeten.**

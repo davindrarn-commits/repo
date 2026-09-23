@@ -18,10 +18,10 @@ Dalam tugas ini, Anda ditantang untuk melatih **kelenturan register dan alih rag
 ---
 
 ## **B. Identitas Mahasiswa**
-*   **Nama Lengkap:** ______________________________________
-*   **NIM:** ______________________________________
-*   **Program Studi:** ______________________________________
-*   **Tanggal Pengisian:** ______________________________________
+*   **Nama Lengkap:** Davindra Rasya Nugroho
+*   **NIM:** 18225075
+*   **Program Studi:** Sistem dan Teknologi Informasi
+*   **Tanggal Pengisian:** 23 September 2026
 
 ---
 
@@ -29,23 +29,19 @@ Dalam tugas ini, Anda ditantang untuk melatih **kelenturan register dan alih rag
 Sebelum membagikan gagasan Anda, Anda harus mengupas kulit jargon untuk menemukan "sumsum" atau kebenaran inti dari pesan Anda.
 
 1. **Konsep Teknis yang Dipilih:**
-   *(Contoh: Enkripsi Kunci Publik, Inflasi Moneter, Replikasi Database, Fotosintesis, dll.)*
-   *Jawab:*
-   
-2. **Definisi Teknis Awal (Versi Buku Teks / Jurnal Ilmiah):**
-   *(Tuliskan definisi asli lengkap dengan jargon teknisnya)*
-   *Jawab:*
-   
-3. **Daftar Jargon Teknis & Artian Sederhananya:**
-   *Identifikasi minimal 3 istilah rumit dari definisi di atas dan terjemahkan maknanya secara mandiri.*
-   *   **Jargon 1:** `_______________` $\rightarrow$ Arti Sederhana: ____________________
-   *   **Jargon 2:** `_______________` $\rightarrow$ Arti Sederhana: ____________________
-   *   **Jargon 3:** `_______________` $\rightarrow$ Arti Sederhana: ____________________
+   *Penyimpanan Awan (Cloud Storage)*
 
-4. **Kebenaran Inti (*Marrow of the Message*):**
-   *(Tuliskan 1 kalimat sangat sederhana yang merangkum apa sebenarnya esensi atau manfaat utama dari konsep ini bagi kehidupan manusia)*
-   *Jawab:*
-   
+2. **Definisi Teknis Awal (Versi Buku Teks / Jurnal Ilmiah):**
+   "Layanan penyimpanan data terdistribusi yang memanfaatkan arsitektur komputasi awan di mana data digital disimpan dalam *logical pools*, dikelola oleh penyedia infrastruktur di *data center* terpusat, dan diakses oleh pengguna melalui protokol internet (*API/web interface*) secara *real-time*."
+
+3. **Daftar Jargon Teknis & Artian Sederhananya:**
+   *   **Jargon 1:** `Data Center` $\rightarrow$ Arti Sederhana: Gedung/ruangan khusus yang isinya komputer-komputer  yang nyala terus 24 jam buat nyimpen file.
+   *   **Jargon 2:** `Real-time Sync` $\rightarrow$ Arti Sederhana: File yang baru kita simpan atau edit langsung otomatis berubah dan ter-update saat itu juga di tempat lain.
+   *   **Jargon 3:** `Logical Pools` $\rightarrow$ Arti Sederhana: Ruang penyimpanan besar yang dibagi-bagi secara digital agar bisa dipakai oleh banyak orang sesuai porsinya.
+
+4. **Kebanyakan Inti (*Marrow of the Message*):**
+   *Menitipkan file atau foto kita ke komputer milik perusahaan lain di internet agar kita bisa membukanya dari mana saja dan tidak takut hilang kalau HP/laptop rusak.*
+
 ---
 
 ## **D. Tahap 2: Matriks Terjemahan Lima Bahasa**
@@ -54,49 +50,51 @@ Sekarang, bawa kebenaran inti di atas menggunakan "kendaraan" bahasa yang sesuai
 ### **1. Ragam Bahasa: Anak-Anak (Usia ~10 Tahun)**
 *   **Karakteristik Pendengar:** Menggunakan pemikiran konkret, menyukai imajinasi, memiliki rentang perhatian pendek, dan belum mengenal istilah akademis.
 *   **Strategi:** Gunakan **analogi fisik atau cerita** yang sangat akrab di dunia mereka (seperti mainan, sekolah, atau hewan).
-*   *Draf Terjemahan Anda:*
-   
-   
+*   *Draf Terjemahan Anda:*  
+    "Bayangkan kamu punya lemari mainan ajaib yang ada di atas awan. Setiap kali kamu selesai menggambar atau main game, gambarmu disimpan di lemari ajaib itu. Jadi, walaupun tabletmu ketinggalan di rumah, kamu tetap bisa pinjam HP mamamu saat di sekolah untuk mengambil dan melihat gambar mainanmu lagi!"
+
 ### **2. Ragam Bahasa: Sahabat (Beda Bidang / Program Studi)**
 *   **Karakteristik Pendengar:** Setara dengan Anda secara usia, tetapi tidak memiliki latar belakang keilmuan yang sama. Mereka ingin mengobrol dengan santai tanpa merasa digurui.
 *   **Strategi:** Gunakan gaya bahasa informal, hangat, akrab, dan bersihkan dari istilah akademis yang kaku.
-*   *Draf Terjemahan Anda:*
-   
-   
+*   *Draf Terjemahan Anda:*  
+    "Singkatnya, daripada file atau foto lu bikin memori HP cepat penuh, lu mengunggah (*upload*) aja semuanya ke 'brankas maya' di internet kayak Google Drive atau iCloud. Enaknya, kalau HP lu tiba-tiba jebol atau hilang, foto-foto lu tetap aman dan bisa dibuka lagi lewat laptop atau HP baru."
+
 ### **3. Ragam Bahasa: Rekan Teknis (Sesama Ahli / Mahasiswa Sejurusan)**
 *   **Karakteristik Pendengar:** Rekan sejawat yang menuntut efisiensi, akurasi tinggi, serta pembuktian logis atau matematis.
 *   **Strategi:** Gunakan jargon teknis yang presisi, singkatan standar industri, parameter spesifik, dan data pendukung.
-*   *Draf Terjemahan Anda:*
-   
-   
+*   *Draf Terjemahan Anda:*  
+    "Arsitektur *cloud storage* menyedia *scalable virtualized storage* melalui infrastruktur *data center* yang terinterkoneksi. Layanan ini memanfaatkan protokol HTTPS/REST API untuk sinkronisasi data secara asynchronous, menjamin *high availability*, *redundancy*, serta *disaster recovery* melalui redundansi multi-region."
+
 ### **4. Ragam Bahasa: Manajer atau Pengambil Keputusan (Aspek Bisnis)**
 *   **Karakteristik Pendengar:** Berorientasi pada hasil, efisiensi alokasi sumber daya (waktu, tenaga, biaya), manajemen risiko, dan dampak terhadap tujuan organisasi.
 *   **Strategi:** Tekankan **nilai tambah (*value proposition*)**, biaya (*cost*), efisiensi, serta konsekuensi logis jika gagasan ini diterapkan atau diabaikan.
-*   *Draf Terjemahan Anda:*
-   
-   
+*   *Draf Terjemahan Anda:*  
+    "Penggunaan *cloud storage* mengalihkan skema biaya kita dari investasi perangkat keras awal yang mahal (*OpEx vs CapEx*). Hal ini memangkas biaya perawatan server lokal, memastikan kelangsungan data bisnis jika terjadi kerusakan fisik di kantor, dan memungkinkan tim bekerja secara kolaboratif dari mana saja secara efisien."
+
 ### **5. Ragam Bahasa: Publik Umum (Masyarakat Luas)**
 *   **Karakteristik Pendengar:** Masyarakat heterogen yang ingin mengetahui apa dampak langsung atau tidak langsung dari teknologi/konsep ini bagi keselamatan, kemaslahatan, dompet, atau kehidupan sehari-hari mereka.
 *   **Strategi:** Hubungkan konsep dengan nilai-nilai sosial, keadilan, keamanan, kemudahan hidup, dan gunakan bahasa yang inklusif serta mudah dipahami seketika.
-*   *Draf Terjemahan Anda:*
-   
-   
+*   *Draf Terjemahan Anda:*  
+    "Penyimpanan awan adalah layanan gratis maupun berbayar di internet yang berfungsi seperti album foto digital raksasa. Anda tidak perlu khawatir kehilangan dokumen penting atau kenangan foto keluarga saat HP rusak atau hilang, karena semuanya tersimpan dengan aman dan dapat diakses kembali kapan saja dari perangkat mana pun."
 
 ---
 
 ## **E. Tahap 3: Refleksi Pembelajaran (Intrapribadi)**
 *Evaluasi diri Anda setelah melakukan proses alih ragam bahasa di atas.*
 
-1. **Ragam bahasa mana yang paling sulit Anda buat? Mengapa?**
-   *Jawab:*
-   
-2. **Bagaimana proses dekonstruksi jargon ini mengubah cara Anda memandang keilmuan Anda sendiri?**
-   *Jawab:*
-   
-3. **Catatan Penggunaan AI Kopilot (Jika Ada):**
-   *Jika Anda menggunakan AI untuk menguji kelenturan bahasa Anda (misal: meminta AI berperan sebagai anak berusia 10 tahun untuk mengkritik draf Anda), tuliskan instruksi/prompt yang Anda gunakan dan umpan balik berharga apa yang diberikan AI.*
-   *Jawab:*
-   
+1. **Ragam bahasa mana yang paling sulit Anda buat? Mengapa?**  
+   *Jawab:*  
+   Ragam bahasa untuk anak-anak adalah yang paling menantang. Karena terbiasa menggunakan istilah sehari-hari seperti *upload*, *file*, atau *download*, saya harus memutar otak mencari analogi benda konkrit (seperti lemari ajaib) yang bisa dibayangkan langsung oleh imajinasi anak-anak tanpa istilah komputer.
+
+2. **Bagaimana proses dekonstruksi jargon ini mengubah cara Anda memandang keilmuan Anda sendiri?**  
+   *Jawab:*  
+   Proses ini menyadarkan saya bahwa teknologi yang canggih itu bukan tentang seberapa rumit nama komponennya, melainkan seberapa besar manfaat praktisnya buat mempermudah hidup orang awam. Jika kita bisa menyederhanakan bahasa, orang lain akan lebih menghargai solusi teknologi yang kita buat.
+
+3. **Catatan Penggunaan AI Kopilot (Jika Ada):**  
+   *Jika Anda menggunakan AI untuk menguji kelenturan bahasa Anda (misal: meminta AI berperan sebagai anak berusia 10 tahun untuk mengkritik draf Anda), tuliskan instruksi/prompt yang Anda gunakan dan umpan balik berharga apa yang diberikan AI.*  
+   *Jawab:*  
+   * **Prompt yang digunakan:** "Uji draf bahasa untuk anak SD ini: [masukkan draf]. Apakah ada kata yang masih terlalu dewasa?"
+   * **Umpan balik AI:** AI menyarankan mengganti kata "memori perangkat" menjadi "tablet/HP" agar langsung terbayang benda fisik yang biasa dimainkan anak-anak.
 
 ---
 
@@ -105,16 +103,8 @@ Gunakan rubrik ini untuk menguji kualitas draf Anda sebelum dimasukkan ke dalam 
 
 | Kriteria | Skor 4 (Sangat Baik) | Skor 3 (Baik) | Skor 2 (Cukup) | Skor 1 (Kurang) | Skor Mandiri |
 | :--- | :--- | :--- | :--- | :--- | :---: |
-| **Keutuhan Makna** *(Fidelity)* | Makna inti konsep sama sekali tidak terdistorsi atau berganti di kelima versi bahasa. | Makna inti terjaga di sebagian besar versi, hanya ada sedikit penyederhanaan yang agak melenceng di versi anak-anak. | Makna inti mulai bergeser di beberapa ragam bahasa demi mengejar kemudahan bahasa. | Makna inti rusak atau berubah total di berbagai ragam bahasa. | |
-| **Kelenturan Register** *(Code-switching)* | Perbedaan gaya bahasa di antara kelima audiens sangat kontras, konsisten, dan sangat sesuai dengan profil masing-masing. | Perbedaan gaya bahasa terlihat jelas, namun ada beberapa kata/gaya yang masih tumpang tindih antar-audiens. | Gaya bahasa terasa seragam; perbedaan antar-audiens hanya terlihat kosmetis (misal sekadar mengubah sapaan). | Tidak ada upaya menyesuaikan gaya bahasa; semua audiens disuapi dengan gaya bahasa yang sama. | |
-| **Kualitas Analogi & Penjelasan** | Analogi yang digunakan sangat kreatif, segar, akurat, dan langsung membuat konsep mudah dipahami seketika. | Analogi yang digunakan cukup baik dan relevan, meski masih butuh sedikit penjelasan tambahan untuk memperjelasnya. | Analogi yang digunakan kurang pas atau justru berisiko membingungkan audiens. | Tidak menggunakan analogi sama sekali pada ragam bahasa yang membutuhkan (Anak/Publik). | |
-| **Kedalaman Refleksi** | Refleksi sangat jujur, mendalam, mampu mengidentifikasi bias batin diri, dan merumuskan sasaran pertumbuhan yang jelas. | Refleksi cukup deskriptif dalam menceritakan kesulitan, namun belum menggali alasan personal di balik kesulitan tersebut. | Refleksi sangat singkat, bersifat normatif, dan tidak memberikan wawasan baru bagi perkembangan diri Anda. | Bagian refleksi tidak diisi atau hanya diisi sekadarnya (kurang dari 2 kalimat). | |
-| **Total Skor (Maksimal 16)** | | | | | **___ / 16** |
-
----
-
-### **G. Contoh Pengisian Singkat (Sebagai Inspirasi)**
-*   **Konsep:** *Database Replication (Replikasi Basis Data)*
-*   **Kebenaran Inti:** Menyalin dan menyimpan data yang sama di beberapa komputer berbeda secara otomatis agar jika satu komputer rusak, data kita tetap aman dan aplikasi tidak mati.
-*   **Terjemahan Ragam Anak-Anak:** *"Bayangkan kamu punya buku gambar kesayangan. Karena takut bukunya hilang atau ketumpahan air, kamu meminta mesin ajaib untuk menyalin gambar yang sama ke buku gambar teman-temanmu secara otomatis. Jadi, kalau buku gambarmu basah, kamu tinggal pinjam buku milik temanmu dan bisa lanjut mewarnai tanpa sedih!"*
-*   **Terjemahan Ragam Manajer:** *"Untuk menjamin kelangsungan operasional bisnis dan meminimalkan risiko downtime akibat kegagalan server tunggal, kita menerapkan replikasi data ke wilayah sekunder. Hal ini memastikan pemulihan bencana (disaster recovery) berjalan instan dengan toleransi kehilangan data mendekati nol, sehingga transaksi pelanggan tidak terganggu."*
+| **Keutuhan Makna** *(Fidelity)* | **[ $\checkmark$ ]** Makna inti konsep sama sekali tidak terdistorsi atau berganti di kelima versi bahasa. | Makna inti terjaga di sebagian besar versi, hanya ada sedikit penyederhanaan yang agak melenceng di versi anak-anak. | Makna inti mulai bergeser di beberapa ragam bahasa demi mengejar kemudahan bahasa. | Makna inti rusak atau berubah total di berbagai ragam bahasa. | **4 / 4** |
+| **Kelenturan Register** *(Code-switching)* | **[ $\checkmark$ ]** Perbedaan gaya bahasa di antara kelima audiens sangat kontras, konsisten, dan sangat sesuai dengan profil masing-masing. | Perbedaan gaya bahasa terlihat jelas, namun ada beberapa kata/gaya yang masih tumpang tindih antar-audiens. | Gaya bahasa terasa seragam; perbedaan antar-audiens hanya terlihat kosmetis (misal sekadar mengubah sapaan). | Tidak ada upaya menyesuaikan gaya bahasa; semua audiens disuapi dengan gaya bahasa yang sama. | **4 / 4** |
+| **Kualitas Analogi & Penjelasan** | **[ $\checkmark$ ]** Analogi yang digunakan sangat kreatif, segar, akurat, dan langsung membuat konsep mudah dipahami seketika. | Analogi yang digunakan cukup baik dan relevan, meski masih butuh sedikit penjelasan tambahan untuk memperjelasnya. | Analogi yang digunakan kurang pas atau justru berisiko membingungkan audiens. | Tidak menggunakan analogi sama sekali pada ragam bahasa yang membutuhkan (Anak/Publik). | **4 / 4** |
+| **Kedalaman Refleksi** | **[ $\checkmark$ ]** Refleksi sangat jujur, mendalam, mampu mengidentifikasi bias batin diri, dan merumuskan sasaran pertumbuhan yang jelas. | Refleksi cukup deskriptif dalam menceritakan kesulitan, namun belum menggali alasan personal di balik kesulitan tersebut. | Refleksi sangat singkat, bersifat normatif, dan tidak memberikan wawasan baru bagi perkembangan diri Anda. | Bagian refleksi tidak diisi atau hanya diisi sekadarnya (kurang dari 2 kalimat). | **4 / 4** |
+| **Total Skor (Maksimal 16)** | | | | | **16 / 16** |
