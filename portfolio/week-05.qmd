@@ -1,8 +1,8 @@
 ---
 title: "Professional Discovery Interview"
 week: 5
-status: "Belum dimulai"
-self_score: "—"
+status: "Selesai"
+self_score: "15/20"
 assessor_score: "—"
 description: "Discovery menuju shared problem statement."
 categories: [Professional, Discovery]
@@ -22,4 +22,54 @@ Mendengar sebelum proposing dan membangun shared problem statement dengan person
 [Buka contoh fiktif Minggu 5](../examples/week-05.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
 :::
 
-{{< include ../includes/evidence-template.md >}}
+## Initial assumption dan rencana discovery
+
+Dalam rangka tugas wawancara Ospek Jurusan (OSJUR), saya berasumsi bahwa senior/kating yang bertindak sebagai pewawancara akan bersikap senioritas, galak, dan terkesan *intimidating* ("abang-abangan") sehingga sesi wawancara akan berlangsung tegang dan formal. Saya mewawancarai Kating "R" (inisial teranonymisasi) untuk memahami ekspektasi riil senior terhadap mahasiswa baru.
+
+Pertanyaan utama yang disiapkan:
+
+1. Bagaimana kesan dan pengalaman Anda selama menjalani perkuliahan di jurusan ini?
+2. Tantangan terbesar apa yang biasanya dihadapi mahasiswa tingkat dua seperti kami saat awal masuk jurusan?
+3. Apa ekspektasi sebenarnya dari kating terhadap angkatan kami melalui kegiatan OSJUR ini?
+4. Bagaimana cara terbaik membangun hubungan dan komunikasi yang efektif antara kating dan adik tingkat?
+5. Constraint atau batasan apa yang tetap harus dijaga dalam interaksi antara kating dan maba?
+
+## Potongan transcript
+
+> **Saya:** "Jujur Kak, awal mau wawancara kami sempat ragu dan takut katingnya bakal galak atau senioritas."  
+> **Kating R:** "Santai aja, bro. Kita di kampus itu sama-sama belajar. OSJUR itu dibuat bukan buat nakut-nakutin, tapi biar kalian kenal kultur jurusan dan nggak kaget pas masuk labtek."  
+> **Saya:** "Jadi tantangan utamanya sebenarnya bukan soal senioritas, tapi adaptasi akademik dan cara koordinasi angkatan?"  
+> **Kating R:** "Yup, betul banget. Banyak maba pusing di awal karena kaget sama alur tugas kelompok dan kaku mau nanya ke kating. Padahal kalau mau diajak nongkrong atau diskusi santai, kita terbuka banget."  
+> **Saya:** "Apa yang perlu tetap kita jaga pas interaksi santai kayak gini?"  
+> **Kating R:** "Tetap saling respek aja, tahu batasan waktu kalau mau nanya tugas, dan jangan sungkan buat inisiasi sapa atau ajak ngobrol duluan."
+
+## Pembaruan pembacaan
+
+*Initial assumption* mengenai "kating galak/senioritas" tidak terbukti. Evidence dari wawancara menunjukkan bahwa hambatan komunikasi antara maba dan kating berasal dari *mutual distance* (persepsi takut/canggung dari maba, serta kating yang bingung mencari cara mendekati maba tanpa berkesan menggurui).
+
+**Shared problem statement yang dikonfirmasi Kating R:**
+
+> "Mahasiswa baru dan kating membutuhkan ruang interaksi informal yang santai (seperti nongkrong bareng) untuk mencairkan rasa canggung dan mempermudah transfer pengalaman akademik, karena kesan awal yang kaku membuat maba sungkan meminta bantuan saat mengalami kesulitan belajar."
+
+Kating R menyetujui frasa ini dan menambahkan bahwa inisiatif dari maba untuk menyapa/mengajak diskusi duluan sangat diapresiasi oleh senior.
+
+## Evidence, feedback, dan next step
+
+- Catatan poin wawancara teranonymisasi dan dokumentasi foto fiktif/anonymized saat nongkrong bareng.
+- Pesan konfirmasi *shared problem statement* via WhatsApp/Discord dari Kating R.
+- Feedback observer (rekan kelompok wawancara): Proses discovery berjalan sangat mencair; saya berhasil mengarahkan obrolan dari formal menjadi wawancara eksploratif yang hangat.
+- Next practice: Menghilangkan prasangka awal (*prejudice*) terhadap figur senior/atasan dalam sesi discovery berikutnya dan memperbanyak pertanyaan terbuka.
+
+AI digunakan untuk merapikan sintesis transkrip dan membantu mengelompokkan kutipan ke dalam kategori `fakta`, `interpretasi`, dan `solusi`. Nama asli narasumber disamarkan demi privasi.
+
+## Self-assessment
+
+| Dimensi | Skor | Evidence singkat |
+|---|---:|---|
+| Person & Character | 3 | Ekspektasi dan persepsi kating sebagai narasumber dipetakan jernih |
+| Objective & State | 3 | Asumsi "kating galak" diperbarui menjadi *shared problem statement* interaksi santai |
+| Repertoire, Language & AI | 3 | Menggunakan *open question*, *paraphrase*, validasi emosi, dan perapihan AI |
+| Response & Adaptation | 3 | Mampu mengubah atmosfer tegang menjadi obrolan nongkrong santai di lapangan |
+| Agreement, Action & Relationship | 3 | *Problem statement* dikonfirmasi narasumber dan membuka relasi relasi yang berkelanjutan |
+
+**Total: 15/20 — Kompeten.**
