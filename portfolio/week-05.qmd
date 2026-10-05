@@ -24,7 +24,7 @@ Mendengar sebelum proposing dan membangun shared problem statement dengan person
 
 ## Initial assumption dan rencana discovery
 
-Dalam rangka tugas wawancara Ospek Jurusan (OSJ), saya berasumsi bahwa senior/kating yang bertindak sebagai pewawancara akan bersikap senioritas, galak, dan terkesan *intimidating* ("abang-abangan") sehingga sesi wawancara akan berlangsung tegang dan formal. Saya mewawancarai Kating "R" (inisial teranonymisasi) untuk memahami ekspektasi riil senior terhadap mahasiswa baru.
+Dalam rangka tugas wawancara Ospek Jurusan (OSJ), saya berasumsi bahwa senior/kating yang bertindak sebagai pewawancara akan bersikap senioritas, galak, dan terkesan *intimidating* ("abang-abangan") sehingga sesi wawancara akan berlangsung tegang dan formal. Saya mewawancarai Kating "A" (inisial teranonymisasi) untuk memahami ekspektasi riil senior terhadap mahasiswa baru.
 
 Pertanyaan utama yang disiapkan:
 
@@ -37,21 +37,21 @@ Pertanyaan utama yang disiapkan:
 ## Potongan transcript
 
 > **Saya:** "Jujur Kak, awal mau wawancara kami sempat ragu dan takut katingnya bakal galak atau senioritas."  
-> **Kating R:** "Santai aja, bro. Kita di kampus itu sama-sama belajar. OSJ itu dibuat bukan buat nakut-nakutin, tapi biar kalian kenal kultur jurusan dan nggak kaget pas masuk labtek."  
+> **Kating A:** "Santai aja, bro. Kita di kampus itu sama-sama belajar. OSJ itu dibuat bukan buat nakut-nakutin, tapi biar kalian kenal kultur jurusan dan nggak kaget pas masuk labtek."  
 > **Saya:** "Jadi tantangan utamanya sebenarnya bukan soal senioritas, tapi adaptasi akademik dan cara koordinasi angkatan?"  
-> **Kating R:** "Yup, betul banget. Banyak maba pusing di awal karena kaget sama alur tugas kelompok dan kaku mau nanya ke kating. Padahal kalau mau diajak nongkrong atau diskusi santai, kita terbuka banget."  
+> **Kating A:** "Yup, betul banget. Banyak maba pusing di awal karena kaget sama alur tugas kelompok dan kaku mau nanya ke kating. Padahal kalau mau diajak nongkrong atau diskusi santai, kita terbuka banget."  
 > **Saya:** "Apa yang perlu tetap kita jaga pas interaksi santai kayak gini?"  
-> **Kating R:** "Tetap saling respek aja, tahu batasan waktu kalau mau nanya tugas, dan jangan sungkan buat inisiasi sapa atau ajak ngobrol duluan."
+> **Kating A:** "Tetap saling respek aja, tahu batasan waktu kalau mau nanya tugas, dan jangan sungkan buat inisiasi sapa atau ajak ngobrol duluan."
 
 ## Pembaruan pembacaan
 
 *Initial assumption* mengenai "kating galak/senioritas" tidak terbukti. Evidence dari wawancara menunjukkan bahwa hambatan komunikasi antara maba dan kating berasal dari *mutual distance* (persepsi takut/canggung dari maba, serta kating yang bingung mencari cara mendekati maba tanpa berkesan menggurui).
 
-**Shared problem statement yang dikonfirmasi Kating R:**
+**Shared problem statement yang dikonfirmasi Kating A:**
 
 > "Mahasiswa baru dan kating membutuhkan ruang interaksi informal yang santai (seperti nongkrong bareng) untuk mencairkan rasa canggung dan mempermudah transfer pengalaman akademik, karena kesan awal yang kaku membuat maba sungkan meminta bantuan saat mengalami kesulitan belajar."
 
-Kating R menyetujui frasa ini dan menambahkan bahwa inisiatif dari maba untuk menyapa/mengajak diskusi duluan sangat diapresiasi oleh senior.
+Kating A menyetujui frasa ini dan menambahkan bahwa inisiatif dari maba untuk menyapa/mengajak diskusi duluan sangat diapresiasi oleh senior.
 
 ## Evidence, feedback, dan next step
 
@@ -70,9 +70,4 @@ AI digunakan untuk merapikan sintesis transkrip dan membantu mengelompokkan kuti
 | Dimensi | Skor | Evidence singkat |
 |---|---:|---|
 | Person & Character | 3 | Ekspektasi dan persepsi kating sebagai narasumber dipetakan jernih |
-| Objective & State | 3 | Asumsi "kating galak" diperbarui menjadi *shared problem statement* interaksi santai |
-| Repertoire, Language & AI | 3 | Menggunakan *open question*, *paraphrase*, validasi emosi, dan perapihan AI |
-| Response & Adaptation | 4 | Mampu mengubah atmosfer tegang menjadi obrolan nongkrong santai serta mengonfirmasi hasil ke narasumber |
-| Agreement, Action & Relationship | 3 | *Problem statement* dikonfirmasi narasumber dan membuka relasi yang berkelanjutan |
-
-**Total: 16/20 — Kompeten.**
+| Objective & State | 3 | Asumsi "
