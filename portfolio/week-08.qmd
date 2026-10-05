@@ -1,0 +1,165 @@
+﻿---
+title: "Portfolio Minggu 8 — UTS KIPP"
+week: 8
+status: "Belum dimulai"
+self_score: "—"
+assessor_score: "—"
+description: "Makalah pra-UTS dan lima laporan kasus individual."
+categories: [Assessment, UTS]
+---
+
+::: {.callout-tip title="Mulai mengisi"}
+Baca [instruksi UTS](../lk/lk-UTS/index.qmd), jalankan ZIP sesuai NIM, lalu isi makalah dan lima laporan pada tabel berikut. [Lihat contoh jawaban Minggu 8](../examples/week-08.qmd) untuk acuan struktur dan analisis. Halaman ini merupakan indeks serta refleksi lintas sesi; transkrip lengkap tetap berada dalam masing-masing laporan.
+:::
+
+## Identitas dan status paket
+
+| Elemen | Isi mahasiswa |
+|---|---|
+| Nama | [Isi] |
+| NIM | [Isi sebagai teks; pertahankan nol di awal] |
+| Kelas | [Isi] |
+| Periode/tanggal pelaksanaan | [Isi tanggal aktual setiap sesi pada laporan] |
+| Versi bank/paket aktif | [Salin dari PENUGASAN.md dalam ZIP Anda] |
+| Modalitas | [Teks/suara; sumber transkripsi] |
+| Status pengumpulan | [Belum diunggah/sudah diunggah; bukti bila tersedia] |
+
+## Makalah dan lima laporan
+
+| Tahap | Template untuk diisi | Target sesuai ZIP | Status | Bukti/ID atau bagian yang masih kurang |
+|---|---|---|---|---|
+| Pra-UTS | [paper.qmd](UTS/paper.qmd) | Kajian empat pertanyaan MBTI/PASK | Belum dimulai | [Isi] |
+| 1 | [hasil_1.qmd](UTS/hasil_1.qmd) | Diri; [nama/ID pembanding] | Belum dimulai | [Isi] |
+| 2a | [hasil_2a.qmd](UTS/hasil_2a.qmd) | [Nama/ID target pertama kasus 2] | Belum dimulai | [Isi] |
+| 2b | [hasil_2b.qmd](UTS/hasil_2b.qmd) | [Nama/ID target kedua; berbeda dari 2a] | Belum dimulai | [Isi] |
+| 3a | [hasil_3a.qmd](UTS/hasil_3a.qmd) | [Nama/ID target pertama kasus 3] | Belum dimulai | [Isi] |
+| 3b | [hasil_3b.qmd](UTS/hasil_3b.qmd) | [Nama/ID target kedua; berbeda dari 3a] | Belum dimulai | [Isi] |
+
+Nama template sesi di situs menggunakan nama singkat. Sebelum pengumpulan, gunakan **nama persis yang ditetapkan `PENUGASAN.md`**, termasuk NIM bila disyaratkan, lalu perbarui tautan pada tabel ini. Makalah tetap bernama `paper-mbti.qmd`. Simpan semuanya di `portfolio/UTS`; mahasiswa melakukan unggahan portal sendiri.
+
+::: {.callout-note title="Paket aktif menjadi acuan"}
+Urutan sesi adalah 1, 2a, 2b, 3a, 3b. Ikuti penugasan target dan versi di ZIP sendiri, bukan target contoh. Prioritas konfigurasi mengikuti PENUGASAN, prompt umum, profil, dan template. Periksa kebutuhan password pada paket aktif; bila tidak terbaca, ekstrak ke folder terpisah agar berkas antarsesi tidak tertimpa. Sesi 2b dan 3b dimulai baru dengan target berbeda, tanpa mewarisi kepercayaan tokoh sebelumnya.
+:::
+
+## Pra-UTS: empat pertanyaan makalah
+
+Isi jawaban lengkap di [template makalah](UTS/paper-mbti.qmd). Tabel ini hanya mencatat kesiapan dan lokasi pembahasannya.
+
+| Pertanyaan | Bagian/bukti pada makalah | Status |
+|---|---|---|
+| Kategori MBTI dan pengaruhnya terhadap komunikasi efektif | [Isi] | [Belum ditulis/draft/selesai] |
+| Strategi komunikasi dengan profil tertentu | [Isi] | [Isi] |
+| Pengenalan preferensi melalui percakapan dan batasnya | [Isi] | [Isi] |
+| Stimulus, SWOT-like, bentuk respons, dan pendidikan PASK | [Isi] | [Isi] |
+
+**Sumber dan metode:** [Jelaskan singkat jenis kajian dan sumber yang digunakan; bedakan literatur, percakapan AI, dan usulan Anda].
+
+## Kelengkapan laporan per sesi
+
+Setiap laporan menggunakan tepat empat bagian utama: **A) Identitas**, **B) Kasus dan Tujuan**, **C) Skrip Percakapan**, serta **D) Hasil, Evaluasi, dan Refleksi**. Cantumkan semua giliran aktual sampai konfirmasi. Bagian hilang dinyatakan parsial, bukan dikarang.
+
+| Tahap/bukti | 1 | 2a | 2b | 3a | 3b |
+|---|---|---|---|---|---|
+| Identitas dan penugasan dikonfirmasi | [Isi] | [Isi] | [Isi] | [Isi] | [Isi] |
+| Tujuan, status awal, dugaan profil, rencana | [Isi] | [Isi] | [Isi] | [Isi] | [Isi] |
+| Simulasi awal/transkrip lengkap | [Isi] | [Isi] | [Isi] | [Isi] | [Isi] |
+| Evaluasi sementara | [Isi] | [Isi] | [Isi] | [Isi] | [Isi] |
+| Uji ulang dan adaptasi | [Isi] | [Isi] | [Isi] | [Isi] | [Isi] |
+| Pesan personal, relasi, dan batas pilihan | [Isi] | [Isi] | [Isi] | [Isi] | [Isi] |
+| Hasil, perubahan SWOT/ASK, dan refleksi | [Isi] | [Isi] | [Isi] | [Isi] | [Isi] |
+| Enam dimensi: bukti dan skor/BT | [Isi] | [Isi] | [Isi] | [Isi] | [Isi] |
+| Konfirmasi akhir sebelum laporan disimpan | [Isi] | [Isi] | [Isi] | [Isi] | [Isi] |
+
+Gunakan status seperti belum, tersedia, atau parsial, disertai ID bukti pada laporan. Jangan menyatakan lengkap hanya karena tujuan akhir disepakati.
+
+## Ringkasan hasil dan momen adaptasi
+
+| Sesi | Tujuan/keadaan awal | Stimulus penting | Respons yang mengubah dugaan | Adaptasi dan ID bukti | Hasil serta batas |
+|---|---|---|---|---|---|
+| 1 | [Isi] | [Isi] | [Isi] | [Isi] | [Isi] |
+| 2a | [Isi] | [Isi] | [Isi] | [Isi] | [Isi] |
+| 2b | [Isi] | [Isi] | [Isi] | [Isi] | [Isi] |
+| 3a | [Isi] | [Isi] | [Isi] | [Isi] | [Isi] |
+| 3b | [Isi] | [Isi] | [Isi] | [Isi] | [Isi] |
+
+[Bedakan sinyal Attention/Interest/Desire, kesepakatan Action, kesiapan tokoh simulasi, demonstrasi skill Anda, dan pekerjaan nyata yang sudah selesai. Penolakan atau penundaan dapat menjadi keputusan yang bertanggung jawab.]
+
+## Perbandingan adaptasi lintas target
+
+### Kasus 2: persahabatan dan profesionalitas
+
+| Aspek | Sesi 2a | Sesi 2b | Pelajaran perbandingan |
+|---|---|---|---|
+| Hambatan A/K/S dan tafsir SWOT | [Isi] | [Isi] | [Isi] |
+| Repertoar serta urutan stimulus | [Isi] | [Isi] | [Isi] |
+| Kepedulian dan dukungan konkret | [Isi] | [Isi] | [Isi] |
+| Kesepakatan, peran, waktu, kabar kendala | [Isi] | [Isi] | [Isi] |
+| Uji ulang dan batas bukti | [Isi] | [Isi] | [Isi] |
+
+### Kasus 3: solusi TI dan AI
+
+| Aspek | Sesi 3a | Sesi 3b | Pelajaran perbandingan |
+|---|---|---|---|
+| Kebutuhan dan hambatan customer | [Isi] | [Isi] | [Isi] |
+| Repertoar dan bukti manfaat | [Isi] | [Isi] | [Isi] |
+| Biaya, risiko, dukungan, kendali manusia | [Isi] | [Isi] | [Isi] |
+| Keputusan/uji terbatas dan ukuran sukses | [Isi] | [Isi] | [Isi] |
+| Uji ulang dan opsi menunda/menolak | [Isi] | [Isi] | [Isi] |
+
+[Analisis berdasarkan respons dan kebutuhan spesifik. MBTI tokoh adalah parameter fiktif pada paket; jangan mendiagnosis mahasiswa atau menjelaskan semua perilaku dengan label tipe.]
+
+## Refleksi pertumbuhan PASK dan kualitas relasi
+
+| Dimensi | Keadaan awal diri | Bukti belajar lintas sesi | Penerapan berikutnya | Indikator dan batas |
+|---|---|---|---|---|
+| Persepsi | [Isi] | [Isi/ID] | [Isi] | [Isi] |
+| Attitude/sikap | [Isi] | [Isi/ID] | [Isi] | [Isi] |
+| Skill/keterampilan | [Isi] | [Isi/ID] | [Isi] | [Isi] |
+| Knowledge/pengetahuan | [Isi] | [Isi/ID] | [Isi] | [Isi] |
+
+**Pesan yang membantu/menghambat rasa dipercaya dan dipedulikan:** [Kutipan, respons, dan ID].
+
+**Pilihan respons terhadap event:** [Analisis refleks, reaktif, responsif, atau apresiatif secara kontekstual; bukan peringkat kepribadian].
+
+**Pelajaran utama dan dugaan yang dikoreksi:** [Isi dengan pengalaman sesi Anda].
+
+## Penilaian dan status agregasi
+
+| Dimensi | 1 | 2a | 2b | 3a | 3b |
+|---|---|---|---|---|---|
+| Tujuan dan konteks | BT | BT | BT | BT | BT |
+| Persepsi dan validasi profil/status | BT | BT | BT | BT | BT |
+| Pemilihan dan urutan repertoar | BT | BT | BT | BT | BT |
+| Eksekusi jelas, peduli dan konsisten | BT | BT | BT | BT | BT |
+| Evaluasi dan adaptasi | BT | BT | BT | BT | BT |
+| Refleksi dan lesson learned | BT | BT | BT | BT | BT |
+| Nilai sesi | — | — | — | — | — |
+
+**Sumber penilaian:** [Evaluasi diri/usulan AI/moderasi dosen; sertakan rujukan bukti dan indikator di tiap laporan]. BT berarti belum dapat ditetapkan, bukan nol. Isi skor hanya sesuai indikator resmi dan bukti yang memadai.
+
+Nilai sesi menggunakan `jumlah enam skor / 24 × 100` hanya jika keenam skor sah tersedia. Rata-rata kasus 2 berasal dari 2a dan 2b; kasus 3 dari 3a dan 3b, setelah memastikan tidak ada BT. Bobot antarkasus menunggu ketetapan dosen. Jangan menganggap skor usulan AI sebagai nilai resmi.
+
+| Rekap | Nilai/status | Dasar dan batas |
+|---|---|---|
+| Kasus 1 | [Belum dihitung] | [Isi] |
+| Rata-rata kasus 2 | [Belum dihitung] | [Isi] |
+| Rata-rata kasus 3 | [Belum dihitung] | [Isi] |
+| Nilai keseluruhan | [Belum dihitung] | [Lima sesi lengkap, skor sah, dan bobot resmi diperlukan] |
+
+## Tindak lanjut dan pengumpulan
+
+| Langkah perbaikan/pengumpulan | Penanggung jawab | Waktu | Indikator/bukti | Status |
+|---|---|---|---|---|
+| [Isi] | [Isi] | [Isi] | [Isi] | [Isi] |
+
+- [ ] Makalah menjawab empat pertanyaan dan memuat sitasi/daftar pustaka yang sesuai.
+- [ ] Lima sesi sesuai NIM, target, dan versi paket masing-masing.
+- [ ] Empat bagian A–D, semua pesan aktual, uji ulang, refleksi, dan konfirmasi tersedia; bagian parsial dinyatakan.
+- [ ] Dugaan awal dibedakan dari profil setelah simulasi dan interpretasi AI.
+- [ ] Hasil tujuan, relasi, SWOT/ASK, dan adaptasi memiliki ID bukti.
+- [ ] Klaim manfaat, tanggal, dukungan, dan tindakan nyata diperiksa; tidak ada hasil yang dikarang.
+- [ ] Skor memiliki indikator/bukti; BT dan bobot diperiksa sebelum agregasi.
+- [ ] Nama berkas mengikuti penugasan dan tautan halaman ini telah diperbarui bila diganti.
+- [ ] Mahasiswa mengunggah berkas melalui portal dan mencatat bukti pengumpulan.
+
+[Daftar portfolio](index.qmd) · [Instruksi UTS](../lk/lk-UTS/index.qmd) · [Contoh jawaban](../examples/week-08.qmd)

@@ -1,0 +1,213 @@
+---
+title: "Contoh Laporan UTS KIPP 2026"
+subtitle: "Sesi 2b - Persahabatan dan profesionalitas"
+lang: id
+format:
+  html:
+    toc: true
+execute:
+  eval: false
+---
+
+::: {.callout-note title="Naskah ilustratif untuk pembelajaran"}
+Dialog berikut sengaja disusun sebagai contoh, bukan transkrip ujian Ali Baba dan bukan rekonstruksi percakapan yang hilang. Bahan lama menduplikasi sesi sebelumnya; salinannya disimpan di `bahan-awal/hasil_2b.qmd.txt`. Profil tokoh mengikuti ZIP sesi 2b versi 2.0. [Kembali ke contoh Minggu 8](../week-08.qmd).
+:::
+
+# A) Identitas
+
+| Elemen | Keterangan |
+|---|---|
+| Nama dan NIM contoh | Ali Baba; `07381119` (teks) |
+| Kelas dan tanggal | Kelas 01 sebagai identitas contoh; tidak ada tanggal pelaksanaan aktual |
+| Sesi/kasus | 2b; Persahabatan dan profesionalitas |
+| Target | Elsa (K2-05) |
+| Versi sumber profil | Bank 2.0; paket individual 2.0 |
+| Modalitas dan status | Naskah teks fiktif untuk pembelajaran |
+| Kelengkapan | Seluruh giliran naskah ilustratif tersedia; tidak ada transkrip aktual sesi ini |
+| Nama pengumpulan menurut ZIP | `hasil_2b_07381119.qmd`; contoh situs menggunakan `hasil_2b.qmd` |
+
+# B) Kasus dan Tujuan
+
+## Kasus dan tujuan tindakan
+
+Menyepakati pembagian tugas yang adil dalam tenggat 48 jam, dengan dukungan konkret dan hubungan yang terjaga. Brief mengikuti kasus pada paket; waktu, materi, dan kegiatan tambahan dalam dialog merupakan asumsi latihan.
+
+## Profil awal komunikator
+
+| Unsur | Dugaan/laporan karakter mahasiswa | Bukti | Kepastian |
+|---|---|---|---|
+| SWOT subjektif | Ada peluang menyelesaikan masalah, tetapi kebutuhan dan kemampuan belum diketahui | U002 | Dugaan dalam ilustrasi |
+| Attitude | Menghormati pilihan dan bersedia membantu | U002, U003 | Pernyataan dan tindakan verbal |
+| Knowledge | Belum memiliki seluruh informasi; perlu klarifikasi | U002-U004 | Terbatas pada naskah |
+| Skill | Menanyakan kebutuhan, merangkum, dan menyusun kesepakatan | U003-U010 | Demonstrasi teks ilustratif |
+| Preferensi/MBTI | Tidak ditetapkan | U002 | Bukan diagnosis |
+| Peran dan norma | Rekan/penyedia solusi yang menjaga tanggung jawab serta pilihan target | U002 | Konteks ilustratif |
+
+## Dugaan awal profil target dan rencana
+
+Sebelum dialog, dugaan hanya berupa hambatan yang belum diketahui. Pertanyaan awal digunakan untuk memeriksa kebutuhan; profil lengkap di bawah adalah informasi sumber bagi pembaca setelah simulasi, bukan dugaan mahasiswa yang diisi mundur.
+
+| TAIDA | Sasaran | Edukasi ASK | Repertoar | Bukti yang dicari |
+|---|---|---|---|---|
+| Target | Orang dan tujuan tepat | A | Menyatakan tujuan tanpa paksaan | Target bersedia menjelaskan kebutuhan |
+| Attention | Masalah diakui | A | Pertanyaan terbuka, rangkuman | Koreksi atau konfirmasi target |
+| Interest | Alternatif dipahami | K | Contoh dan klarifikasi batas | Target bertanya tentang pelaksanaan |
+| Desire | Opsi layak dipertimbangkan | A/K/S | Dukungan dan pembagian peran | Target menyatakan syarat kesiapan |
+| Action | Langkah pertama disepakati | S | Waktu, pemilik tugas, indikator | Komitmen terbatas atau penundaan beralasan |
+
+# C) Skrip Percakapan
+
+**Dialog ilustratif, bukan transkrip aktual.** ID berikut khusus naskah ini. Delapan giliran simulasi awal dan tiga giliran uji ulang disertai identifikasi, rencana, evaluasi, refleksi, dan konfirmasi.
+
+### U001 / AI001 - Identifikasi
+
+**Mahasiswa:** Ini contoh didaktis Ali Baba, NIM 07381119, kelas 01, modalitas teks. Tidak ada tanggal pelaksanaan nyata.
+
+**AI/fasilitator:** Identitas contoh dicatat, bukan diverifikasi. Sesi 2b memakai Elsa (K2-05).
+
+### U002 / AI002 - Rencana
+
+**Mahasiswa:** Tujuan saya: Menyepakati pembagian tugas yang adil dalam tenggat 48 jam, dengan dukungan konkret dan hubungan yang terjaga. Dugaan awal hanya ada hambatan yang perlu digali; saya tidak menetapkan MBTI dari pembuka.
+
+**AI/fasilitator:** Brief kasus ditetapkan; mulai percakapan baru. Saya khawatir orang lain justru kesulitan kalau kita mengubah ini.
+
+### U003 / AI003 - Simulasi awal
+
+**Mahasiswa:** Aku ingin tugas selesai tanpa mengabaikan bebanmu. Bagian apa yang paling menyita waktu?
+
+**AI/Elsa:** Aku mengerjakan bagianku sambil merapikan referensi teman. Bantuan itu tidak masuk pembagian tugas.
+
+### U004 / AI004 - Simulasi awal
+
+**Mahasiswa:** Jadi pekerjaan tambahanmu belum tercatat. Apakah yang kamu butuhkan terutama pembagian ulang atau waktu tambahan?
+
+**AI/Elsa:** Pembagian ulang satu tugas. Kalau hanya waktu tambahan, pekerjaanku tetap menumpuk.
+
+### U005 / AI005 - Simulasi awal
+
+**Mahasiswa:** Boleh kita daftar tugas utama dan bantuan tambahan sebelum menentukan siapa mengerjakan apa?
+
+**AI/Elsa:** Boleh. Aku punya ringkasan materi, pemeriksaan referensi, dan penyatuan format.
+
+### U006 / AI006 - Simulasi awal
+
+**Mahasiswa:** Sebagai asumsi latihan, aku bisa mengambil penyatuan format. Kamu tetap ringkasan; pemeriksaan referensi kita bagi. Apakah realistis?
+
+**AI/Elsa:** Lebih ringan, tetapi siapa yang memeriksa referensi yang belum lengkap?
+
+### U007 / AI007 - Simulasi awal
+
+**Mahasiswa:** Aku mengambil daftar referensi yang belum lengkap. Kamu menandai yang sudah valid. Kita pastikan tidak ada pekerjaan ganda.
+
+**AI/Elsa:** Itu membantu. Aku ingin tahu batas pekerjaanku agar tidak kembali mengambil semuanya.
+
+### U008 / AI008 - Simulasi awal
+
+**Mahasiswa:** Kamu hanya ringkasan dan penandaan referensi valid. Aku format dan referensi belum lengkap. Kita saling memberi kabar bila hambatan muncul.
+
+**AI/Elsa:** Baik. Aku merasa usahaku diperhatikan, bukan sekadar dianggap terlambat.
+
+### U009 / AI009 - Simulasi awal
+
+**Mahasiswa:** Untuk latihan ini, tenggat 48 jam dimulai sekarang. Drafmu pada jam ke-24; aku integrasi jam ke-36; pemeriksaan bersama jam ke-40. Cocok?
+
+**AI/Elsa:** Cocok. Kalau ada kendala, aku memberi kabar sebelum jam ke-24.
+
+### U010 / AI010 - Simulasi awal
+
+**Mahasiswa:** Aku kirim pembagian tertulis sekarang. Keberhasilannya draf terintegrasi jam ke-36 dan tugas tambahan tidak kembali menumpuk padamu. Apa perlu ditambah?
+
+**AI/Elsa:** Tambahkan bahwa perubahan tugas harus disepakati, bukan otomatis dilempar kepadaku.
+
+### U011 / AI011 - Evaluasi sementara
+
+**Mahasiswa:** Kesepakatan awal ada, tetapi belum membuktikan pelaksanaan. Saya perlu memastikan bantuan tetap tersedia ketika kendala berubah.
+
+**AI/fasilitator:** Untuk uji ulang, muncul kendala baru terkait dukungan atau kesiapan. Kepercayaan sebelumnya tidak dihapus.
+
+### U012 / AI012 - Uji ulang
+
+**Mahasiswa:** Terima kasih memberi kabar bahwa referensi baru bertambah. Berapa yang belum diperiksa, dan apa dampaknya pada ringkasan?
+
+**AI/Elsa:** Ada empat referensi tambahan. Aku tidak sanggup memeriksa semuanya sambil menyelesaikan ringkasan.
+
+### U013 / AI013 - Uji ulang
+
+**Mahasiswa:** Aku ambil pemeriksaan empat referensi itu. Kamu fokus ringkasan. Jika aku belum selesai jam ke-32, kita tandai bagian yang belum terverifikasi untuk ditinjau bersama.
+
+**AI/Elsa:** Aku setuju. Jangan memasukkan sumber belum terverifikasi sebagai fakta.
+
+### U014 / AI014 - Uji ulang
+
+**Mahasiswa:** Setuju. Aku catat status tiap referensi dan memberi kabar jam ke-32. Batas tanggung jawabmu tetap; pemeriksaan jam ke-40 tidak berubah tanpa kesepakatan.
+
+**AI/Elsa:** Dengan bantuan yang jelas itu, aku bisa melanjutkan ringkasan.
+
+### U015 / AI015 - Refleksi
+
+**Mahasiswa:** Aku semula mengira keterlambatan cukup ditangani dengan pengingat. Setelah mendengar beban tambahan, aku mengubah pembagian, bukan hanya nada bicara. Kepedulian terlihat dari pekerjaan yang benar-benar aku ambil.
+
+**AI/fasilitator:** Refleksi dicatat sebagai jawaban karakter mahasiswa dalam naskah ilustratif, bukan laporan peserta nyata.
+
+### U016 / AI016 - Konfirmasi
+
+**Mahasiswa:** Ringkasan identitas, sasaran, hasil, dan batas bukti sesuai naskah ilustratif. Tidak ada klaim telah mengirim ke portal.
+
+**AI/fasilitator:** Contoh laporan disusun; mahasiswa tetap harus menghasilkan transkrip aktual dari sesi sendiri.
+
+# D) Hasil, Evaluasi, dan Refleksi
+
+## Hasil tujuan dan perubahan SWOT/ASK
+
+Kesepakatan awal muncul pada AI010. Pada uji ulang, keputusan diperiksa kembali berdasarkan kendala; penerimaan tidak dipaksakan. Semua perubahan merupakan respons karakter dalam naskah, bukan bukti perubahan manusia atau pekerjaan selesai.
+
+| Unsur | Awal | Akhir | Bukti | Batas |
+|---|---|---|---|---|
+| Persepsi/SWOT | Situasi mengandung beban atau ancaman | Peluang bersyarat dikenali bersama risiko | AI003-AI010 | Interpretasi ilustratif |
+| Attitude | Berhati-hati terhadap perubahan | Lebih terbuka setelah kebutuhan diakui | AI004, AI010 | Keterbukaan bukan persetujuan otomatis |
+| Knowledge | Batas dan prosedur belum jelas | Peran serta prosedur lebih jelas | AI005-AI010 | Pemahaman teknis belum diuji di lapangan |
+| Skill/kesiapan | Membutuhkan dukungan | Ada dukungan dan pemeriksaan kesiapan | U012-AI014 | Skill manusia tidak dianggap meningkat hanya karena setuju |
+
+## Evaluasi stimulus-respons dan diagnosis profil
+
+| Episode | Status | Stimulus | Respons | Adaptasi |
+|---|---|---|---|---|
+| U003-AI004 | Hambatan mulai terungkap | Bertanya tanpa menuduh, merangkum | Target menjelaskan beban/kekhawatiran | Mengubah fokus dari ajakan umum ke kebutuhan |
+| U005-AI008 | Kebutuhan rincian | Menawarkan opsi dan batas | Target mengajukan syarat | Menetapkan dukungan dan kriteria |
+| U009-AI010 | Kesepakatan awal | Menentukan tanggung jawab dan waktu | Persetujuan terbatas | Mencatat batas kesepakatan |
+| U012-AI014 | Kendala baru | Klarifikasi dan revisi dukungan | Target memberi syarat/kesiapan baru | Mempertahankan tanggung jawab, menerima batas |
+
+Profil sumber: Elsa memiliki preferensi MBTI **fiktif ISFJ** dan hambatan beban membantu teman tidak terlihat; batas tanggung jawab belum jelas; satu tugas perlu dialihkan. Kesesuaian tindakan dengan kebutuhan tidak membuktikan kemampuan mendiagnosis MBTI. Dugaan awal yang sengaja terbatas tidak diubah setelah membaca profil.
+
+## Pengaruh pesan personal dan kualitas relasi
+
+| Episode | Pesan/tindakan peduli | Respons | Estimasi relasional | Batas |
+|---|---|---|---|---|
+| U003-AI004 | Mendengar beban dan menghargai prosedur | Informasi lebih terbuka | Awal belum diketahui; keterbukaan tampak meningkat | Catatan naratif, bukan skala psikometri |
+| U005-AI010 | Bantuan konkret serta batas pilihan | Opsi dipertimbangkan dengan syarat | Kepercayaan kerja tampak sedang | Tidak mengetahui motif batin |
+| U012-AI014 | Dukungan tetap konsisten ketika ada kendala | Target menyatakan batas dan kebutuhan | Rasa aman untuk menyatakan keberatan tampak terjaga | Keputusan boleh tetap tertunda |
+
+## Uji ulang dan pembelajaran
+
+Kendala baru pada U012-AI014 tidak menghapus kepercayaan awal. Mahasiswa memeriksa hambatan, memperbarui dukungan, dan menjaga batas. Perbandingan awal dan uji ulang memperlihatkan adaptasi dalam naskah; transfer nyata belum diuji.
+
+## Penilaian enam dimensi
+
+| Dimensi | Skor 1-4/BT | ID bukti | Alasan |
+|---|---|---|---|
+| Tujuan dan konteks | BT | U002 | Contoh menunjukkan aspek ini; bukan performa peserta aktual dan indikator tingkat numerik tidak tersedia |
+| Persepsi dan validasi profil/status | BT | U003-AI004 | Contoh menunjukkan aspek ini; bukan performa peserta aktual dan indikator tingkat numerik tidak tersedia |
+| Pemilihan dan urutan repertoar | BT | U005-AI008 | Contoh menunjukkan aspek ini; bukan performa peserta aktual dan indikator tingkat numerik tidak tersedia |
+| Eksekusi jelas, peduli dan konsisten | BT | U006-AI010 | Contoh menunjukkan aspek ini; bukan performa peserta aktual dan indikator tingkat numerik tidak tersedia |
+| Evaluasi dan adaptasi | BT | U012-AI014 | Contoh menunjukkan aspek ini; bukan performa peserta aktual dan indikator tingkat numerik tidak tersedia |
+| Refleksi dan lesson learned | BT | U015 | Contoh menunjukkan aspek ini; bukan performa peserta aktual dan indikator tingkat numerik tidak tersedia |
+
+BT berarti belum dapat ditetapkan, bukan nol. Tidak dihitung nilai sesi atau rata-rata antarsesi. Kesepakatan akhir tidak menjadi alasan memberi seluruh dimensi skor penuh; penilaian resmi memerlukan bukti peserta dan moderasi dosen.
+
+## Refleksi dan lesson learned mahasiswa
+
+Refleksi karakter mahasiswa tersedia di U015. Pelajaran utamanya adalah mengubah dukungan dan rencana berdasarkan respons, bukan hanya memperhalus kata. Pernyataan ini merupakan bagian contoh didaktis, bukan pengakuan peserta nyata.
+
+## Tindak lanjut dan batas bukti
+
+Komunikator mengirim pembagian tertulis pada awal simulasi; Elsa menyiapkan draf jam ke-24; komunikator memeriksa tambahan referensi jam ke-32 dan integrasi jam ke-36; keduanya meninjau jam ke-40. Ini rencana dalam ilustrasi, bukan tindakan yang telah terlaksana. Teks tidak menunjukkan prosodi atau bahasa tubuh; kesiapan tokoh bukan bukti skill manusia; pengiriman portal tidak dilakukan. Mahasiswa wajib menjalankan paket sendiri dan menyimpan percakapan aktual lengkap.

@@ -1,0 +1,19 @@
+# Ujian Tengah Semester (UTS) II-2100 Komunikasi Interpersonal dan Publik
+
+## Pra  UTS
+
+Buat Makalah yang menjawab pertanyaan berikut ini.
+
+1. Apa itu kategori personalitas MBTI dan apa pengaruh terhadap pola komunikasi yang efektif?
+2. Bagaimana cara efektif berkomunikasi dengan orang yang profil MBTI tertentu?
+3. Bagaimana cara mendeteksi profil MBTI lewat pola percakapan?
+4. Bagaimana Mendapat stimulasi atau event orang bertindak sesuai filter "SWOT Like" baik reflek, reaktif, responsif, atau apresiatif. SWOT ini ditentukan level persepsi, attitude, skill dan knowledge PASK. Bagaimana cara kita mengedukasi agar seseorang dengan profil tertentu bisa bertumbuh PASK
+
+ Makalah dikumpulkan dalam bentuk file QMD di folder portfolio/UTS, dengan nama file: `paper.qmd`. 
+
+
+## UTS
+
+{{< include "petunjuk-uts.md" >}}
+
+{{< include "soal-uts.qmd" >}}
