@@ -28,7 +28,7 @@ Mengadaptasi repertoire dan language tanpa mengubah core meaning.
 
 | Target/character | Versi language | Alasan adaptasi |
 |---|---|---|
-| **Friend (Sisi & Theo)** | "Siang guys! Pengumpulan CompFest ternyata diundur sampe tanggal 19 Agustus nih. Deck sm VN presentasi kita kan udah aman tuh dari siang ini, mau kita review tipis-tipis dulu atau langsung submit sekarang biar tenang?" | Kasual, mengapresiasi pencapaian tim yang sudah selesai tepat waktu, dan menawarkan pilihan aksi santai. |
+| **Friend (Sisi & Theo)** | "Mantap Sisi infonya! Berhubung pengumpulan CompFest diundur sampe tanggal 19, deck sm VN yang kita selesain siang ini mau kita review tipis-tipis dulu atau langsung submit sekarang biar tenang?" | Kasual, merespons kabar dari Sisi, mengapresiasi pencapaian tim yang sudah selesai tepat waktu, dan menawarkan pilihan aksi santai. |
 | **Technical peer** | "Update submission CompFest: *deadline* di-extend dari 16 Agustus ke 19 Agustus. Berkas *deck* & *audio track voice note* yang udah rampung siang ini bisa kita *hold* dulu buat *refinement/review* ulang alur slide sebelum *final upload*." | Menggunakan terminologi teknis penyusunan berkas (*hold*, *refinement*, *final upload*), lugas, dan berfokus pada alur kerja eksekusi. |
 | **Manager (Panitia/Koordinator Lomba)** | "Pengumuman resmi dari panitia CompFest menyatakan perpanjangan tenggat pengumpulan *deck* dan *voice note* presentasi hingga 19 Agustus. Draf tim kami telah selesai per 16 Agustus siang dan siap diunggah sesuai prosedur teknis terbaru." | Formal, terstruktur, menekankan status kesiapan tim (*status update*) serta kepatuhan pada keputusan regulasi. |
 | **Customer/User (Maba/Peserta Lomba Lain)** | "Bagi peserta Business Case Competition CompFest, batas akhir pengumpulan berkas *deck* dan rekaman *voice note* presentasi resmi diperpanjang hingga 19 Agustus pukul 23.59 WIB. Pastikan tautan berkas Anda terakses." | Menjelaskan perubahan jadwal dan instruksi tindakan utama tanpa mencampurkan dinamika internal kelompok. |
@@ -36,9 +36,14 @@ Mengadaptasi repertoire dan language tanpa mengubah core meaning.
 
 ## Evidence understanding
 
-Saya menguji versi *Friend* kepada Theo tanpa memberikan latar belakang tambahan. Theo langsung memahami bahwa pengumpulan lomba CompFest diundur ke tanggal 19 Agustus dan draf awal kelompok sudah rampung, namun ia sempat ragu apakah rekam ulang *voice note* diwajibkan atau tidak.
+Uji pemahaman dilakukan langsung di dalam grup chat setelah Sisi membagikan pengumuman perpanjangan *deadline*.
 
-Berdasarkan masukan tersebut, saya melakukan penyesuaian kalimat internal menjadi: "Deck sama VN yang kita selesain siang ini udah aman kok, jadi revisi/rekam ulang opsional aja kalau mau poles dikit." Adaptasi ini memperjelas status draf tanpa mengubah *core meaning*.
+**Artefak Respons Target (Screenshot Chat Group):**
+
+![Bukti Chat Pengumuman & Adaptasi Respon Target](chat-sisi.png)
+
+**Adaptasi Kalimat Berdasarkan Umpan Balik:**  
+Tanggapan dari Sisi dan Theo pada bukti tangkapan layar mengonfirmasi pemahaman tim terhadap perubahan *deadline* ke tanggal 19 Agustus. Pertanyaan dan konfirmasi lanjutan dari tim memicu penjelasan adaptif bahwa revisi draf bersifat opsional, sehingga tim dapat menyepakati alur *submission* tanpa kebingungan.
 
 ## Analisis dan batas
 
@@ -52,8 +57,8 @@ AI dimanfaatkan untuk memeriksa apakah kelima versi tetap konsisten mempertahank
 |---|---:|---|
 | Person & Character | 3 | Lima target audiens dibedakan berdasarkan kebutuhan informasi masing-masing |
 | Objective & State | 3 | *Core meaning* perubahan *deadline* dan kelengkapan berkas konsisten di semua versi |
-| Repertoire, Language & AI | 4 | Menggunakan lima variasi *repertoire* dengan justrasi adaptasi dan validasi fakta via AI |
-| Response & Adaptation | 3 | Umpan balik dari Theo menghasilkan penjelasan batas revisi opsional pada draf |
+| Repertoire, Language & AI | 4 | Menggunakan lima variasi *repertoire* dengan justifikasi adaptasi dan validasi fakta via AI |
+| Response & Adaptation | 4 | Artefak screenshot chat bersama Sisi dan Theo menunjukkan loop adaptasi nyata dari pengumuman hingga kesepakatan draf |
 | Agreement, Action & Relationship | 3 | Opsi keputusan tim dan alur finalisasi berkas dinyatakan secara transparan |
 
-**Total: 16/20 — Kompeten.**
+**Total: 17/20 — Kompeten.**
