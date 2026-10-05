@@ -61,4 +61,4 @@ AI dimanfaatkan untuk memeriksa apakah kelima versi tetap konsisten mempertahank
 | Response & Adaptation | 4 | Artefak screenshot chat bersama Sisi dan Theo menunjukkan loop adaptasi nyata dari pengumuman hingga kesepakatan draf |
 | Agreement, Action & Relationship | 3 | Opsi keputusan tim dan alur finalisasi berkas dinyatakan secara transparan |
 
-**Total: 17/20 — Kompeten.**
+**Total: 17/20 — Kompeten.*
