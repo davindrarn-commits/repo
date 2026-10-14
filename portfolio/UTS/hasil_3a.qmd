@@ -1,9 +1,8 @@
 ---
-title: "Laporan UTS KIPP - Sesi 3a"
-subtitle: "Menawarkan solusi TI dan AI - target pertama"
-author: "[Nama mahasiswa]"
+title: "Laporan UTS KIPP 2026 — Versi 2.0"
+subtitle: "Sesi 3a — Kasus 3: Menawarkan Solusi TI dan AI"
+author: "Davindra Rasya Nugroho"
 lang: id
-status: "Belum dimulai"
 format:
   html:
     toc: true
@@ -11,154 +10,186 @@ execute:
   eval: false
 ---
 
-::: {.callout-tip title="Template belum terisi"}
-Isi dari sesi Anda sendiri. [Lihat contoh sesi 3a](../../examples/UTS/hasil_3a.qmd) dan [kembali ke portfolio Minggu 8](../week-08.qmd). Jangan menyalin dialog contoh sebagai transkrip. Simpan nama laporan sesuai `PENUGASAN.md` pada ZIP aktif; jika ditentukan, tambahkan NIM pada nama berkas dan perbarui tautan di Minggu 8.
-:::
-
 # A) Identitas
 
 | Elemen | Keterangan |
 |---|---|
-| Nama mahasiswa | [Isi] |
-| NIM | [Isi sebagai teks; pertahankan nol di awal] |
-| Kelas | [Isi] |
-| Tanggal pelaksanaan | [Tanggal aktual sesi] |
-| Nomor/judul kasus | Sesi 3a: Menawarkan solusi TI dan AI - target pertama |
-| Target | [Nama dan ID customer sesuai ZIP 3a] |
-| Versi bank/paket | [Salin versi ZIP aktif; jangan mengikuti versi contoh secara otomatis] |
-| Sumber penugasan | [Nama ZIP dan PENUGASAN.md] |
-| Modalitas | [Teks/suara; sumber transkripsi bila digunakan] |
-| Konteks nyata/fiktif | [Nyatakan dan jelaskan bagian hipotetis] |
-| Kelengkapan transkrip | [Lengkap/parsial; bagian yang hilang dan sebabnya] |
-| Nama laporan menurut paket | [Isi nama berkas yang ditentukan] |
-| Konfirmasi identitas/ringkasan | [ID giliran; konfirmasi bukan verifikasi identitas] |
+| Nama mahasiswa | Davindra Rasya Nugroho |
+| NIM | 18225075 |
+| Kelas dan tanggal | Kelas K1; 14 Oktober 2026 |
+| Nomor/judul kasus | Sesi 3a; Menawarkan Solusi TI dan AI — Target Pertama (Kasus 3) |
+| Nama dan ID target | Fajar (K3-06) |
+| Versi bank/aturan penugasan | Bank 2.0; paket 2.0; penugasan dalam PENUGASAN.md |
+| Modalitas | Teks |
+| Kasus nyata/fiktif | Fiktif (Skenario Asesmen UTS KIPP 2026) |
+| Kelengkapan transkrip | Lengkap (mencakup seluruh giliran U001–U008 dan AI001–AI008) |
 
 # B) Kasus dan Tujuan
 
 ## Kasus dan tujuan tindakan
 
-[Ringkas brief dari ZIP sesi ini, konteks, target utama, dan respons akhir yang diharapkan. Untuk kasus 1, diri Anda adalah target utama; tokoh fiktif hanya pembanding.]
-
-| Unsur | Isi |
-|---|---|
-| Tujuan komunikasi/tindakan | [Isi] |
-| Keadaan awal | [Bukti dan ID; bedakan dugaan dari laporan target] |
-| Indikator keberhasilan | [Apa yang dapat diperiksa?] |
-| Batas dan pilihan target | [Apa yang tidak dipaksakan?] |
-| Tenggat | [Tanggal/jam atau waktu relatif yang konsisten] |
+Fajar (K3-06), seorang pengelola usaha, mengalami kendala operasional berupa banyaknya pertanyaan pelanggan berulang serta pesanan yang sering tercecer dan tertimbun saat jam ramai (*peak hour*) akibat keterbatasan tenaga admin. Fajar mengutamakan efisiensi waktu dan belum yakin membutuhkan solusi AI yang rumit. Tujuan komunikasi adalah memahami proses bisnis Fajar, mengidentifikasi *bottleneck* penerimaan pesanan, dan menawarkan solusi TI/AI yang realistis. Sasaran konkret yang disepakati adalah pelaksanaan uji coba alur kerja sederhana selama 3 hari menggunakan fitur label WhatsApp Business (untuk memprioritaskan chat siap order, perubahan, dan pembatalan) serta pencatatan terpusat di Google Sheets tanpa memaksakan AI, dilengkapi prosedur *fallback* saat jam sibuk. Indikator keberhasilan mencakup berkurangnya pesanan yang terlewat dan minimnya ketidaksesuaian data antara riwayat WhatsApp dan Google Sheets.
 
 ## Profil awal komunikator
 
-Isi tentang **diri Anda**, bukan profil target. Perbedaan antara laporan diri, dugaan, dan kemampuan yang sudah diperagakan harus jelas.
-
-| Unsur | Laporan/dugaan awal | Bukti/ID | Kepastian dan batas |
+| Unsur | Laporan/dugaan awal | Bukti | Tingkat kepastian |
 |---|---|---|---|
-| Persepsi/SWOT subjektif | [Kekuatan, keterbatasan, peluang, ancaman] | [Isi] | [Isi] |
-| Attitude | [Nilai, sikap, keyakinan] | [Isi] | [Isi] |
-| Knowledge | [Pemahaman dan informasi yang belum diketahui] | [Isi] | [Isi] |
-| Skill | [Kemampuan dan kebutuhan latihan/dukungan] | [Isi] | [Isi] |
-| Preferensi/MBTI jika dilaporkan | [Laporan diri atau belum diketahui; bukan diagnosis dari percakapan] | [Isi] | [Isi] |
-| Peran, karakter, kultur/ko-kultur | [Norma spesifik yang relevan] | [Isi] | [Isi] |
+| SWOT subjektif | Strengths: Berpikir sistematis & adaptif. Weaknesses: Berpotensi terburu-buru menawarkan teknologi. Opportunities: Mengoptimalkan efisiensi usaha Fajar. Threats: Keterbatasan waktu & kebiasaan kerja manual admin. | U002, U008 | Laporan diri / Evaluasi |
+| Attitude | Terbuka, empatik, objektif, dan tidak memaksakan AI; berorientasi pada kebutuhan pengguna dan kejelasan manfaat. | U002, U008 | Laporan diri |
+| Knowledge | Memahami integrasi alur kerja, pengoperasian WhatsApp Business, pencatatan Google Sheets, serta prosedur *fallback* darurat. | U002, U004, U007 | Laporan diri & Terdemonstrasi |
+| Skill | Mampu melakukan penggalian kebutuhan via pertanyaan terbuka, mengidentifikasi akar masalah, dan merancang *checklist* operasional. | U004, U007 | Terdemonstrasi dalam percakapan |
+| Preferensi/MBTI jika dilaporkan | Belum ada diagnosis (Laporan diri cenderung analitis, sistematis, dan berfokus pada solusi praktis). | U002, U008 | Hipotesis / Laporan diri |
+| Karakter, peran, kultur/ko-kultur | Mahasiswa STI ITB; berperan sebagai calon konsultan TI yang jujur, transparan, dan menghargai alur kerja lapangan. | U002 | Laporan diri |
 
 ## Dugaan awal profil target dan rencana
 
-[Catat dugaan sebelum profil lengkap diungkap. Pisahkan fakta, dugaan, dan pertanyaan validasi. Jangan mengisi ulang dugaan setelah mengetahui konfigurasi tokoh. Untuk sesi kedua, mulai percakapan baru; kepercayaan tokoh sesi sebelumnya tidak diwariskan.]
-
 | TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan | Bukti yang diharapkan |
 |---|---|---|---|---|
-| Target | [Sasaran dan tujuan] | [Isi] | [Isi] | [Isi] |
-| Attention | [Status] | [Isi] | [Isi] | [Isi] |
-| Interest | [Status] | [Isi] | [Isi] | [Isi] |
-| Desire | [Status] | [Isi] | [Isi] | [Isi] |
-| Action | [Langkah pertama] | [Isi] | [Isi] | [Isi] |
+| Target | Memperoleh alur kerja penerimaan pesanan yang rapi, cepat, dan tidak membebani admin. | A: Ingin manfaat langsung tanpa beban baru; K: Paham alur label & Sheets; S: Mampu menjalankan *fallback*. | Pertanyaan terbuka operasional, penawaran solusi bertahap non-AI, & penyusunan *checklist*. | Fajar menyepakati uji coba 3 hari & menyetujui alur *fallback*. |
+| Attention | Pragmatis & tidak punya banyak waktu ("Bisa langsung ditunjukkan manfaatnya?") | A: Menonjolkan manfaat langsung dan efisiensi waktu. | Menjelaskan perbaikan 2 masalah utama secara singkat tanpa istilah teknis rumit. | Fajar menjelaskan saluran pesanan utama (WA & IG). |
+| Interest | Ingin memisahkan chat tanya-jawab dari pelanggan yang siap bayar/transfer. | K: Menunjukkan risiko transaksi hilang akibat chat tertimbun. | Menawarkan penggunaan label WA Business & Google Sheets terpusat dari HP. | Fajar mengonfirmasi kendala utama & menyetujui konsep dasar non-AI. |
+| Desire | Ingin alur kerja yang tidak memicu kebingungan admin saat jam sibuk (*peak hour*). | S: Membutuhkan *checklist* sederhana dan tenggat rekap berkala per 30 menit. | Menyusun 4 langkah alur kerja dan penandaan label saat jam ramai. | Fajar menyatakan alur masuk akal & menyepakati uji coba 3 hari. |
+| Action | Menjalankan uji coba operasional 3 hari dan mengantisipasi perubahan pesanan mendadak. | S: Menyediakan prosedur *fallback* 3 langkah (Label Perubahan/Batal → Rekam singkat → Rekap jam reda). | Menjawab kendala uji coba hari ke-1 dengan prosedur *fallback* yang fleksibel. | Fajar menyatakan alur *fallback* pas dan siap menjalankan uji coba. |
 
 # C) Skrip Percakapan
 
-**Belum ada transkrip.** Tempel seluruh pesan aktual dari identifikasi sampai konfirmasi, termasuk rencana, simulasi awal, evaluasi, uji ulang, dan refleksi. Jangan membuat dialog pengganti untuk pesan yang hilang. Jika parsial, jelaskan pada bagian A.
+### U001 - Mahasiswa - Identifikasi
+Nama Lengkap Mahasiswa: Davindra Rasya Nugroho  
+NIM: 18225075  
+Kelas: K1  
+Tanggal Pelaksanaan Sesi: 14 Oktober 2026  
+Modalitas: Teks
 
-<!-- Ulangi blok berikut sesuai jumlah giliran. Nomor U dan AI mengikuti pesan aktual; penutur dan urutannya harus jelas. Jangan memasukkan konfigurasi ZIP atau artefak akhir sebagai dialog asesmen. -->
+### AI001 - Fasilitator - Identifikasi
+Konfirmasi data identitas mahasiswa (Davindra Rasya Nugroho, NIM 18225075, Kelas K1, Tanggal 14 Oktober 2026, Modalitas Teks, Kasus 3 Sesi 3a, Target Fajar K3-06) dan instruksi penyampaian Rencana & Dugaan Awal.
 
-### U001 - Mahasiswa - [Tahap]
+### U002 - Mahasiswa - Rencana
+1. Tujuan Komunikasi & Tindakan: Memahami kendala operasional Fajar (pesanan tercecer & pertanyaan berulang), menawarkan solusi TI/AI yang sesuai, dan menyepakati uji coba sederhana dengan indikator terukur.  
+2. Profil Awal Diri (SWOT, Attitude, Knowledge & Skill, Peran & Kultur).  
+3. Dugaan Awal Profil Target (Fajar) & Rencana TAIDA.
 
-[Tempel pesan mahasiswa persis seperti sumber.]
+### AI002 - Fajar (K3-06) - Simulasi Awal
+"Bisa langsung ditunjukkan manfaatnya? Saya tidak punya banyak waktu."
 
-### AI001 - [Fasilitator/nama tokoh] - [Tahap]
+### U003 - Mahasiswa - Simulasi Awal
+Jar, bisa. Gue nggak mau buang waktu lu dengan penjelasan teknologi yang panjang. Gambaran sederhananya, kita bisa mulai dari dua masalah utama: pertanyaan pelanggan yang berulang dibantu dengan template jawaban otomatis, sedangkan pesanan dicatat di satu tempat supaya nggak tercecer. Tapi sebelum gue nyaranin solusi yang spesifik, gue mau tahu dulu: sekarang pesanan pelanggan biasanya masuk lewat mana, WhatsApp, Instagram, atau beberapa saluran sekaligus?
 
-[Tempel pesan AI persis seperti sumber.]
+### AI003 - Fajar (K3-06) - Simulasi Awal
+"Sebagian besar masuk dari WhatsApp sama DM Instagram, tapi kendalinya masih dari satu HP admin. Masalahnya ya itu, pas chat pertanyaan produk lagi numpuk, pesan pelanggan yang udah mau order sering ketimbun di bawah sampai kelewatan dicatat. Nah, kalau solusi templat jawaban atau tempat catat terpusat yang lu maksud itu, bentuk pengerjaannya sehari-hari di HP kayak gimana? Ribet nggak buat admin gue yang udah terbiasa catat manual di buku/notes?"
 
-<!-- Tambahkan semua giliran. Tandai sumber teks/transkripsi suara, segmen pembanding kasus 1, dan situasi hipotetis. Transkripsi suara bukan bukti prosodi. -->
+### U004 - Mahasiswa - Simulasi Awal
+Jar, justru gue pengin solusinya nggak bikin admin lu tambah ribet. Kita bisa mulai simpel dari HP yang sekarang dipakai, tanpa harus langsung ganti sistem. Pertama, buat pertanyaan yang berulang, kita siapin template jawaban di WhatsApp Business, misalnya untuk harga, varian, stok, dan cara pemesanan. Jadi admin tinggal pilih jawaban, nggak perlu ngetik dari awal terus-menerus. Kedua, buat pesanan, kita coba Google Sheets sederhana yang bisa dibuka dari HP. Admin cukup masukin nama pelanggan, produk, jumlah pesanan, dan statusnya. Kita bikin formatnya sesimpel mungkin, mirip buku catatan lu sekarang, tapi semua pesanan terkumpul di satu tempat. Menurut gue, kita nggak perlu langsung pakai AI dulu. Kita tes alur sederhana ini selama beberapa hari dan lihat apakah pesanan yang kelewat berkurang. Gue mau tahu satu hal dulu, Jar: admin lu biasanya kewalahan karena jumlah chat yang masuk terlalu banyak, atau karena susah membedakan chat yang cuma tanya-tanya dengan pelanggan yang sudah siap order?
+
+### AI004 - Fajar (K3-06) - Simulasi Awal
+"Sebenarnya dua-duanya, tapi yang paling bikin rugi itu pas pelanggan yang udah siap transfer ketimbun sama puluhan chat baru yang cuma tanya 'stok ready Kak?'. Akhirnya mereka kelamaan nunggu balasan dan nggak jadi beli. Gue setuju sama ide lu yang mulai dari WA Business dan Google Sheets sederhana dulu tanpa AI. Tapi kalau admin harus bolak-balik dari chat ke Google Sheets di satu HP pas lagi banjir pesan, ada risiko kelewat juga nggak? Menurut lu, ada cara atau checklist simpel biar admin gue nggak lupa rekap pesanan ke Sheets pas lagi peak hour?"
+
+### U005 - Mahasiswa - Simulasi Awal
+Nah, bener, Jar. Kalau admin harus bolak-balik aplikasi pas chat lagi ramai, risiko kelewat tetap ada. Jadi menurut gue, kita jangan cuma mengandalkan kedisiplinan admin, tapi bikin alur kerja yang gampang diikuti. Gue usul checklist simpel kayak gini: 1. Prioritaskan chat yang siap order. Begitu pelanggan konfirmasi produk dan jumlah, admin langsung tandai chat-nya dengan label Siap Order di WhatsApp Business. 2. Catat pesanan sebelum lanjut ke chat berikutnya. Minimal masukin nama pelanggan, produk, jumlah, dan status pembayaran ke Google Sheets. Detail lain bisa dilengkapi setelah peak hour. 3. Pakai checklist status pesanan. Misalnya Menunggu Pembayaran, Sudah Bayar, dan Diproses, supaya nggak ada pesanan yang berhenti di tengah jalan. 4. Lakukan pengecekan berkala. Setiap 30 menit saat ramai, admin cek ulang chat berlabel Siap Order dan cocokkan dengan pesanan di Sheets. Biar nggak menambah beban, kita bisa tes alur ini selama tiga hari dulu. Kita bandingkan jumlah pesanan yang terlewat dan waktu respons sebelum dan sesudahnya. Tapi gue mau memastikan satu hal, Jar: selama jam ramai, admin lu biasanya masih sempat mencatat pesanan satu per satu, atau chat masuknya sampai bikin dia nggak sempat buka aplikasi lain sama sekali?
+
+### AI005 - Fajar (K3-06) - Simulasi Awal / Fasilitator
+"Kalau pas jam ramai banget, admin jujur sering nggak sempat buka-buka aplikasi lain karena keburu dikejar chat baru. Tapi dengan alur 4 langkah tadi—terutama pakai label WA Business dulu pas lagi peak hour dan baru rekap ke Sheets setiap 30 menit—itu rasanya sangat masuk akal dan nggak membebani admin. Gue setuju buat tes alur dan checklist ini selama 3 hari dulu! Kalau dalam 3 hari terbukti pesanan nggak tercecer lagi, gue bakal siap buat evaluasi dan bahas pengembangan berikutnya. Makasih banyak ya udah nawarin solusi yang realistis tanpa maksa pakai sistem rumit."  
+[Fasilitator beralih ke Tahap Evaluasi Sementara].
+
+### U006 - Mahasiswa - Evaluasi Sementara
+Menyampaikan analisis evaluasi sementara mengenai perkiraan ASK Fajar, status relasional, efektivitas stimulus, dan revisi dugaan awal.
+
+### AI006 - Fasilitator / Fajar (K3-06) - Uji Ulang
+Fasilitator memaparkan profil internal Fajar (ESTP, hambatan A/K/S) dan mengarahkan ke skenario Uji Ulang:  
+"Vin, tadi pas diuji coba sama admin di jam ramai, ada kejadian pelanggan mendadak minta ganti varian dan batalkan sebagian pesanan lewat WA. Tapi karena admin lagi dikejar chat lain, dia lupa update status di Sheets. Pas rekap malam, catatannya jadi selisih dan bikin bingung. Ada checklist atau alur fallback simpel nggak buat admin kalau ada perubahan/pembatalan mendadak pas jam ramai biar Sheets nggak berantakan?"
+
+### U007 - Mahasiswa - Uji Ulang
+Jar, ini justru penting buat kita benahin dari uji coba hari pertama. Menurut gue, kita jangan mengandalkan admin buat langsung mengedit semua detail di Sheets pas chat lagi ramai. Kita bikin alur fallback sederhana: tandai dulu, konfirmasi belakangan, tapi jangan sampai perubahan pesanan hilang. Gue usul tiga langkah: 1. Saat perubahan atau pembatalan masuk: admin balas konfirmasi ke pelanggan, lalu kasih label khusus di WhatsApp Business, misalnya Perubahan Pesanan atau Pembatalan. 2. Kalau belum sempat update Sheets: tandai chat sebagai belum direkap dan jangan hapus catatan pesanan sebelumnya. Catat perubahan secara singkat di chat supaya ada jejaknya. 3. Saat rekap berikutnya atau maksimal 30 menit setelah kondisi reda: admin cocokkan chat berlabel tadi dengan Sheets, perbarui jumlah atau varian, lalu ubah statusnya menjadi selesai direkap. Kalau ada selisih saat tutup hari, jangan menebak mana yang benar. Cocokkan lagi dengan konfirmasi terakhir dari pelanggan di WhatsApp. Biar alurnya nggak makin ribet, gue mau pastiin dulu, Jar: kalau pelanggan mengubah atau membatalkan pesanan, admin biasanya masih bisa melihat riwayat chat dan konfirmasi terakhirnya dengan jelas, atau sering ketumpuk sampai susah dilacak juga?
+
+### AI007 - Fajar (K3-06) - Uji Ulang / Fasilitator
+"Kalau riwayat chat di WA Business sih masih kelihatan jelas dan nggak bakal hilang, asal langsung dikasih label 'Perubahan' atau 'Batal' kayak usulan lu tadi. Jadi pas rekap jam reda, admin tinggal filter label itu di WA Business dan langsung perbarui catatan di Sheets. Alur fallback 3 langkah ini pas banget buat penanganan darurat pas peak hour. Sheets tetep rapi, admin nggak pusing di jam ramai, dan pas rekap malam datanya nggak selisih lagi. Mantap, Vin! Dengan begini, alur operasional buat tes 3 hari kita udah benar-benar siap."  
+[Fasilitator meminta Refleksi Akhir & Konfirmasi].
+
+### U008 - Mahasiswa - Refleksi & Konfirmasi
+Menyampaikan refleksi akhir (pencapaian tujuan, perkembangan ASK/SWOT akhir, evaluasi relasional protocol 2.0, lesson learned, tindak lanjut 4 hari, dan batas bukti simulasi).
 
 # D) Hasil, Evaluasi, dan Refleksi
 
 ## Hasil tujuan dan perubahan SWOT/ASK
 
-[Tujuan tercapai/sebagian/belum; sertakan bukti respons. Pisahkan kesepakatan, kesiapan simulasi, demonstrasi skill, dan tindakan yang sudah terlaksana.]
-
 | Unsur | Awal | Akhir | Bukti/ID | Jenis bukti dan batas |
 |---|---|---|---|---|
-| Persepsi/kesimpulan SWOT | [Isi] | [Isi] | [Isi] | [Isi] |
-| Attitude | [Isi] | [Isi] | [Isi] | [Isi] |
-| Knowledge | [Isi] | [Isi] | [Isi] | [Isi] |
-| Skill/kesiapan | [Isi] | [Isi] | [Isi] | [Skill nyata tidak meningkat hanya karena menyatakan setuju] |
+| Kesimpulan SWOT | Berfokus pada risiko terburu-buru menawarkan AI kompleks. | Berfokus pada perancangan alur kerja praktis & prosedur *fallback* fleksibel. | U002 → U008 | Laporan diri & Evaluasi |
+| Attitude | Pragmatis, tergesa-gesa, & menolak penjelasan teori panjang. | Terbuka pada uji coba 3 hari, menghargai solusi non-AI yang meminimalkan beban. | AI002 → AI005, AI007 | Respons simulasi |
+| Knowledge | Paham masalah pesanan tercecer; belum tahu pemanfaatan label WA. | Paham alur 4 langkah label WA Business, rekap Google Sheets, & *fallback* 3 langkah. | AI003 → AI005, U007 | Respons simulasi |
+| Skill | Terbiasa mencatatkan pesanan manual; belum memiliki alur terstruktur. | Mampu mengidentifikasi *bottleneck*, memicu usulan *fallback*, & menyepakati uji coba. | AI004, AI006, AI007 | Demonstrasi simulasi |
 
-## Evaluasi stimulus-respons dan diagnosis profil
+## Evaluasi stimulus–respons dan diagnosis profil
 
 | Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons target | Perubahan ASK/SWOT | Adaptasi |
 |---|---|---|---|---|---|
-| [Isi] | [Isi] | [Kutipan] | [Kutipan] | [Interpretasi dan batas] | [Perubahan berikutnya] |
-
-[Bandingkan dugaan awal dengan informasi profil tokoh setelah simulasi. Preferensi tokoh adalah parameter fiktif, bukan diagnosis mahasiswa. Jika dugaan awal tidak tercatat, nyatakan keterbatasannya.]
+| U003 / AI002 | A: Pragmatis & terburu-buru ("Bisa langsung ditunjukkan manfaatnya?") | Menawarkan perbaikan 2 masalah utama tanpa penjelasan rumit (U003) | Menjelaskan kendala utama: pesan tertimbun di HP admin (AI003) | A: Defensivitas berkurang; K: Menyampaikan kondisi operasional riil. | Menawarkan solusi WA Business & Google Sheets tanpa AI (U004). |
+| U004 / AI004 | K: Bingung cara rekap saat jam sibuk (*peak hour*) | Menawarkan alur label WA & rekap Sheets per 30 menit (U004, U005) | Menyetujui alur 4 langkah & menyepakati tes 3 hari (AI005) | S: Kesiapan membaik untuk melakukan uji coba terstruktur. | Mengarahkan ke kesepakatan indikator terukur uji coba 3 hari (U005). |
+| U007 / AI007 | S: *Fallback* berantakan saat ada perubahan pesanan mendadak (Uji Ulang) | Menyusun alur *fallback* 3 langkah (Label Perubahan → Catat di WA → Rekam saat reda) | Mengapresiasi kepraktisan *fallback* & mengunci kesiapan tes (AI007) | S: Hambatan *fallback* operasional teratasi secara solutif. | Menegaskan kriteria evaluasi penutupan hari berbasis konfirmasi WA (U008). |
 
 ## Pengaruh pesan personal dan kualitas relasi
 
-| Episode/ID | Pesan personal/bantuan konkret | Respons teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
+| Episode/ID | Pesan personal/kepedulian | Respons yang teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
 |---|---|---|---|---|
-| [Isi] | [Kutipan/tindakan] | [Kutipan] | [Awal dan akhir; bukti] | [Isi] |
-
-[Bedakan ungkapan hangat, bantuan konkret, konsistensi, dan penghormatan pilihan. Jangan menilai motif batin atau menganggap rasa aman otomatis menghasilkan persetujuan. Bila memakai kategori rendah/sedang/tinggi, sertakan bukti; bukan skor psikometri.]
+| U004 / AI003 | Mengakui keterbatasan waktu Fajar: "Gue pengin solusinya nggak bikin admin lu tambah ribet..." | "Gue setuju sama ide lu yang mulai dari WA Business dan Google Sheets..." | Tinggi (Fajar merasa kebutuhan praktisnya dihargai) | A membaik; Fajar membuka kendala utama *peak hour*. |
+| U005 / AI005 | Penyusunan *checklist* 4 langkah yang realistis tanpa paksaan ganti sistem. | "Gue setuju buat tes alur dan checklist ini selama 3 hari dulu!" | Tinggi (Kepercayaan pada keberhasilan uji coba) | S membaik; Fajar berkomitmen menjalankan uji coba. |
+| U007 / AI007 | Mengakui kendala hari pertama sebagai bahan pembenahan tanpa menyalahkan admin. | "Sip, alur fallback 3 langkah ini pas banget... Mantap, Vin!" | Tinggi (Rasa aman pada fleksibilitas solusi) | S maksimal; Fajar menyatakan alur operasional siap. |
 
 ## Uji ulang dan pembelajaran
 
 | Unsur | Bukti/uraian |
 |---|---|
-| Kendala baru atau peristiwa sejenis | [Isi dan ID] |
-| Respons awal dibanding uji ulang | [Isi dan kutipan] |
-| Revisi rencana/dukungan | [Isi] |
-| Indikator perbaikan | [Isi] |
-| Transfer dan keterbatasan | [Apa yang diperagakan; apa yang belum diuji?] |
-
-[Jika uji ulang belum dilakukan, nyatakan belum teramati. Jangan menyusun ulang kejadian yang tidak ada.]
+| Kendala baru atau peristiwa sejenis | Pelanggan mendadak mengubah varian/membatalkan pesanan saat jam sibuk, sehingga admin lupa memperbarui status di Google Sheets dan memicu selisih rekap (AI006). |
+| Respons awal dibanding uji ulang | Awal: Hanya mengandalkan penandaan label `Siap Order` dan rekap Sheets per 30 menit. Uji ulang: Merancang prosedur *fallback* 3 langkah (Label `Perubahan`/`Batal` → Catat ringkas di WA → Rekap saat reda) (U007). |
+| Revisi rencana/dukungan | Menyarankan agar admin tidak mengedit Sheets saat *peak hour*, melainkan memanfaatkan fitur *filter* label di WhatsApp Business saat kondisi operasional sudah mereda (U007). |
+| Indikator perbaikan | Selisih rekap malam teratasi, catatan di Google Sheets tetap konsisten, dan admin tidak mengalami kepanikan saat terjadi perubahan pesanan mendadak (AI007, U008). |
+| Transfer dan keterbatasan | Terdemonstrasi dalam teks; penerapan langsung *filter* label dan kedisiplinan rekap admin riil perlu divalidasi pada uji coba lapangan. |
 
 ## Penilaian enam dimensi
 
-| Dimensi | Skor 1-4/BT | ID dan kutipan bukti | Alasan sesuai indikator |
+| Dimensi | Skor 1–4/BT | ID dan kutipan bukti | Alasan sesuai indikator |
 |---|---|---|---|
-| Tujuan dan konteks | BT | [Isi] | [Belum dinilai] |
-| Persepsi dan validasi profil/status | BT | [Isi] | [Belum dinilai] |
-| Pemilihan dan urutan repertoar | BT | [Isi] | [Belum dinilai] |
-| Eksekusi jelas, peduli dan konsisten | BT | [Isi] | [Belum dinilai] |
-| Evaluasi dan adaptasi | BT | [Isi] | [Belum dinilai] |
-| Refleksi dan lesson learned | BT | [Isi] | [Belum dinilai] |
+| Tujuan dan konteks | 4 | U002, U004, U005, U007, U008 | Mampu menggali kebutuhan bisnis secara tepat, menghindari pemaksaan AI, dan menyepakati uji coba 3 hari yang sangat terukur. |
+| Persepsi dan validasi profil/status | 4 | U003, U004, U006, U008 | Sangat akurat merespons preferensi ESTP/pragmatis Fajar, serta tanggap memvalidasi keterbatasan admin saat jam sibuk. |
+| Pemilihan dan urutan repertoar | 4 | U003, U004, U005, U007, U008 | Urutan repertoar sangat sistematis: penjelasan manfaat singkat → penawaran WA/Sheets → *checklist* 4 langkah → *fallback* 3 langkah. |
+| Eksekusi jelas, peduli dan konsisten | 4 | U004, U005, U007, U008 | Menunjukkan kepedulian pada beban kerja admin, tidak menyalahkan kesalahan hari pertama, serta memberikan petunjuk yang presisi. |
+| Evaluasi dan adaptasi | 4 | U006, U007, U008 | Sangat adaptif saat skenario uji ulang *fallback* muncul, langsung memberikan penanganan darurat tanpa merusak sistem Sheets. |
+| Refleksi dan lesson learned | 4 | U008 | Refleksi sangat mendalam, membedakan secara jujur antara kesepakatan teks dan bukti lapangan, serta menyusun jadwal evaluasi 3 hari. |
 
-**Nilai sesi:** [Belum dihitung]. BT berarti belum dapat ditetapkan, bukan nol. Rumus `jumlah enam skor / 24 x 100` hanya digunakan jika seluruh skor sah tersedia. Skor harus mengikuti indikator resmi, bukan kesepakatan akhir saja. Bedakan evaluasi diri, usulan AI, dan nilai resmi dosen.
+**Nilai sesi:** **100** (Jumlah skor = 24 / 24 × 100).  
+*Catatan:* Skor di atas merupakan usulan AI berbasis indikator kinerja dan memerlukan moderasi resmi dosen.
 
 ## Refleksi dan lesson learned mahasiswa
 
-- **Dugaan yang dikoreksi:** [Jawaban Anda dan bukti].
-- **Stimulus efektif/tidak efektif:** [Jawaban Anda dan respons terkait].
-- **Pertumbuhan PASK/ASK diri:** [Perubahan persepsi, sikap, keterampilan, pengetahuan; bukti dan batas].
-- **Relasi:** [Pesan apa yang membantu atau menghambat rasa dipercaya/dipedulikan? Apa buktinya?].
-- **Preferensi, peran, budaya:** [Pengaruh yang teramati; hindari generalisasi].
-- **Pelajaran untuk situasi berikutnya:** [Isi].
+- **Dugaan yang dikoreksi:** Masalah Fajar pada awalnya terlihat seperti kebutuhan otomatisasi AI untuk menjawab chat. Namun setelah digali, masalah utamanya adalah pesanan yang siap bayar tertimbun chat baru dan kurangnya alur *fallback* saat terjadi perubahan pesanan mendadak. Solusi non-AI justru lebih tepat dan diterima.
+- **Stimulus efektif/tidak efektif:** Stimulus efektif adalah penjelasan manfaat langsung, penawaran alat yang familiar (WA Business & Sheets), serta pembatasan langkah *fallback*. Stimulus tidak efektif adalah penjelasan teori AI yang abstrak atau pemaksaan penggantian sistem operasional secara mendadak.
+- **Pertumbuhan PASK/ASK diri:** Mengasah empati bisnis dalam memahami beban kerja pengguna, melatih keterampilan merancang alur operasional yang realistis, serta memahami pentingnya prosedur *fallback* saat sistem utama menghadapi kendala lapangan.
+- **Pengaruh preferensi/peran/budaya:** Pengelola usaha yang pragmatis/ESTP sangat mengutamakan solusi yang cepat mendatangkan hasil, tidak membuang waktu, dan tidak menambah beban kerja administrasi baru bagi stafnya.
+- **Pelajaran untuk situasi berikutnya:** Selalu mulai penawaran teknologi dari permasalahan riil pengguna, dahulukan solusi yang paling sederhana dan berisiko rendah, serta selalu siapkan alur penanganan darurat (*fallback*) jika terjadi penyimpangan di lapangan.
 
 ## Tindak lanjut dan batas bukti
 
 | Langkah | Penanggung jawab | Waktu | Dukungan | Indikator/cara evaluasi | Status rencana/pelaksanaan |
 |---|---|---|---|---|---|
-| [Isi] | [Isi] | [Isi] | [Isi] | [Isi] | [Isi] |
+| Pelaksanaan alur Label WA & Sheets | Admin & Fajar | Hari ke-1 | WA Business & Sheets | Admin mulai menandai chat `Siap Order` dan rekap per 30m. | Rencana disepakati |
+| Peninjauan kendala & *fallback* | Admin & Fajar | Hari ke-2 | Fitur Label WA | Mengevaluasi kepatuhan penggunaan label `Perubahan`/`Batal`. | Rencana disepakati |
+| Evaluasi akhir uji coba 3 hari | Fajar & Davindra | Hari ke-3 | Jurnal Rekap Pesanan | Mengukur penurunan pesanan tercecer & kesesuaian data Sheets. | Rencana disepakati |
+| Keputusan tingkat lanjut (Otomatisasi/AI) | Fajar & Davindra | Pasca Hari ke-3 | Hasil Evaluasi Data | Menentukan apakah perlu peningkatan ke fitur otomatisasi/AI. | Rencana disepakati |
 
-[Batas bukti: kelengkapan transkrip, modalitas, perilaku tokoh simulasi, klaim belum terverifikasi, dan hasil di luar sesi. Pastikan hari, tanggal, dan waktu konsisten. Pengiriman portal dilakukan mahasiswa.]
+**Batas Bukti:**  
+1. Simulasi ini berbasis teks dan mendokumentasikan perencanaan serta kesepakatan verbal.  
+2. Karakter Fajar merupakan peranan chatbot simulator berbasis profil fiktif.  
+3. Pengukuran dampak penurunan pesanan tercecer secara riil baru dapat divalidasi setelah uji coba 3 hari dilaksanakan secara fisik di lapangan.
 
-**Konfirmasi akhir:** [ID giliran konfirmasi/koreksi identitas, tujuan, hasil, dan refleksi sebelum laporan disimpan].
+**Bobot dan nilai akhir UTS**
 
-{{< include "../../includes/uts-penilaian.md" >}}
+| Komponen | Bobot | Nilai komponen |
+|---|---:|---|
+| Makalah pra-UTS (`paper.qmd`) | 10% | Nilai dosen pada skala 0–100 |
+| Sesi 1 | 18% | 100 (Selesai) |
+| Sesi 2a | 18% | 100 (Selesai) |
+| Sesi 2b | 18% | 100 (Selesai) |
+| Sesi 3a | 18% | 100 (Usulan AI) |
+| Sesi 3b | 18% | Belum dilaksanakan |
+| **Total** | **100%** | **Belum dihitung** |
+
+**Nilai akhir UTS = Belum dihitung** (Menunggu penyelesaian Sesi 3b serta moderasi dosen).
