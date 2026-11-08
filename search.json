@@ -1355,18 +1355,51 @@
     "href": "portfolio/week-10.html#konteks-performance",
     "title": "Action & Agreement Challenge",
     "section": "Konteks performance",
-    "text": "Konteks performance\nTanggal dan setting: Ganti dengan tanggal, tempat, dan bentuk kegiatan.\nPersons dan relationship: Jelaskan siapa yang terlibat tanpa membuka data pribadi yang tidak diperlukan.\nObjective dan initial state: Nyatakan perubahan yang ingin dicapai serta evidence state awal.",
+    "text": "Konteks performance\nTanggal dan setting: Pengalaman ini terjadi dalam pengerjaan tugas besar mata kuliah Pengenalan Rekayasa dan Desain (PRD). Setelah asistensi dengan dosen, kelompok kami memutuskan untuk menambahkan perangkat RFID pada prototype sistem presensi. Tahap ini mengubah keinginan membuat sistem yang lebih sulit dimanipulasi menjadi tindakan pengadaan komponen, simulasi, perakitan, dan pengujian.\nPersons dan relationship: Orang-orang yang terlibat adalah saya dan anggota kelompok tugas besar. Saya bertanggung jawab membeli komponen, mengerjakan interface website, dan membantu sebagian coding. Pengerjaan simulasi dan prototype dilakukan sebagai kerja kelompok, tetapi pembagian owner teknis setiap bagian tidak terdokumentasi secara rinci.\nObjective dan initial state: Objective kami adalah menghasilkan prototype RFID yang dapat digunakan bersama website sebelum proyek akhir dipresentasikan. Pada awal tahap ini, kelompok sudah menginginkan solusi hardware–software, tetapi belum ada anggota yang memiliki pengalaman membangun prototype RFID atau mensimulasikannya melalui Wokwi.",
     "crumbs": [
       "Beranda",
       "Action & Agreement Challenge"
     ]
   },
   {
-    "objectID": "portfolio/week-10.html#evidence",
-    "href": "portfolio/week-10.html#evidence",
+    "objectID": "portfolio/week-10.html#desireaction-gap",
+    "href": "portfolio/week-10.html#desireaction-gap",
     "title": "Action & Agreement Challenge",
-    "section": "Evidence",
-    "text": "Evidence\n\nTambahkan link, gambar, video, transcript, artefak, catatan observer, atau bukti tindakan. Jelaskan bagian mana yang merupakan kontribusi Anda.",
+    "section": "Desire–action gap",
+    "text": "Desire–action gap\nKelompok kami sudah memiliki keinginan untuk menambahkan perangkat fisik di kelas, tetapi keinginan tersebut belum langsung menjadi action. Hambatan utamanya adalah keterbatasan pengalaman, ketergantungan pada komponen fisik, serta kegagalan berulang selama pengembangan.\n\n\n\n\n\n\n\n\nBarrier\nPerson dengan authority/responsibility\nRespons\n\n\n\n\nBelum ada anggota yang berpengalaman membangun prototype RFID\nSeluruh kelompok\nBelajar melalui percobaan, simulasi Wokwi, dan pengujian berulang\n\n\nBelum berpengalaman mensimulasikan rangkaian di Wokwi\nSeluruh kelompok\nMencoba menyusun dan memperbaiki simulasi bersama selama proses pengembangan\n\n\nKomponen RFID-RC522 pertama tidak dapat digunakan\nSaya sebagai penanggung jawab pembelian\nMembeli kembali komponen RFID-RC522 sebagai pengganti\n\n\nPrototype beberapa kali gagal bekerja\nSeluruh kelompok\nMemeriksa ulang rangkaian dan coding sampai prototype dapat berjalan\n\n\nInterface dan hardware perlu menjadi satu alur presensi\nSaya pada interface dan bantuan coding; kelompok pada integrasi prototype\nMengembangkan alur agar perangkat RFID mendukung proses pada website\n\n\n\nAuthority dalam pengalaman ini bersifat terbagi. Saya memiliki authority atas tindakan pembelian komponen, sedangkan keputusan teknis dan penyelesaian prototype dilakukan bersama kelompok. Dosen memberikan desired outcome, tetapi tidak menjalankan proses perakitan.",
+    "crumbs": [
+      "Beranda",
+      "Action & Agreement Challenge"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-10.html#options-dan-trade-off",
+    "href": "portfolio/week-10.html#options-dan-trade-off",
+    "title": "Action & Agreement Challenge",
+    "section": "Options dan trade-off",
+    "text": "Options dan trade-off\nKetika RFID-RC522 pertama tidak dapat digunakan, kami menghadapi dua tindakan yang praktis: terus melakukan pemeriksaan pada komponen yang sama atau menggantinya agar proses pengembangan dapat dilanjutkan. Pemeriksaan ulang tidak membutuhkan pembelian baru, tetapi berisiko menghabiskan lebih banyak waktu pada komponen yang tetap tidak berfungsi. Membeli RFID-RC522 baru menambah biaya dan waktu pengadaan, tetapi memberi kelompok kesempatan melanjutkan perakitan dengan komponen pengganti.\nSaya memilih membeli kembali RFID-RC522 agar hambatan komponen tidak menghentikan keseluruhan prototype. Keputusan ini tidak menjamin rangkaian langsung berhasil karena kelompok masih perlu menyelesaikan masalah pada simulasi, wiring, dan coding. Namun, penggantian komponen merupakan langkah yang berada dalam tanggung jawab saya dan dapat segera dilakukan.",
+    "crumbs": [
+      "Beranda",
+      "Action & Agreement Challenge"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-10.html#agreement-dan-pembagian-action",
+    "href": "portfolio/week-10.html#agreement-dan-pembagian-action",
+    "title": "Action & Agreement Challenge",
+    "section": "Agreement dan pembagian action",
+    "text": "Agreement dan pembagian action\nAgreement operasional yang dapat dibuktikan dari proses kelompok adalah sebagai berikut:\n\n\n\n\n\n\n\nElemen\nAgreement\n\n\n\n\nScope\nMembuat prototype RFID fisik yang mendukung alur presensi pada website\n\n\nOwner\nSaya membeli komponen, mengembangkan interface, dan membantu coding; proses simulasi, perakitan, dan pengujian diselesaikan bersama kelompok\n\n\nWaktu\nPrototype diselesaikan pada tahap pengerjaan tugas besar sebelum demonstrasi akhir proyek; tanggal internal yang lebih spesifik tidak terdokumentasi\n\n\nDependency\nPerakitan fisik bergantung pada tersedianya komponen RFID-RC522 yang berfungsi, sedangkan integrasi website bergantung pada hasil pembacaan perangkat\n\n\nReview\nKelompok memeriksa prototype melalui percobaan berulang sampai rangkaian akhir dapat berjalan\n\n\n\nAgreement ini menghasilkan action nyata, tetapi belum sekuat agreement tertulis yang mencantumkan owner setiap bagian dan deadline harian. Sebagian koordinasi berlangsung selama proses pengerjaan, sehingga dokumentasi pembagian tanggung jawab masih terbatas.",
+    "crumbs": [
+      "Beranda",
+      "Action & Agreement Challenge"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-10.html#action-evidence-dan-adaptation",
+    "href": "portfolio/week-10.html#action-evidence-dan-adaptation",
+    "title": "Action & Agreement Challenge",
+    "section": "Action evidence dan adaptation",
+    "text": "Action evidence dan adaptation\nSaya menjalankan tanggung jawab pembelian komponen. Ketika RFID-RC522 pertama tidak dapat digunakan, saya membeli komponen pengganti. Selama pengerjaan, prototype beberapa kali gagal. Kelompok melanjutkan proses pemeriksaan dan perbaikan sampai rangkaian akhirnya dapat berjalan dengan lancar.\nAdaptasi terpenting bukan hanya perubahan bahasa atau rencana, melainkan tindakan mengganti komponen yang menghambat pengerjaan dan mengulangi proses pengujian. Hasil akhirnya adalah rangkaian prototype fisik yang terdiri dari reader RFID, kartu, display, breadboard, controller, dan koneksi antarkomponen.\n\nFoto berikut menunjukkan prototype akhir yang berhasil dirakit setelah penggantian RFID-RC522 dan beberapa kali percobaan. Evidence ini membuktikan adanya action nyata, bukan hanya intention untuk menambahkan hardware.\n\n\n\nPrototype akhir perangkat RFID untuk mendukung sistem presensi berbasis website.\n\n\nKontribusi saya adalah membeli komponen, mengganti RFID-RC522 yang tidak dapat digunakan, membuat interface website, dan membantu sebagian coding. Evidence dapat diperkuat lebih lanjut dengan screenshot chat pembagian tugas, bukti pembelian yang telah disensor, atau dokumentasi hasil pengujian.",
     "crumbs": [
       "Beranda",
       "Action & Agreement Challenge"
@@ -1377,18 +1410,7 @@
     "href": "portfolio/week-10.html#analisis-komunikasi",
     "title": "Action & Agreement Challenge",
     "section": "Analisis komunikasi",
-    "text": "Analisis komunikasi\n\n\n\nElemen\nEvidence dan analisis\n\n\n\n\nPerson & character\nGanti dengan analisis Anda.\n\n\nObjective & state\nGanti dengan analisis Anda.\n\n\nRepertoire & language\nGanti dengan analisis Anda.\n\n\nResponse & adaptation\nGanti dengan analisis Anda.\n\n\nAgreement/action\nGanti dengan analisis Anda.\n\n\nRelationship outcome\nGanti dengan analisis Anda.",
-    "crumbs": [
-      "Beranda",
-      "Action & Agreement Challenge"
-    ]
-  },
-  {
-    "objectID": "portfolio/week-10.html#penggunaan-ai",
-    "href": "portfolio/week-10.html#penggunaan-ai",
-    "title": "Action & Agreement Challenge",
-    "section": "Penggunaan AI",
-    "text": "Penggunaan AI\nNyatakan Tidak menggunakan AI atau jelaskan:\n\nalat dan peran AI;\nprompt atau instruksi penting;\nbagian output yang digunakan, diubah, atau ditolak;\npemeriksaan accuracy, privacy, dan authority;\napa yang tetap Anda pelajari sebagai manusia.",
+    "text": "Analisis komunikasi\n\n\n\n\n\n\n\nElemen\nEvidence dan analisis\n\n\n\n\nPerson & character\nTanggung jawab saya ditentukan berdasarkan kebutuhan kelompok, terutama pengadaan komponen serta kontribusi pada interface dan coding.\n\n\nObjective & state\nKelompok berpindah dari keinginan menambahkan hardware menuju tindakan membeli, merakit, dan menguji prototype.\n\n\nRepertoire & language\nKoordinasi dilengkapi dengan simulasi, percobaan fisik, dan pemeriksaan hasil, bukan hanya diskusi mengenai rencana.\n\n\nResponse & adaptation\nKegagalan RFID-RC522 direspons dengan pembelian komponen pengganti. Kegagalan prototype direspons melalui percobaan dan perbaikan berulang.\n\n\nAgreement/action\nScope dan tindakan utama tercapai, tetapi owner teknis lain serta deadline rinci belum terdokumentasi secara eksplisit.\n\n\nRelationship outcome\nKelompok tetap melanjutkan pekerjaan meskipun belum berpengalaman dan mengalami beberapa kegagalan sampai prototype berjalan.",
     "crumbs": [
       "Beranda",
       "Action & Agreement Challenge"
@@ -1399,7 +1421,7 @@
     "href": "portfolio/week-10.html#feedback-dan-tindak-lanjut",
     "title": "Action & Agreement Challenge",
     "section": "Feedback dan tindak lanjut",
-    "text": "Feedback dan tindak lanjut\nFeedback yang diterima: Ganti dengan kutipan atau ringkasan berbasis evidence.\nAdaptation/replay: Jelaskan apa yang Anda ubah dan response setelah perubahan.\nNext practice: Tetapkan satu perilaku spesifik yang akan dilatih berikutnya.",
+    "text": "Feedback dan tindak lanjut\nFeedback yang diterima: Tidak ada feedback formal yang terdokumentasi pada tahap pengadaan dan perakitan ini. Namun, kegagalan komponen dan prototype menjadi feedback teknis langsung bahwa rencana awal belum dapat dijalankan tanpa penggantian serta perbaikan.\nAdaptation/replay: Saya membeli RFID-RC522 pengganti setelah komponen pertama tidak dapat digunakan. Kelompok kemudian melanjutkan pemeriksaan dan percobaan sampai prototype akhir berjalan.\nNext practice: Pada proyek berikutnya, saya akan mendorong kelompok membuat agreement tertulis yang mencantumkan owner setiap bagian, deadline internal, dependency, dan jadwal review. Saya juga akan menguji komponen lebih awal agar kerusakan tidak baru diketahui ketika proses integrasi berlangsung.",
     "crumbs": [
       "Beranda",
       "Action & Agreement Challenge"
@@ -1410,7 +1432,7 @@
     "href": "portfolio/week-10.html#self-assessment",
     "title": "Action & Agreement Challenge",
     "section": "Self-assessment",
-    "text": "Self-assessment\n\n\n\nDimensi\nSkor 1–4\nEvidence singkat\n\n\n\n\nPerson & Character\n—\n—\n\n\nObjective & State\n—\n—\n\n\nRepertoire, Language & AI\n—\n—\n\n\nResponse & Adaptation\n—\n—\n\n\nAgreement, Action & Relationship\n—\n—\n\n\n\nTotal: — / 20\n\nAssessment dosen\nSkor: — / 20\nEvidence yang mendukung: —\nPrioritas perbaikan: —\nKeputusan: Belum dinilai / Perlu revisi / Tercapai",
+    "text": "Self-assessment\n\n\n\n\n\n\n\n\nDimensi\nSkor 1–4\nEvidence singkat\n\n\n\n\nPerson & Character\n3\nResponsibility saya pada pengadaan, interface, dan bantuan coding dapat diidentifikasi\n\n\nObjective & State\n3\nDesire–action gap dan barrier pengalaman serta komponen dijelaskan\n\n\nRepertoire, Language & AI\n3\nSimulasi, perakitan, dan pengujian digunakan untuk mendukung koordinasi\n\n\nResponse & Adaptation\n4\nRFID-RC522 yang gagal diganti dan prototype diperbaiki melalui percobaan berulang\n\n\nAgreement, Action & Relationship\n2\nAction dan hasil akhir terbukti, tetapi owner teknis dan deadline rinci tidak terdokumentasi\n\n\n\nTotal: 15/20 — Kompeten.\n\nAssessment dosen\nSkor: — / 20\nEvidence yang mendukung: —\nPrioritas perbaikan: —\nKeputusan: Belum dinilai / Perlu revisi / Tercapai",
     "crumbs": [
       "Beranda",
       "Action & Agreement Challenge"
@@ -1509,7 +1531,29 @@
     "href": "portfolio/week-06.html#konteks-performance",
     "title": "Target–Attention Challenge",
     "section": "Konteks performance",
-    "text": "Konteks performance\nTanggal dan setting: Ganti dengan tanggal, tempat, dan bentuk kegiatan.\nPersons dan relationship: Jelaskan siapa yang terlibat tanpa membuka data pribadi yang tidak diperlukan.\nObjective dan initial state: Nyatakan perubahan yang ingin dicapai serta evidence state awal.",
+    "text": "Konteks performance\nTanggal dan setting: Interaksi ini terjadi ketika saya mengerjakan tugas besar mata kuliah Pemodelan Basis Data bersama empat anggota kelompok lainnya. Setelah seorang anggota menyelesaikan bagiannya, saya melanjutkan pengerjaan pada bagian saya yang menggunakan jawabannya sebagai referensi.\nPersons dan relationship: Orang-orang yang terlibat adalah saya, ketua kelompok, dan seorang anggota yang mengerjakan bagian sebelum saya. Identitas mereka dianonimkan untuk menjaga privasi. Saya tidak terlalu dekat dengan anggota tersebut, sedangkan ketua kelompok memiliki peran untuk mengoordinasikan pekerjaan dan komunikasi antaranggota.\nObjective dan initial state: Tujuan awal saya adalah memastikan apakah kesalahan terdapat pada jawaban anggota tersebut atau pada jawaban saya sendiri. Jika hasil pemeriksaan menunjukkan bahwa jawaban sebelumnya memang salah, saya ingin kesalahan itu diperbaiki agar bagian saya dan hasil akhir tugas tidak ikut menjadi keliru. Pada awal interaksi, ketua kelompok belum mengetahui adanya kesalahan tersebut.",
+    "crumbs": [
+      "Beranda",
+      "Target–Attention Challenge"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-06.html#target-map",
+    "href": "portfolio/week-06.html#target-map",
+    "title": "Target–Attention Challenge",
+    "section": "Target map",
+    "text": "Target map\n\n\n\n\n\n\n\n\n\nPerson\nRelevance\nAuthority\nCurrent state\n\n\n\n\nKetua kelompok\nBertanggung jawab mengoordinasikan jawaban dan memastikan tugas kelompok konsisten\nDapat memeriksa masalah serta meminta anggota terkait melakukan perbaikan\nBelum mengetahui masalah\n\n\nAnggota yang mengerjakan bagian sebelumnya\nJawabannya menjadi referensi bagi bagian saya dan memengaruhi hasil tugas\nDapat memperbaiki jawabannya sendiri\nBelum menyadari kesalahan\n\n\nAnggota kelompok lainnya\nIkut berkepentingan terhadap kualitas hasil akhir tugas\nDapat memberikan pendapat atau membantu pemeriksaan\nBelum dilibatkan\n\n\n\nSaya memilih ketua kelompok sebagai target awal. Saya tidak terlalu dekat dengan anggota yang mengerjakan bagian sebelumnya sehingga merasa kurang nyaman jika langsung menghubunginya secara pribadi. Selain itu, ketua kelompok dapat membantu memeriksa terlebih dahulu siapa yang melakukan kesalahan dan kemudian menyampaikan hasilnya kepada anggota terkait. Pilihan ini juga mengurangi risiko saya langsung menuduh teman sebelum kebenarannya dipastikan.",
+    "crumbs": [
+      "Beranda",
+      "Target–Attention Challenge"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-06.html#attention-pitch",
+    "href": "portfolio/week-06.html#attention-pitch",
+    "title": "Target–Attention Challenge",
+    "section": "Attention pitch",
+    "text": "Attention pitch\nSaya menghubungi ketua kelompok dan menjelaskan bahwa saya menemukan bagian yang tampaknya salah pada jawaban anggota sebelumnya. Saya juga menyampaikan bahwa bagian saya menggunakan jawaban tersebut sebagai referensi atau dasar lanjutan. Karena itu, kesalahan tersebut relevan terhadap bagian saya dan konsistensi tugas secara keseluruhan. Saya meminta ketua kelompok membantu memastikan apakah jawaban teman saya yang salah atau justru pemahaman dan jawaban saya yang perlu diperbaiki.\nPesan ini tidak hanya menyatakan bahwa ada kesalahan, tetapi juga menjelaskan evidence yang saya miliki, yaitu hubungan langsung antara jawaban sebelumnya dan bagian yang sedang saya kerjakan. Saya sengaja meminta pemeriksaan terlebih dahulu agar tidak membuat tuduhan tanpa konfirmasi.",
     "crumbs": [
       "Beranda",
       "Target–Attention Challenge"
@@ -1520,7 +1564,29 @@
     "href": "portfolio/week-06.html#evidence",
     "title": "Target–Attention Challenge",
     "section": "Evidence",
-    "text": "Evidence\n\nTambahkan link, gambar, video, transcript, artefak, catatan observer, atau bukti tindakan. Jelaskan bagian mana yang merupakan kontribusi Anda.",
+    "text": "Evidence\n\n\n\nPercakapan dengan ketua kelompok mengenai pemeriksaan jawaban tugas. Nama dan informasi pribadi telah disamarkan.\n\n\n\nEvidence utama adalah screenshot percakapan pribadi saya dengan ketua kelompok. Percakapan tersebut menunjukkan bahwa saya melaporkan kemungkinan kesalahan, meminta konfirmasi, dan tidak langsung menyalahkan anggota lain. Nama, foto profil, dan informasi pribadi perlu disamarkan sebelum screenshot ditampilkan dalam portofolio.\nKontribusi saya terlihat dari proses membaca kembali jawaban sebelumnya, menemukan ketidaksesuaian ketika mengerjakan bagian lanjutan, dan menyampaikan masalah tersebut kepada ketua kelompok.",
+    "crumbs": [
+      "Beranda",
+      "Target–Attention Challenge"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-06.html#response-dan-state-assessment",
+    "href": "portfolio/week-06.html#response-dan-state-assessment",
+    "title": "Target–Attention Challenge",
+    "section": "Response dan state assessment",
+    "text": "Response dan state assessment\nSetelah menerima pesan saya, ketua kelompok memeriksa kedua jawaban untuk memastikan sumber kesalahannya. Hasil pemeriksaan menunjukkan bahwa jawaban anggota sebelumnya memang salah, bukan jawaban saya. Ketua kelompok kemudian menyampaikan masalah tersebut kepada anggota yang mengerjakannya dan meminta perbaikan.\nRespons ini menunjukkan bahwa state ketua kelompok berpindah dari belum mengetahui masalah menjadi Attention, karena ia mengakui bahwa masalah tersebut relevan dan perlu diperiksa. Setelah memastikan adanya kesalahan dan mengambil tindakan, responsnya juga mulai mengarah pada Action.\nAnggota yang menerima informasi tersebut langsung memperbaiki jawabannya karena ia juga baru menyadari bahwa jawabannya salah. Tidak ada penolakan terhadap koreksi yang diberikan.",
+    "crumbs": [
+      "Beranda",
+      "Target–Attention Challenge"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-06.html#adaptation-dan-agreement",
+    "href": "portfolio/week-06.html#adaptation-dan-agreement",
+    "title": "Target–Attention Challenge",
+    "section": "Adaptation dan agreement",
+    "text": "Adaptation dan agreement\nAdaptasi utama saya adalah tidak langsung menyatakan bahwa teman saya pasti salah. Saya menyampaikan temuan tersebut sebagai kemungkinan kesalahan dan meminta ketua kelompok membandingkan jawaban kami. Cara ini memberi ruang untuk kemungkinan bahwa saya sendiri yang keliru dan membuat pembicaraan tetap berfokus pada isi tugas, bukan pada pribadi anggota.\nAgreement yang tercapai adalah ketua kelompok bersedia memeriksa jawaban dan meneruskan hasil pemeriksaan kepada anggota terkait. Tindakan konkretnya adalah anggota tersebut memperbaiki jawabannya sehingga bagian yang menjadi referensi bagi pekerjaan saya tidak lagi menggunakan jawaban yang salah.",
     "crumbs": [
       "Beranda",
       "Target–Attention Challenge"
@@ -1531,18 +1597,7 @@
     "href": "portfolio/week-06.html#analisis-komunikasi",
     "title": "Target–Attention Challenge",
     "section": "Analisis komunikasi",
-    "text": "Analisis komunikasi\n\n\n\nElemen\nEvidence dan analisis\n\n\n\n\nPerson & character\nGanti dengan analisis Anda.\n\n\nObjective & state\nGanti dengan analisis Anda.\n\n\nRepertoire & language\nGanti dengan analisis Anda.\n\n\nResponse & adaptation\nGanti dengan analisis Anda.\n\n\nAgreement/action\nGanti dengan analisis Anda.\n\n\nRelationship outcome\nGanti dengan analisis Anda.",
-    "crumbs": [
-      "Beranda",
-      "Target–Attention Challenge"
-    ]
-  },
-  {
-    "objectID": "portfolio/week-06.html#penggunaan-ai",
-    "href": "portfolio/week-06.html#penggunaan-ai",
-    "title": "Target–Attention Challenge",
-    "section": "Penggunaan AI",
-    "text": "Penggunaan AI\nNyatakan Tidak menggunakan AI atau jelaskan:\n\nalat dan peran AI;\nprompt atau instruksi penting;\nbagian output yang digunakan, diubah, atau ditolak;\npemeriksaan accuracy, privacy, dan authority;\napa yang tetap Anda pelajari sebagai manusia.",
+    "text": "Analisis komunikasi\n\n\n\n\n\n\n\nElemen\nEvidence dan analisis\n\n\n\n\nPerson & character\nSaya memilih ketua kelompok karena ia memiliki peran koordinasi dan dapat menjadi penghubung dengan anggota yang tidak terlalu dekat dengan saya.\n\n\nObjective & state\nObjective saya adalah memastikan letak kesalahan sebelum meminta perbaikan. Ketua kelompok awalnya belum mengetahui masalah, lalu mengakui relevansinya setelah memeriksa jawaban.\n\n\nRepertoire & language\nSaya menggunakan pesan pribadi dan menyampaikan masalah sebagai temuan yang masih perlu dikonfirmasi. Bahasa tersebut membantu menghindari tuduhan langsung.\n\n\nResponse & adaptation\nKetua kelompok menanggapi dengan melakukan pemeriksaan. Saya mempertahankan sikap terbuka terhadap kemungkinan bahwa jawaban saya sendiri yang salah.\n\n\nAgreement/action\nKetua kelompok menyampaikan hasil pemeriksaan kepada anggota terkait, kemudian anggota tersebut langsung memperbaiki jawabannya.\n\n\nRelationship outcome\nMasalah dapat diselesaikan melalui koordinasi ketua kelompok tanpa konflik langsung dengan anggota yang melakukan kesalahan.",
     "crumbs": [
       "Beranda",
       "Target–Attention Challenge"
@@ -1553,7 +1608,7 @@
     "href": "portfolio/week-06.html#feedback-dan-tindak-lanjut",
     "title": "Target–Attention Challenge",
     "section": "Feedback dan tindak lanjut",
-    "text": "Feedback dan tindak lanjut\nFeedback yang diterima: Ganti dengan kutipan atau ringkasan berbasis evidence.\nAdaptation/replay: Jelaskan apa yang Anda ubah dan response setelah perubahan.\nNext practice: Tetapkan satu perilaku spesifik yang akan dilatih berikutnya.",
+    "text": "Feedback dan tindak lanjut\nFeedback yang diterima: Tidak ada feedback formal. Namun, tindakan ketua kelompok yang bersedia memeriksa jawaban serta respons anggota yang langsung melakukan perbaikan menunjukkan bahwa masalah berhasil disampaikan dengan cukup jelas.\nAdaptation/replay: Jika mengulang situasi ini, saya akan tetap meminta konfirmasi sebelum menyimpulkan siapa yang salah. Saya juga dapat menyertakan bagian jawaban yang bermasalah dan alasan singkat mengapa bagian tersebut tidak sesuai agar proses pemeriksaan menjadi lebih cepat.\nNext practice: Saya akan berlatih menyampaikan koreksi secara langsung tetapi tetap sopan kepada anggota yang bersangkutan, terutama dengan berfokus pada evidence dan memberikan ruang bagi orang tersebut untuk memeriksa jawabannya sendiri.",
     "crumbs": [
       "Beranda",
       "Target–Attention Challenge"
@@ -1564,7 +1619,7 @@
     "href": "portfolio/week-06.html#self-assessment",
     "title": "Target–Attention Challenge",
     "section": "Self-assessment",
-    "text": "Self-assessment\n\n\n\nDimensi\nSkor 1–4\nEvidence singkat\n\n\n\n\nPerson & Character\n—\n—\n\n\nObjective & State\n—\n—\n\n\nRepertoire, Language & AI\n—\n—\n\n\nResponse & Adaptation\n—\n—\n\n\nAgreement, Action & Relationship\n—\n—\n\n\n\nTotal: — / 20\n\nAssessment dosen\nSkor: — / 20\nEvidence yang mendukung: —\nPrioritas perbaikan: —\nKeputusan: Belum dinilai / Perlu revisi / Tercapai",
+    "text": "Self-assessment\n\n\n\n\n\n\n\n\nDimensi\nSkor 1–4\nEvidence singkat\n\n\n\n\nPerson & Character\n3\nKetua kelompok dipilih berdasarkan peran koordinasi dan hubungan antaranggota\n\n\nObjective & State\n3\nObjective dan perubahan state ketua kelompok dapat diidentifikasi\n\n\nRepertoire, Language & AI\n3\nPesan disampaikan sebagai permintaan konfirmasi dan penggunaan AI dijelaskan\n\n\nResponse & Adaptation\n3\nRespons diperiksa dan saya terbuka terhadap kemungkinan jawaban saya yang salah\n\n\nAgreement, Action & Relationship\n4\nPemeriksaan menghasilkan perbaikan konkret tanpa menimbulkan konflik\n\n\n\nTotal: 16/20 — Kompeten.\n\nAssessment dosen\nSkor: — / 20\nEvidence yang mendukung: —\nPrioritas perbaikan: —\nKeputusan: Belum dinilai / Perlu revisi / Tercapai",
     "crumbs": [
       "Beranda",
       "Target–Attention Challenge"
@@ -6868,7 +6923,40 @@
     "href": "portfolio/week-07.html#konteks-performance",
     "title": "Problem–Solution Interest Pitch",
     "section": "Konteks performance",
-    "text": "Konteks performance\nTanggal dan setting: Ganti dengan tanggal, tempat, dan bentuk kegiatan.\nPersons dan relationship: Jelaskan siapa yang terlibat tanpa membuka data pribadi yang tidak diperlukan.\nObjective dan initial state: Nyatakan perubahan yang ingin dicapai serta evidence state awal.",
+    "text": "Konteks performance\nTanggal dan setting: Kegiatan ini merupakan bagian dari tugas besar mata kuliah Pengenalan Rekayasa dan Desain (PRD). Kelompok saya mengangkat fenomena titip absen di ITB dan mengembangkan prototype website presensi dengan verifikasi dua langkah. Pada akhir proyek, kami mempresentasikan dan mendemonstrasikan prototype tersebut kepada dosen.\nPersons dan relationship: Target komunikasi kami adalah dosen mata kuliah PRD. Dosen berperan sebagai penilai yang perlu memahami relevansi masalah, cara kerja solusi, dan kesesuaian prototype dengan masalah yang kami angkat. Saya merupakan anggota kelompok yang bertanggung jawab membuat interface website dan membantu sebagian proses coding.\nObjective dan initial state: Objective kami adalah membuat dosen melihat bahwa titip absen merupakan masalah yang memerlukan solusi dan memahami bagaimana prototype kami dapat mengurangi praktik tersebut. Sebelum menjelaskan solusi, kami membangun Attention melalui hasil survei dan observasi langsung terhadap fenomena titip absen di lingkungan ITB.",
+    "crumbs": [
+      "Beranda",
+      "Problem–Solution Interest Pitch"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-07.html#attention-evidence-dan-solution-hypothesis",
+    "href": "portfolio/week-07.html#attention-evidence-dan-solution-hypothesis",
+    "title": "Problem–Solution Interest Pitch",
+    "section": "Attention evidence dan solution hypothesis",
+    "text": "Attention evidence dan solution hypothesis\nKelompok kami memilih masalah titip absen karena kami pernah melihat fenomena tersebut secara langsung. Kami juga melakukan survei untuk mengetahui bahwa masalah ini tidak hanya berasal dari asumsi kelompok. Evidence tersebut digunakan untuk menunjukkan bahwa titip absen merupakan masalah nyata yang perlu diperhatikan.\nSolution hypothesis: Website presensi dengan verifikasi lokasi dan wajah dapat mempersulit mahasiswa melakukan presensi dari luar kampus atau mewakili mahasiswa lain.\n\n\n\n\n\n\n\n\n\nProblem\nMechanism\nExpected benefit\nValue bagi target\n\n\n\n\nMahasiswa dapat melakukan titip absen\nSistem memeriksa koordinat ponsel dan hanya menerima presensi dari area ITB\nPresensi dari luar area kampus dapat ditolak\nData kehadiran menjadi lebih sesuai dengan keberadaan mahasiswa\n\n\nIdentitas pengguna belum tentu sesuai dengan mahasiswa yang tercatat\nMahasiswa mengambil selfie yang menyimpan informasi lokasi dan waktu serta digunakan untuk konfirmasi wajah\nIdentitas dan kondisi saat presensi dapat diverifikasi\nKemungkinan presensi yang diwakilkan oleh orang lain dapat dikurangi\n\n\n\nIde solusi tersebut berasal dari diskusi bersama seluruh anggota kelompok. Kontribusi utama saya adalah membuat interface website agar alur verifikasi dapat dipahami pengguna serta membantu sebagian coding website.",
+    "crumbs": [
+      "Beranda",
+      "Problem–Solution Interest Pitch"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-07.html#pitch-dan-demonstration",
+    "href": "portfolio/week-07.html#pitch-dan-demonstration",
+    "title": "Problem–Solution Interest Pitch",
+    "section": "Pitch dan demonstration",
+    "text": "Pitch dan demonstration\nDalam presentasi, kami menjelaskan bahwa fenomena titip absen sudah menjadi masalah yang cukup mengkhawatirkan dan mulai dianggap sebagai kebiasaan oleh sebagian mahasiswa. Setelah menyampaikan hasil survei dan observasi, kami mendemonstrasikan prototype website sebagai solusi.\nKami menunjukkan bahwa proses presensi tidak hanya meminta mahasiswa menekan tombol hadir. Sistem terlebih dahulu memeriksa apakah koordinat ponsel berada di area ITB. Mahasiswa kemudian perlu mengambil selfie untuk menyimpan lokasi dan waktu serta melakukan konfirmasi wajah. Melalui demonstrasi ini, dosen dapat melihat hubungan antara masalah titip absen dan setiap mekanisme yang kami rancang.\nSaya berkontribusi dengan mengembangkan interface yang digunakan dalam demonstrasi dan membantu sebagian implementasi teknisnya. Interface tersebut membantu menyampaikan solusi secara visual, sehingga penjelasan tidak hanya bergantung pada uraian lisan.",
+    "crumbs": [
+      "Beranda",
+      "Problem–Solution Interest Pitch"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-07.html#response-hidden-concern-dan-adaptation",
+    "href": "portfolio/week-07.html#response-hidden-concern-dan-adaptation",
+    "title": "Problem–Solution Interest Pitch",
+    "section": "Response, hidden concern, dan adaptation",
+    "text": "Response, hidden concern, dan adaptation\nDosen terlihat memberikan respons positif terhadap presentasi dan prototype kami. Signal Interest muncul ketika dosen bertanya apakah prototype tersebut benar-benar dapat bekerja apabila seseorang mencoba melakukan presensi dari luar ITB. Pertanyaan ini menunjukkan bahwa dosen tidak hanya mengakui masalah, tetapi ingin mengetahui apakah mekanisme pembatasan lokasi benar-benar sesuai dengan situasi nyata.\nRespons tersebut memperlihatkan concern utama mengenai keandalan verifikasi lokasi. Dosen ingin memastikan bahwa fitur lokasi bukan sekadar konsep pada interface, tetapi dapat membedakan presensi di dalam dan di luar area ITB.\nSebagai respons, kami tidak hanya mengulang penjelasan mengenai fitur. Kami langsung menunjukkan bukti pengujian ketika sistem digunakan untuk mencoba presensi dari kos yang berada di luar ITB. Bukti tersebut menunjukkan bagaimana prototype merespons percobaan presensi dari luar area yang ditentukan. Adaptasi ini membuat komunikasi berubah dari penjelasan konsep menjadi demonstrasi berbasis evidence.",
     "crumbs": [
       "Beranda",
       "Problem–Solution Interest Pitch"
@@ -6879,7 +6967,7 @@
     "href": "portfolio/week-07.html#evidence",
     "title": "Problem–Solution Interest Pitch",
     "section": "Evidence",
-    "text": "Evidence\n\nTambahkan link, gambar, video, transcript, artefak, catatan observer, atau bukti tindakan. Jelaskan bagian mana yang merupakan kontribusi Anda.",
+    "text": "Evidence\n\nEvidence utama berikut menunjukkan hasil pengujian prototype ketika presensi dicoba dari kos yang berada di luar radius kelas. Sistem mendeteksi bahwa perangkat berjarak 672 meter dan menolak proses presensi. Hasil ini digunakan untuk menjawab pertanyaan dosen mengenai kemampuan verifikasi lokasi.\n\n\n\nHasil pengujian prototype dari kos menunjukkan bahwa pengguna berada di luar radius kelas sehingga presensi ditolak.\n\n\nEvidence pendukung lain yang dapat dilampirkan adalah hasil survei, screenshot interface lainnya, dokumentasi demonstrasi, dan slide presentasi yang menghubungkan masalah dengan solusi.\nKontribusi saya dapat ditunjukkan melalui screenshot halaman interface yang saya buat dan bagian prototype atau dokumentasi kode yang saya bantu kerjakan. Data pribadi, foto wajah, koordinat yang terlalu spesifik, dan identitas responden survei perlu disamarkan sebelum evidence dimasukkan ke portofolio.",
     "crumbs": [
       "Beranda",
       "Problem–Solution Interest Pitch"
@@ -6890,18 +6978,7 @@
     "href": "portfolio/week-07.html#analisis-komunikasi",
     "title": "Problem–Solution Interest Pitch",
     "section": "Analisis komunikasi",
-    "text": "Analisis komunikasi\n\n\n\nElemen\nEvidence dan analisis\n\n\n\n\nPerson & character\nGanti dengan analisis Anda.\n\n\nObjective & state\nGanti dengan analisis Anda.\n\n\nRepertoire & language\nGanti dengan analisis Anda.\n\n\nResponse & adaptation\nGanti dengan analisis Anda.\n\n\nAgreement/action\nGanti dengan analisis Anda.\n\n\nRelationship outcome\nGanti dengan analisis Anda.",
-    "crumbs": [
-      "Beranda",
-      "Problem–Solution Interest Pitch"
-    ]
-  },
-  {
-    "objectID": "portfolio/week-07.html#penggunaan-ai",
-    "href": "portfolio/week-07.html#penggunaan-ai",
-    "title": "Problem–Solution Interest Pitch",
-    "section": "Penggunaan AI",
-    "text": "Penggunaan AI\nNyatakan Tidak menggunakan AI atau jelaskan:\n\nalat dan peran AI;\nprompt atau instruksi penting;\nbagian output yang digunakan, diubah, atau ditolak;\npemeriksaan accuracy, privacy, dan authority;\napa yang tetap Anda pelajari sebagai manusia.",
+    "text": "Analisis komunikasi\n\n\n\n\n\n\n\nElemen\nEvidence dan analisis\n\n\n\n\nPerson & character\nDosen diposisikan sebagai target yang menilai relevansi masalah dan kelayakan solusi. Penjelasan diarahkan pada evidence dan cara kerja prototype.\n\n\nObjective & state\nObjective kami adalah membawa dosen dari pengakuan terhadap masalah menuju Interest pada solusi. Pertanyaan mengenai presensi dari luar ITB menjadi signal bahwa dosen ingin memahami fit solusi.\n\n\nRepertoire & language\nKami menggunakan survei, observasi, presentasi, interface, dan demonstrasi prototype agar informasi disampaikan secara bertahap dan tidak hanya berupa daftar fitur.\n\n\nResponse & adaptation\nPertanyaan dosen mengungkap concern tentang keandalan verifikasi lokasi. Kami beradaptasi dengan menunjukkan bukti pengujian presensi dari kos.\n\n\nAgreement/action\nDosen menerima penjelasan lanjutan dan melihat bukti pengujian prototype. Tidak ada persetujuan implementasi nyata karena konteksnya masih berupa tugas dan prototype.\n\n\nRelationship outcome\nRespons dosen tetap positif dan diskusi berfokus pada pengujian kemampuan solusi, bukan hanya tampilan website.",
     "crumbs": [
       "Beranda",
       "Problem–Solution Interest Pitch"
@@ -6912,7 +6989,7 @@
     "href": "portfolio/week-07.html#feedback-dan-tindak-lanjut",
     "title": "Problem–Solution Interest Pitch",
     "section": "Feedback dan tindak lanjut",
-    "text": "Feedback dan tindak lanjut\nFeedback yang diterima: Ganti dengan kutipan atau ringkasan berbasis evidence.\nAdaptation/replay: Jelaskan apa yang Anda ubah dan response setelah perubahan.\nNext practice: Tetapkan satu perilaku spesifik yang akan dilatih berikutnya.",
+    "text": "Feedback dan tindak lanjut\nFeedback yang diterima: Dosen menunjukkan ketertarikan dengan menanyakan apakah prototype benar-benar bekerja ketika presensi dilakukan dari luar ITB. Pertanyaan tersebut menjadi feedback bahwa klaim mengenai verifikasi lokasi perlu didukung oleh bukti pengujian.\nAdaptation/replay: Kami merespons dengan menunjukkan bukti percobaan presensi dari kos yang berada di luar ITB. Jika mengulang presentasi, saya akan menampilkan hasil pengujian di dalam dan di luar ITB sejak awal agar batas kerja fitur dapat dibandingkan dengan lebih jelas.\nNext practice: Saya akan berlatih menyiapkan satu demonstrasi untuk setiap klaim utama dalam solusi, termasuk kondisi ketika fitur berhasil dan ketika sistem menolak tindakan pengguna.",
     "crumbs": [
       "Beranda",
       "Problem–Solution Interest Pitch"
@@ -6923,7 +7000,7 @@
     "href": "portfolio/week-07.html#self-assessment",
     "title": "Problem–Solution Interest Pitch",
     "section": "Self-assessment",
-    "text": "Self-assessment\n\n\n\nDimensi\nSkor 1–4\nEvidence singkat\n\n\n\n\nPerson & Character\n—\n—\n\n\nObjective & State\n—\n—\n\n\nRepertoire, Language & AI\n—\n—\n\n\nResponse & Adaptation\n—\n—\n\n\nAgreement, Action & Relationship\n—\n—\n\n\n\nTotal: — / 20\n\nAssessment dosen\nSkor: — / 20\nEvidence yang mendukung: —\nPrioritas perbaikan: —\nKeputusan: Belum dinilai / Perlu revisi / Tercapai",
+    "text": "Self-assessment\n\n\n\n\n\n\n\n\nDimensi\nSkor 1–4\nEvidence singkat\n\n\n\n\nPerson & Character\n3\nPresentasi disesuaikan dengan peran dosen sebagai penilai masalah dan solusi\n\n\nObjective & State\n3\nPertanyaan dosen digunakan sebagai signal perpindahan dari Attention menuju Interest\n\n\nRepertoire, Language & AI\n3\nSurvei, interface, presentasi, dan demonstrasi digunakan secara berlapis\n\n\nResponse & Adaptation\n4\nConcern mengenai lokasi dijawab dengan bukti pengujian dari luar ITB\n\n\nAgreement, Action & Relationship\n3\nDosen melihat bukti kerja prototype, tetapi belum ada implementasi nyata\n\n\n\nTotal: 16/20 — Kompeten.\n\nAssessment dosen\nSkor: — / 20\nEvidence yang mendukung: —\nPrioritas perbaikan: —\nKeputusan: Belum dinilai / Perlu revisi / Tercapai",
     "crumbs": [
       "Beranda",
       "Problem–Solution Interest Pitch"
@@ -6967,18 +7044,51 @@
     "href": "portfolio/week-09.html#konteks-performance",
     "title": "Desire-State Communication",
     "section": "Konteks performance",
-    "text": "Konteks performance\nTanggal dan setting: Ganti dengan tanggal, tempat, dan bentuk kegiatan.\nPersons dan relationship: Jelaskan siapa yang terlibat tanpa membuka data pribadi yang tidak diperlukan.\nObjective dan initial state: Nyatakan perubahan yang ingin dicapai serta evidence state awal.",
+    "text": "Konteks performance\nTanggal dan setting: Pengalaman ini terjadi selama pengerjaan tugas besar mata kuliah Pengenalan Rekayasa dan Desain (PRD). Kelompok saya mengembangkan prototype sistem presensi untuk mengurangi fenomena titip absen di ITB. Selama proses pengembangan, kami melakukan asistensi dengan dosen beberapa kali untuk membahas kesesuaian solusi dengan masalah.\nPersons dan relationship: Target komunikasi kami adalah dosen mata kuliah PRD. Dosen berperan sebagai pembimbing dan penilai yang memberikan arahan mengenai kondisi yang perlu dicapai oleh solusi. Saya merupakan anggota kelompok yang mengerjakan interface website, membantu sebagian coding, dan mengusulkan penggunaan RFID sebagai tambahan perangkat keras.\nObjective dan initial state: Objective awal kami adalah meyakinkan dosen bahwa website dengan pemeriksaan lokasi dan selfie dapat membantu mengurangi titip absen. Dosen sudah memahami cara kerja solusi tersebut, tetapi belum menganggap website saja cukup untuk memastikan mahasiswa benar-benar berada di kelas. Dengan demikian, state dosen sudah melewati Interest dan mulai membahas outcome yang benar-benar ia inginkan dari sistem.",
     "crumbs": [
       "Beranda",
       "Desire-State Communication"
     ]
   },
   {
-    "objectID": "portfolio/week-09.html#evidence",
-    "href": "portfolio/week-09.html#evidence",
+    "objectID": "portfolio/week-09.html#current-dan-desired-state",
+    "href": "portfolio/week-09.html#current-dan-desired-state",
     "title": "Desire-State Communication",
-    "section": "Evidence",
-    "text": "Evidence\n\nTambahkan link, gambar, video, transcript, artefak, catatan observer, atau bukti tindakan. Jelaskan bagian mana yang merupakan kontribusi Anda.",
+    "section": "Current dan desired state",
+    "text": "Current dan desired state\n\n\n\n\n\n\n\nElemen\nRumusan berdasarkan respons dosen\n\n\n\n\nCurrent state\nPrototype masih mengandalkan GPS dan selfie pada website untuk memverifikasi kehadiran mahasiswa\n\n\nGap\nLokasi GPS dan selfie masih dapat dimanipulasi sehingga keberadaan mahasiswa di dalam kelas belum dapat dipastikan dengan kuat\n\n\nDesired state\nTerdapat perangkat fisik di ruang kelas yang harus digunakan mahasiswa sebelum melanjutkan proses presensi di website\n\n\nValue\nDosen memperoleh keyakinan yang lebih kuat bahwa mahasiswa benar-benar datang ke kelas, bukan hanya mengirim data melalui website\n\n\nAcceptable risk\nSolusi masih berada pada tahap prototype dan perlu dibuktikan melalui demonstrasi perangkat serta alur website\n\n\nEvidence threshold\nKartu dapat dibaca oleh perangkat RFID dan hasil tap membuat nama mahasiswa tersedia sebagai pilihan presensi di website\n\n\n\nDesired state tersebut tidak berasal dari asumsi kelompok. Dalam asistensi, dosen menyampaikan bahwa ia menginginkan perangkat keras di ruang kelas karena GPS dan selfie masih dapat dimanipulasi. Masukan ini mengubah cara kami melihat solusi: tujuan sistem bukan hanya menambah langkah verifikasi digital, tetapi membangun hubungan antara kehadiran fisik dan proses presensi pada website.",
+    "crumbs": [
+      "Beranda",
+      "Desire-State Communication"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-09.html#featurebenefitvalueoutcome-chain",
+    "href": "portfolio/week-09.html#featurebenefitvalueoutcome-chain",
+    "title": "Desire-State Communication",
+    "section": "Feature–benefit–value–outcome chain",
+    "text": "Feature–benefit–value–outcome chain\nTap kartu pada reader RFID di kelas → sistem mencatat bahwa kartu digunakan pada perangkat fisik → nama mahasiswa baru tersedia dalam pilihan presensi di website → mahasiswa dapat melanjutkan verifikasi dengan selfie → bukti kehadiran tidak hanya bergantung pada GPS dan foto → dosen memiliki keyakinan lebih kuat bahwa mahasiswa benar-benar datang ke kelas.\nRangkaian tersebut tetap merupakan hypothesis dari prototype. Adanya RFID menambah lapisan verifikasi, tetapi tidak berarti sistem sudah bebas dari seluruh kemungkinan kecurangan atau kegagalan teknis.\n\n\n\n\n\n\n\n\n\nFeature\nBenefit\nValue\nExpected outcome\n\n\n\n\nReader RFID ditempatkan di kelas\nMahasiswa harus melakukan interaksi dengan perangkat fisik sebelum presensi\nKehadiran tidak hanya ditentukan oleh data dari ponsel\nSistem lebih mampu menghubungkan presensi dengan keberadaan di kelas\n\n\nNama muncul di website setelah kartu ditap\nHanya mahasiswa yang telah melewati tahap RFID yang dapat melanjutkan alur\nProses verifikasi menjadi berlapis dan lebih terkontrol\nKemungkinan presensi tanpa datang ke kelas dapat dikurangi\n\n\nSelfie dilakukan setelah tap kartu\nIdentitas pada tahap website tetap dikonfirmasi\nRFID dan verifikasi visual saling melengkapi\nData presensi memberikan evidence yang lebih kuat bagi dosen",
+    "crumbs": [
+      "Beranda",
+      "Desire-State Communication"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-09.html#percakapan-response-dan-adaptation",
+    "href": "portfolio/week-09.html#percakapan-response-dan-adaptation",
+    "title": "Desire-State Communication",
+    "section": "Percakapan, response, dan adaptation",
+    "text": "Percakapan, response, dan adaptation\nPada beberapa sesi asistensi, kami menjelaskan prototype awal yang menggunakan lokasi GPS dan selfie. Dosen menanggapi bahwa kedua mekanisme tersebut masih dapat dimanipulasi. Ia menginginkan adanya sebuah device di ruang kelas, sehingga solusi tidak hanya berbentuk website.\nRespons ini menjadi signal Desire karena dosen tidak lagi sekadar menanyakan cara kerja solusi. Ia menyampaikan keadaan yang ingin dicapai untuk konteksnya sendiri: sistem perlu memiliki hubungan dengan kehadiran fisik mahasiswa di kelas.\nSaya kemudian mengusulkan penggunaan RFID. Dalam alur yang direvisi, mahasiswa datang ke kelas dan melakukan tap kartu pada reader RFID. Setelah tap berhasil, nama mahasiswa baru muncul sebagai pilihan presensi di website. Mahasiswa kemudian melanjutkan tahap selfie. Kelompok kami tidak berhenti pada ide, tetapi benar-benar membuat prototype perangkat keras tersebut.\nAdaptasi ini bersifat substantif karena masukan dosen mengubah arsitektur solusi dari verifikasi yang sepenuhnya berbasis website menjadi gabungan hardware dan website. Kami tidak lagi menyatakan bahwa GPS dan selfie saja cukup untuk mencapai desired state dosen.",
+    "crumbs": [
+      "Beranda",
+      "Desire-State Communication"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-09.html#risk-dan-evidence",
+    "href": "portfolio/week-09.html#risk-dan-evidence",
+    "title": "Desire-State Communication",
+    "section": "Risk dan evidence",
+    "text": "Risk dan evidence\nRisiko utama yang diidentifikasi dosen adalah manipulasi GPS dan selfie. RFID digunakan sebagai safeguard tambahan dengan menempatkan satu tahap verifikasi pada perangkat fisik di ruang kelas. Meskipun demikian, prototype RFID bukan jaminan bahwa semua bentuk kecurangan dapat dihilangkan. Sistem juga masih perlu diuji lebih lanjut untuk menilai keandalan pembacaan kartu, integrasi data, dan penggunaan pada situasi kelas yang sebenarnya.\n\nEvidence utama adalah foto kelompok saat mendemonstrasikan prototype perangkat RFID yang terhubung dengan laptop dan website. Foto tersebut membuktikan bahwa masukan dosen menghasilkan perubahan nyata dalam bentuk integrasi hardware dan software, bukan hanya tambahan ide dalam laporan.\n\n\n\nDemonstrasi prototype RFID yang terhubung dengan laptop dan website sebagai bagian dari sistem presensi.\n\n\nJika tersedia, evidence dapat diperkuat dengan foto kartu saat ditempelkan pada reader dan screenshot website yang menunjukkan nama mahasiswa muncul setelah tap berhasil. Identitas mahasiswa, nomor kartu, dan informasi pribadi perlu disamarkan.\nKontribusi saya adalah mengusulkan penggunaan RFID, mengerjakan interface website, dan membantu sebagian coding prototype.",
     "crumbs": [
       "Beranda",
       "Desire-State Communication"
@@ -6989,18 +7099,7 @@
     "href": "portfolio/week-09.html#analisis-komunikasi",
     "title": "Desire-State Communication",
     "section": "Analisis komunikasi",
-    "text": "Analisis komunikasi\n\n\n\nElemen\nEvidence dan analisis\n\n\n\n\nPerson & character\nGanti dengan analisis Anda.\n\n\nObjective & state\nGanti dengan analisis Anda.\n\n\nRepertoire & language\nGanti dengan analisis Anda.\n\n\nResponse & adaptation\nGanti dengan analisis Anda.\n\n\nAgreement/action\nGanti dengan analisis Anda.\n\n\nRelationship outcome\nGanti dengan analisis Anda.",
-    "crumbs": [
-      "Beranda",
-      "Desire-State Communication"
-    ]
-  },
-  {
-    "objectID": "portfolio/week-09.html#penggunaan-ai",
-    "href": "portfolio/week-09.html#penggunaan-ai",
-    "title": "Desire-State Communication",
-    "section": "Penggunaan AI",
-    "text": "Penggunaan AI\nNyatakan Tidak menggunakan AI atau jelaskan:\n\nalat dan peran AI;\nprompt atau instruksi penting;\nbagian output yang digunakan, diubah, atau ditolak;\npemeriksaan accuracy, privacy, dan authority;\napa yang tetap Anda pelajari sebagai manusia.",
+    "text": "Analisis komunikasi\n\n\n\n\n\n\n\nElemen\nEvidence dan analisis\n\n\n\n\nPerson & character\nDosen dipahami sebagai target yang tidak hanya membutuhkan fitur, tetapi membutuhkan keyakinan bahwa mahasiswa benar-benar berada di kelas.\n\n\nObjective & state\nObjective berubah dari menjelaskan website menjadi membangun solusi yang sesuai dengan desired state dosen. Masukan mengenai perangkat fisik menjadi signal Desire.\n\n\nRepertoire & language\nKami menggunakan asistensi, penjelasan alur, interface, dan prototype untuk mengembangkan pembicaraan dari konsep menuju solusi yang dapat didemonstrasikan.\n\n\nResponse & adaptation\nConcern tentang manipulasi GPS dan selfie mengubah arsitektur solusi. Saya mengusulkan RFID dan kelompok membuat prototype perangkat kerasnya.\n\n\nAgreement/action\nTindakan konkretnya adalah pengembangan alur baru: tap RFID, nama tersedia di website, lalu selfie.\n\n\nRelationship outcome\nMasukan dosen digunakan sebagai dasar revisi, sehingga proses asistensi menjadi kolaborasi dalam merumuskan desired state solusi.",
     "crumbs": [
       "Beranda",
       "Desire-State Communication"
@@ -7011,7 +7110,7 @@
     "href": "portfolio/week-09.html#feedback-dan-tindak-lanjut",
     "title": "Desire-State Communication",
     "section": "Feedback dan tindak lanjut",
-    "text": "Feedback dan tindak lanjut\nFeedback yang diterima: Ganti dengan kutipan atau ringkasan berbasis evidence.\nAdaptation/replay: Jelaskan apa yang Anda ubah dan response setelah perubahan.\nNext practice: Tetapkan satu perilaku spesifik yang akan dilatih berikutnya.",
+    "text": "Feedback dan tindak lanjut\nFeedback yang diterima: Dosen menyampaikan bahwa verifikasi GPS dan selfie masih dapat dimanipulasi. Ia menginginkan adanya perangkat keras di ruang kelas agar solusi tidak hanya mengandalkan website.\nAdaptation/replay: Saya mengusulkan RFID dan kelompok mengubah alur presensi. Mahasiswa perlu melakukan tap kartu di kelas sebelum namanya muncul sebagai pilihan pada website dan dapat melanjutkan verifikasi selfie.\nNext practice: Pada asistensi berikutnya, saya akan menanyakan evidence threshold secara lebih eksplisit, misalnya demonstrasi atau hasil pengujian apa yang perlu dilihat dosen agar solusi dinilai telah memenuhi desired state.",
     "crumbs": [
       "Beranda",
       "Desire-State Communication"
@@ -7022,7 +7121,7 @@
     "href": "portfolio/week-09.html#self-assessment",
     "title": "Desire-State Communication",
     "section": "Self-assessment",
-    "text": "Self-assessment\n\n\n\nDimensi\nSkor 1–4\nEvidence singkat\n\n\n\n\nPerson & Character\n—\n—\n\n\nObjective & State\n—\n—\n\n\nRepertoire, Language & AI\n—\n—\n\n\nResponse & Adaptation\n—\n—\n\n\nAgreement, Action & Relationship\n—\n—\n\n\n\nTotal: — / 20\n\nAssessment dosen\nSkor: — / 20\nEvidence yang mendukung: —\nPrioritas perbaikan: —\nKeputusan: Belum dinilai / Perlu revisi / Tercapai",
+    "text": "Self-assessment\n\n\n\n\n\n\n\n\nDimensi\nSkor 1–4\nEvidence singkat\n\n\n\n\nPerson & Character\n3\nDesired state dirumuskan berdasarkan kebutuhan dosen, bukan hanya asumsi kelompok\n\n\nObjective & State\n4\nCurrent state, gap, desired state, dan risiko dapat dibedakan dengan jelas\n\n\nRepertoire, Language & AI\n3\nValue chain diperlakukan sebagai hypothesis dan batas prototype dinyatakan\n\n\nResponse & Adaptation\n4\nConcern dosen mengubah solusi dari website menjadi integrasi RFID dan website\n\n\nAgreement, Action & Relationship\n2\nPrototype benar-benar dibuat, tetapi respons akhir dosen dan uji kelas belum terdokumentasi\n\n\n\nTotal: 16/20 — Kompeten.\n\nAssessment dosen\nSkor: — / 20\nEvidence yang mendukung: —\nPrioritas perbaikan: —\nKeputusan: Belum dinilai / Perlu revisi / Tercapai",
     "crumbs": [
       "Beranda",
       "Desire-State Communication"
