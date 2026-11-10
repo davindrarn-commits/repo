@@ -33,7 +33,8 @@ Sebelum menulis, ingat kembali dua formula utama untuk memperoleh perhatian seca
 Pilihlah satu masalah atau peluang nyata yang ada di sekitar kampus Anda saat ini (misalnya: antrean kantin, pemborosan makanan, sistem parkir, birokrasi surat izin, atau pengelolaan sampah). Deskripsikan masalah tersebut dalam satu kalimat yang jernih dan berbasis fakta objektif, bukan penilaian karakter atau generalisasi.
 
 *   *Draf Masalah Kampus Anda:*
-    `_________________________________________________________________________________________________________________`
+
+    Hasil survei kelompok dan observasi langsung menunjukkan bahwa titip absen pernah dilakukan atau disaksikan oleh banyak mahasiswa, sehingga data kehadiran belum selalu menggambarkan kehadiran mahasiswa di kelas.
 
 ---
 
@@ -42,10 +43,10 @@ Identifikasi tiga pribadi spesifik yang mewakili tiga peran berbeda terkait masa
 
 | Dimensi Analisis | Pihak 1: Pengguna (User) | Pihak 2: Pelaksana (Operator) | Pihak 3: Pengambil Keputusan (Decision Maker) |
 | :--- | :--- | :--- | :--- |
-| **Siapa Perannya?** *(Contoh: Mahasiswa, staf kasir, kepala sarpras)* | | | |
-| **Apa Tujuannya?** *(Apa yang ingin dicapainya terkait situasi ini?)* | | | |
-| **Apa Hambatan/Kendala utamanya?** *(Otoritas, waktu, biaya, tenaga?)* | | | |
-| **Di Mana Keadaan TAIDA Awalnya?** *(Belum sadar / baru memperhatikan?)* | | | |
+| **Siapa Perannya?** *(Contoh: Mahasiswa, staf kasir, kepala sarpras)* | Mahasiswa yang mengikuti perkuliahan dan melakukan presensi | Dosen pengampu yang menjalankan proses presensi di kelas | Direktorat Kemahasiswaan sebagai pihak pengambil keputusan |
+| **Apa Tujuannya?** *(Apa yang ingin dicapainya terkait situasi ini?)* | Melakukan presensi dengan mudah dan memperoleh pencatatan kehadiran yang adil | Memperoleh data kehadiran yang akurat tanpa mengurangi waktu mengajar | Menjaga integritas pencatatan kehadiran dan mengarahkan penanganan masalah secara jelas |
+| **Apa Hambatan/Kendala utamanya?** *(Otoritas, waktu, biaya, tenaga?)* | Proses tambahan dapat terasa merepotkan; sebagian mahasiswa juga dapat menganggap titip absen sebagai kebiasaan biasa | Waktu mengajar terbatas dan verifikasi tambahan dapat menambah beban | Perlu mempertimbangkan cakupan authority, privasi, biaya, kesiapan sistem, dan beban pelaksanaan |
+| **Di Mana Keadaan TAIDA Awalnya?** *(Belum sadar / baru memperhatikan?)* | Sudah mengetahui fenomenanya, tetapi belum tentu menganggapnya sebagai masalah | Kemungkinan sudah memperhatikan risiko titip absen, tetapi belum melihat evidence kelompok kami | Memahami pentingnya integritas akademik, tetapi belum mengetahui temuan spesifik dari konteks yang kami amati |
 
 ---
 
@@ -53,25 +54,28 @@ Identifikasi tiga pribadi spesifik yang mewakili tiga peran berbeda terkait masa
 Tuliskan pitch perhatian khusus untuk masing-masing pihak menggunakan salah satu formula di atas (Versi Masalah atau Versi Peluang) [213]. **Setiap pitch wajib memuat bukti/observasi konkret serta pertanyaan pemeriksaan di bagian akhir** [218].
 
 #### **Pitch untuk Pihak 1: Pengguna (User)**
-*   *Gokus Relevansi:* Kenyamanan langsung, waktu, kemudahan, atau kepastian [226].
+*   *Fokus Relevansi:* Kenyamanan langsung, waktu, kemudahan, atau kepastian [226].
 *   *Draf Pitch (Maks. 45 kata):*
-    `_________________________________________________________________________________________________________________`
-    `_________________________________________________________________________________________________________________`
-*   *Jumlah Kata:* ______ kata (Wajib $\le$ 45 kata) [218].
+
+    > “Survei kelompok kami menunjukkan bahwa banyak mahasiswa pernah melakukan atau melihat titip absen. Mahasiswa yang hadir tepat waktu bisa merasa pencatatan kehadiran tidak adil. Menurutmu, apakah hal ini perlu dibahas tanpa langsung menyalahkan mahasiswa?”
+
+*   *Jumlah Kata:* **34 kata** (Wajib $\le$ 45 kata) [218].
 
 #### **Pitch untuk Pihak 2: Pelaksana (Operator)**
 *   *Fokus Relevansi:* Beban kerja harian, proses kerja, kejelasan instruksi, atau kendala teknis lapangan [230, 240].
 *   *Draf Pitch (Maks. 45 kata):*
-    `_________________________________________________________________________________________________________________`
-    `_________________________________________________________________________________________________________________`
-*   *Jumlah Kata:* ______ kata (Wajib $\le$ 45 kata) [218].
+
+    > “Dalam survei kelompok kami, banyak responden pernah melakukan atau melihat titip absen. Temuan terbatas ini menunjukkan data presensi mungkin tidak selalu mencerminkan kehadiran sebenarnya. Apakah masalah ini perlu diperiksa secara efisien tanpa mengurangi waktu mengajar?”
+
+*   *Jumlah Kata:* **35 kata** (Wajib $\le$ 45 kata) [218].
 
 #### **Pitch untuk Pihak 3: Pengambil Keputusan (Decision Maker)**
 *   *Fokus Relevansi:* Kebijakan, efisiensi anggaran, reputasi organisasi, risiko, atau dampak jangka panjang [230].
 *   *Draf Pitch (Maks. 45 kata):*
-    `_________________________________________________________________________________________________________________`
-    `_________________________________________________________________________________________________________________`
-*   *Jumlah Kata:* ______ kata (Wajib $\le$ 45 kata) [218].
+
+    > “Survei kelompok kami menemukan banyak responden pernah melakukan atau melihat titip absen dalam perkuliahan. Kondisi ini berisiko mengurangi kredibilitas data kehadiran. Apakah Direktorat Kemahasiswaan bersedia memeriksa masalah ini dengan cakupan yang jelas serta mempertimbangkan privasi dan beban pelaksanaannya?”
+
+*   *Jumlah Kata:* **38 kata** (Wajib $\le$ 45 kata) [218].
 
 ---
 
@@ -88,19 +92,32 @@ Mintalah rekan Anda memberikan umpan balik menggunakan format kalimat berikut (h
 > **"Ketika Anda menyampaikan bagian [sebutkan kalimat Anda], saya mengamati respons nonverbal/verbal saya berupa [sebutkan responsnya]. Hal itu menunjukkan bahwa perhatian saya [terbangun/terganggu/bingung] karena [sebutkan alasannya]. Saya menyarankan Anda untuk [rekomendasi perbaikan]."** [242]
 
 *   *Catatan Umpan Balik Rekan 1 (untuk Pitch Pengguna):*
-    `_________________________________________________________________________________________________________________`
+
+    Ketika saya menyampaikan bagian “mahasiswa yang hadir secara jujur merasa pencatatan kehadiran tidak adil”, rekan saya mengangguk dan menunjukkan raut muka merasa terwakili. Perhatiannya terbangun karena pitch menyentuh rasa keadilan tanpa hanya menyalahkan pelaku. Ia menyarankan agar pembuka dibuat lebih santai dan conversational.
+
 *   *Catatan Umpan Balik Rekan 2 (untuk Pitch Pelaksana):*
-    `_________________________________________________________________________________________________________________`
+
+    Ketika saya menyampaikan bahwa data presensi mungkin tidak menggambarkan kehadiran sebenarnya, rekan yang berperan sebagai dosen mengerutkan dahi lalu bertanya tentang metodologi survei. Perhatiannya terbangun pada akurasi data, tetapi ia berhati-hati terhadap generalisasi dan tambahan beban. Ia menyarankan penekanan pada pemeriksaan yang efisien tanpa menyita waktu mengajar.
+
 *   *Catatan Umpan Balik Rekan 3 (untuk Pitch Pengambil Keputusan):*
-    `_________________________________________________________________________________________________________________`
+
+    Ketika saya menyebut risiko terhadap kredibilitas kehadiran serta pertimbangan privasi dan beban pelaksanaan, rekan yang berperan sebagai pihak akademik menyimak serius dan mencatat kedua batas tersebut. Perhatiannya terbangun karena pitch menyentuh integritas akademik. Ia menyarankan agar cakupan masalah diperjelas supaya penanganan kebijakan lebih terarah.
 
 ---
 
 ## 5. Refleksi Mandiri
 Setelah menerima umpan balik dan merevisi draf Anda, jawablah pertanyaan berikut untuk dimasukkan ke dalam portofolio Anda [220, 245]:
 1.  **Analisis Respons:** Isyarat verbal atau nonverbal apa yang paling jelas menunjukkan bahwa perhatian lawan bicara Anda telah diperoleh? [220]
+
+    Isyarat paling jelas adalah anggukan dan raut muka merasa terwakili dari pemeran mahasiswa, pertanyaan lanjutan mengenai metodologi survei dari pemeran dosen, serta tindakan mencatat isu privasi dan beban pelaksanaan dari pemeran pihak akademik. Respons tersebut menunjukkan bahwa setiap pihak menangkap bagian yang relevan dengan perannya.
+
 2.  **Koreksi Asumsi:** Asumsi awal apa yang Anda miliki tentang salah satu pihak yang ternyata keliru setelah Anda melakukan simulasi atau mendengar tanggapan mereka? [247]
+
+    Saya semula berasumsi bahwa bukti survei yang bersifat umum sudah cukup untuk membuka perhatian semua pihak. Simulasi menunjukkan bahwa dosen membutuhkan batas metodologi agar klaim tidak terdengar terlalu luas, sedangkan pengambil keputusan membutuhkan cakupan authority yang lebih spesifik. Satu pitch tidak dapat dipindahkan begitu saja kepada semua sasaran.
+
 3.  **Pelajaran Etika:** Bagaimana Anda memastikan bahwa upaya Anda mendapatkan perhatian tidak berubah menjadi interupsi bising yang memaksakan kehendak atau memanipulasi emosi mereka? [212, 217]
+
+    Saya menyatakan bahwa temuan survei bersifat terbatas, tidak menyebut identitas mahasiswa, dan tidak menggunakan bahasa yang mempermalukan pelaku titip absen. Setiap pitch diakhiri dengan pertanyaan pemeriksaan sehingga target bebas mengakui, mengoreksi, atau menolak relevansi masalah. Saya juga menyesuaikan waktu dan bahasa dengan peran sasaran tanpa menggunakan ancaman atau urgensi palsu.
 
 ---
 
@@ -113,3 +130,14 @@ Gunakan rubrik berikut untuk mengevaluasi draf dan penampilan simulasi Anda sebe
 | **Kualitas Pembuka (Pitch)** [219] | Pembuka terlalu panjang, bertele-tele, sensasional (*clickbait*), atau langsung menawarkan solusi [216, 219]. | Pitch memuat masalah, tetapi bukti observasinya masih lemah atau pertanyaannya bersifat mengarahkan/menghakimi [216, 218]. | Pitch ringkas (maks. 45 kata), memiliki observasi dan dampak yang terukur, serta diakhiri pertanyaan periksa yang netral [213, 219]. | Pitch sangat presisi, berdaya pikat tinggi berdasarkan relevansi tenang, serta disesuaikan dengan bahasa khas sasaran [213, 246]. |
 | **Membaca Respons & Adaptasi** [219] | Mengabaikan respons lawan bicara dan terus memaksakan naskah hingga selesai [214, 219]. | Memperhatikan respons secara pasif, tetapi tidak tahu bagaimana harus merespons penolakan atau keraguan [214, 219]. | Menyimak secara aktif, membaca isyarat verbal/nonverbal, dan menyesuaikan langkah berikutnya berdasarkan respons [214, 219]. | Mampu mengonfirmasi pemahaman secara halus (*closed-loop*), lentur mengubah pendekatan, atau menghentikan percakapan dengan hormat [214, 246]. |
 | **Etika Komunikasi** [219] | Menggunakan taktik menakut-nakuti, urgensi palsu, atau menekan lawan bicara agar setuju [212, 217, 219]. | Berusaha bersikap sopan, tetapi di akhir kalimat masih terlihat memaksakan kehendak atau menyembunyikan risiko [217, 219]. | Memberikan kebebasan penuh kepada lawan bicara untuk menerima atau menolak pitch tanpa merusak relasi [217, 219]. | Menghormati otonomi pribadi sasaran secara penuh; memperlakukan jawaban "tidak" sebagai informasi berharga dengan apresiasi tulus [217, 246]. |
+
+### Hasil Penilaian Mandiri
+
+| Kriteria | Skor 1–4 | Alasan singkat |
+|---|---:|---|
+| Ketepatan Sasaran | 3 | Tiga peran, tujuan, kendala, authority, dan state awal telah dibedakan, tetapi belum diuji langsung kepada pemegang peran asli |
+| Kualitas Pembuka | 3 | Semua pitch berada di bawah 45 kata, memakai evidence terbatas, menyebut dampak relevan, dan diakhiri pertanyaan pemeriksaan |
+| Membaca Respons & Adaptasi | 3 | Isyarat verbal dan nonverbal dibaca lalu digunakan untuk merevisi bahasa, batas klaim, efisiensi, dan cakupan |
+| Etika Komunikasi | 4 | Pitch tidak menyebut identitas, tidak mempermalukan mahasiswa, mengakui keterbatasan evidence, dan memberi ruang penolakan |
+
+**Total: 13/16 — Cakap.**

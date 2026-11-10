@@ -46,7 +46,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="../site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-e068420ea456326da06e1a0f8a236e46.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-795ae1ca5c1dbc58ec319c3e1f3f461f.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -164,6 +164,7 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#lembar-evaluasi-umpan-balik-rekan-sejawat-8.9-9.15" id="toc-lembar-evaluasi-umpan-balik-rekan-sejawat-8.9-9.15" class="nav-link" data-scroll-target="#lembar-evaluasi-umpan-balik-rekan-sejawat-8.9-9.15"><strong>6. Lembar Evaluasi &amp; Umpan Balik Rekan Sejawat [8.9, 9.15]</strong></a></li>
   <li><a href="#lembar-refleksi-mandiri-mahasiswa-9.16" id="toc-lembar-refleksi-mandiri-mahasiswa-9.16" class="nav-link" data-scroll-target="#lembar-refleksi-mandiri-mahasiswa-9.16"><strong>7. Lembar Refleksi Mandiri Mahasiswa [9.16]</strong></a></li>
   <li><a href="#rubrik-penilaian-mandiri-self-assessment-9.15" id="toc-rubrik-penilaian-mandiri-self-assessment-9.15" class="nav-link" data-scroll-target="#rubrik-penilaian-mandiri-self-assessment-9.15"><strong>8. Rubrik Penilaian Mandiri (<em>Self-Assessment</em>) [9.15]</strong></a></li>
+  <li><a href="#hasil-penilaian-mandiri" id="toc-hasil-penilaian-mandiri" class="nav-link" data-scroll-target="#hasil-penilaian-mandiri"><strong>Hasil Penilaian Mandiri</strong></a></li>
   </ul></li>
   </ul>
 </nav>
@@ -209,10 +210,10 @@ ul.task-list li input[type="checkbox"] {
 <section id="fase-i-pemetaan-jembatan-batin-persiapan-mandiri" class="level3">
 <h3 class="anchored" data-anchor-id="fase-i-pemetaan-jembatan-batin-persiapan-mandiri"><strong>2. Fase I: Pemetaan Jembatan Batin (Persiapan Mandiri)</strong></h3>
 <p>Sebelum melakukan demonstrasi, Anda harus memetakan secara presisi “jembatan batin” yang menghubungkan kondisi audiens saat ini dengan masa depan yang Anda tawarkan [9.7].</p>
-<p><strong>Nama Mahasiswa / NIM:</strong> __________________________________<br>
-<strong>Peran Anda (Komunikator):</strong> __________________________________<br>
-<strong>Pribadi Sasaran &amp; Perannya:</strong> __________________________________<br>
-<strong>Gagasan / Solusi Anda:</strong> __________________________________</p>
+<p><strong>Nama Mahasiswa / NIM:</strong> Anonim<br>
+<strong>Peran Anda (Komunikator):</strong> Anggota tim pengembang interface dan coding, pengusul RFID, serta penanggung jawab pembelian komponen<br>
+<strong>Pribadi Sasaran &amp; Perannya:</strong> Dosen PRD sebagai pembimbing dan penilai yang mewakili kebutuhan pihak kampus<br>
+<strong>Gagasan / Solusi Anda:</strong> Sistem presensi berlapis menggunakan perangkat RFID, website, pemeriksaan lokasi, dan selfie</p>
 <hr>
 <section id="tabel-1-matriks-jembatan-batin-9.7" class="level4">
 <h4 class="anchored" data-anchor-id="tabel-1-matriks-jembatan-batin-9.7"><strong>Tabel 1: Matriks Jembatan Batin [9.7]</strong></h4>
@@ -234,27 +235,27 @@ ul.task-list li input[type="checkbox"] {
 <tr class="odd">
 <td style="text-align: left;"><strong>Keadaan Sekarang</strong> <em>(Beban)</em></td>
 <td style="text-align: left;">Apa beban kerja, kerugian, ketidakpastian, atau frustrasi konkret yang sedang dialami sasaran saat ini? (Sebutkan fakta teramati)</td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;">Data presensi belum selalu memastikan bahwa mahasiswa benar-benar berada di kelas. Prototype awal menggunakan GPS dan selfie, tetapi dosen menilai keduanya masih dapat dimanipulasi.</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;"><strong>Keadaan Masa Depan</strong> <em>(Hasil)</em></td>
 <td style="text-align: left;">Perbaikan atau keadaan lebih baik apa yang akan terjadi di hidupnya secara konkret jika solusi ini berjalan?</td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;">Mahasiswa perlu melakukan tindakan fisik di ruang kelas sebelum dapat melanjutkan presensi di website, sehingga dosen dan pihak kampus memiliki evidence kehadiran yang lebih kuat tanpa memeriksa mahasiswa satu per satu.</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;"><strong>Mekanisme Solusi</strong></td>
 <td style="text-align: left;">Bagaimana cara kerja solusi Anda dalam menghasilkan perubahan tersebut secara logis dan masuk akal?</td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;">Mahasiswa men-tap kartu pada reader RFID di kelas. Setelah kartu terbaca, nama mahasiswa muncul sebagai pilihan presensi di website. Mahasiswa kemudian melanjutkan pemeriksaan lokasi dan selfie.</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;"><strong>Pengorbanan</strong></td>
 <td style="text-align: left;">Biaya, waktu, tenaga, atau perubahan perilaku apa yang harus dikeluarkan sasaran untuk menebus solusi ini?</td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;">Pihak kampus perlu menyediakan biaya perangkat. Tim pelaksana juga membutuhkan waktu untuk merakit, mengintegrasikan, menguji, dan melakukan trial sebelum implementasi.</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;"><strong>Risiko Kegagalan</strong></td>
 <td style="text-align: left;">Apa hal yang bisa gagal atau tidak berjalan sesuai rencana? Bagaimana Anda memitigasinya secara jujur?</td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;">Integrasi hardware dan website dapat gagal, sedangkan internet kelas dapat bermasalah. Mitigasinya adalah melakukan demonstrasi dan trial selama beberapa hari sebelum implementasi. Jika Wi-Fi kelas bermasalah, mahasiswa dapat menggunakan kuota masing-masing, meskipun pilihan ini tetap memindahkan sebagian beban koneksi kepada mahasiswa.</td>
 </tr>
 </tbody>
 </table>
@@ -274,15 +275,15 @@ ul.task-list li input[type="checkbox"] {
 </ul>
 <p><em>Tuliskan rancangan 2 bukti terpilih yang akan Anda tampilkan langsung saat simulasi:</em></p>
 <ul>
-<li><strong>Bukti A (Tingkat ____):</strong>
+<li><strong>Bukti A (Tingkat 2):</strong>
 <ul>
-<li><em>Deskripsi Bukti:</em> ____________________________________________________________________</li>
-<li><em>Batasan/Keterbatasan Bukti ini (Nyatakan secara jujur):</em> ______________________________</li>
+<li><em>Deskripsi Bukti:</em> <a href="../portfolio/evidence-week-09.jpg">Foto prototype RFID</a> serta demonstrasi langsung di depan kelas dan dosen. Demonstrasi menunjukkan alur perangkat fisik yang mendukung sistem presensi.</li>
+<li><em>Batasan/Keterbatasan Bukti ini (Nyatakan secara jujur):</em> Demonstrasi prototype belum sama dengan penggunaan rutin pada kelas sebenarnya. Keandalan untuk banyak mahasiswa dan pemakaian berulang masih memerlukan trial.</li>
 </ul></li>
-<li><strong>Bukti B (Tingkat ____):</strong>
+<li><strong>Bukti B (Tingkat 4):</strong>
 <ul>
-<li><em>Deskripsi Bukti:</em> ____________________________________________________________________</li>
-<li><em>Batasan/Keterbatasan Bukti ini (Nyatakan secara jujur):</em> ______________________________</li>
+<li><em>Deskripsi Bukti:</em> <a href="../portfolio/evidence-week-07.png">Screenshot pengujian dari kos</a> menunjukkan sistem mendeteksi perangkat berada di luar radius dan menolak presensi.</li>
+<li><em>Batasan/Keterbatasan Bukti ini (Nyatakan secara jujur):</em> Pengujian dilakukan dalam konteks terbatas dan belum membuktikan bahwa GPS selalu akurat atau aman dari manipulasi lokasi.</li>
 </ul></li>
 </ul>
 <hr>
@@ -297,19 +298,19 @@ ul.task-list li input[type="checkbox"] {
 <ul>
 <li><em>Kemungkinan tuduhan sasaran:</em> <em>“Ini pasti merepotkan staf saya di lapangan yang terbiasa manual.”</em></li>
 <li><em>Respons komunikasi Anda (Berpusat pada solusi mitigasi dan empati):</em><br>
-__________________________________________________________________________________________</li>
+Saya memahami bahwa tambahan tap RFID dan selfie dapat menimbulkan antrean atau terasa merepotkan. Karena itu, alurnya perlu diuji pada masa trial untuk mengukur waktu pemindaian dan melihat apakah manfaat verifikasi sebanding dengan perubahan perilaku yang diminta. Jika prosesnya terlalu lambat, alur perlu disederhanakan sebelum diterapkan.</li>
 </ul></li>
 <li><strong>Keberatan Biaya / Pengorbanan (Uang, Waktu, Energi) [9.9]:</strong>
 <ul>
 <li><em>Kemungkinan tuduhan sasaran:</em> <em>“Anggaran kami sangat terbatas tahun ini, tidak ada dana untuk ini.”</em></li>
 <li><em>Respons komunikasi Anda:</em><br>
-__________________________________________________________________________________________</li>
+Biaya perangkat memang menjadi concern utama dan dapat menentukan apakah pihak kampus menyetujui implementasi. Saya tidak dapat menjanjikan penerapan langsung. Langkah yang lebih realistis adalah membuat trial terbatas dengan prototype yang ada untuk menghasilkan evidence sebelum kampus mempertimbangkan pengadaan lebih luas.</li>
 </ul></li>
 <li><strong>Keberatan Risiko (Takut akan dampak buruk kegagalan sistem) [9.9]:</strong>
 <ul>
 <li><em>Kemungkinan tuduhan sasaran:</em> <em>“Bagaimana kalau sistem ini mati saat jam sibuk? Siapa yang tanggung jawab?”</em></li>
 <li><em>Respons komunikasi Anda (Sebutkan mitigasi dan batas tanggung jawab secara jujur):</em><br>
-__________________________________________________________________________________________</li>
+Jika reader, integrasi, atau website gagal, data presensi dapat terganggu. Karena itu, sistem perlu didemonstrasikan dan menjalani trial selama beberapa hari sebelum digunakan. Untuk masalah internet kelas, mahasiswa dapat menggunakan kuota pribadi, tetapi batas ini perlu disampaikan karena tidak semua mahasiswa memiliki kondisi koneksi yang sama.</li>
 </ul></li>
 </ol>
 <hr>
@@ -355,22 +356,22 @@ ________________________________________________________________________________
 <li><strong>Membangun Jembatan Batin:</strong>
 <ul>
 <li><em>Perilaku Teramati:</em> Apakah komunikator berhasil membedakan Fitur, Manfaat, dan Nilai saat berbicara? Ataukah ia terjebak melakukan pembuangan fitur (<em>feature dumping</em>)? [7.12, 9.7]</li>
-<li><em>Umpan Balik Berbasis Bukti:</em> ___________________________________________________________</li>
+<li><em>Umpan Balik Berbasis Bukti:</em> Ketika saya menjelaskan perlunya aksi fisik tap RFID sebelum presensi website terbuka, pemeran dosen menjadi lebih memperhatikan dibanding saat saya menjelaskan spesifikasi komponen. Hal ini menunjukkan bahwa dosen lebih peduli pada integritas data kehadiran daripada detail alat. Rekan menyarankan agar saya menyoroti efisiensi pencatatan sebelum membahas rangkaian hardware.</li>
 </ul></li>
 <li><strong>Penyajian Bukti &amp; Pengakuan Risiko:</strong>
 <ul>
 <li><em>Perilaku Teramati:</em> Apakah komunikator menyajikan minimal 2 tingkat bukti secara proporsional? Apakah komunikator berani menyatakan keterbatasan sistem/risiko secara jujur? [9.8, 9.10, 9.15]</li>
-<li><em>Umpan Balik Berbasis Bukti:</em> ___________________________________________________________</li>
+<li><em>Umpan Balik Berbasis Bukti:</em> Ketika saya menunjukkan screenshot pengujian dari kos dan mengakui kemungkinan manipulasi GPS, pemeran dosen mengangguk dan nada bicaranya menjadi lebih terbuka. Pengakuan batas bukti meningkatkan kredibilitas. Rekan menyarankan agar saya tidak mengklaim prototype sudah sepenuhnya aman.</li>
 </ul></li>
 <li><strong>Mengelola Keberatan:</strong>
 <ul>
 <li><em>Perilaku Teramati:</em> Ketika sasaran mengajukan keberatan, apakah komunikator mendebat balik secara defensif, ataukah ia mendengarkan, memparafrasa, dan menyerapnya sebagai informasi? [9.9]</li>
-<li><em>Umpan Balik Berbasis Bukti:</em> ___________________________________________________________</li>
+<li><em>Umpan Balik Berbasis Bukti:</em> Ketika dosen mengangkat potensi antrean tap RFID, saya memparafrasa kekhawatiran tersebut sebelum menjelaskan perlunya menguji kecepatan pemindaian. Rekan menilai respons ini menunjukkan bahwa saya mendengarkan dan tidak defensif, lalu menyarankan teknik yang sama untuk keberatan biaya.</li>
 </ul></li>
 <li><strong>Etika Kebebasan Memilih:</strong>
 <ul>
 <li><em>Perilaku Teramati:</em> Apakah di akhir demonstrasi komunikator membiarkan sasaran memiliki ruang bebas untuk menolak/mempertimbangkan, ataukah ada tekanan psikologis yang memaksakan keputusan? [9.12]</li>
-<li><em>Umpan Balik Berbasis Bukti:</em> ___________________________________________________________</li>
+<li><em>Umpan Balik Berbasis Bukti:</em> Ketika saya menyerahkan keputusan pengujian lanjutan kepada dosen tanpa memaksakan penggunaan prototype, respons pemeran dosen menjadi lebih positif dan santai. Rekan menyarankan agar presentasi akhir ditutup dengan ruang kebebasan yang sama.</li>
 </ul></li>
 </ol>
 <hr>
@@ -382,23 +383,23 @@ ________________________________________________________________________________
 <ol type="1">
 <li><strong>Hasil nyata apa yang sebenarnya paling diinginkan oleh lawan bicara Anda setelah Anda mendengarkan pertanyaan-pertanyaannya sepanjang simulasi?</strong> [9.16]
 <ul>
-<li><em>Refleksi:</em> __________________________________________________________________________</li>
+<li><em>Refleksi:</em> Hasil yang paling diinginkan bukan sekadar sistem dengan banyak fitur, melainkan evidence yang lebih dapat dipercaya bahwa mahasiswa benar-benar berada di kelas tanpa menambah pemeriksaan manual yang berat bagi dosen.</li>
 </ul></li>
 <li><strong>Bukti mana yang terbukti paling menumbuhkan rasa percaya di batin lawan bicara Anda? Mengapa bukti tersebut berhasil?</strong> [9.16]
 <ul>
-<li><em>Refleksi:</em> __________________________________________________________________________</li>
+<li><em>Refleksi:</em> Screenshot penolakan presensi dari luar radius paling cepat membangun kepercayaan karena menunjukkan perilaku sistem pada situasi konkret. Foto dan demonstrasi RFID kemudian memperlihatkan bahwa kelompok benar-benar mengembangkan safeguard fisik, bukan hanya menyampaikan ide.</li>
 </ul></li>
 <li><strong>Ketika Anda mengakui keterbatasan atau risiko solusi Anda secara jujur, apa perubahan bahasa tubuh atau nada bicara lawan bicara Anda yang Anda amati?</strong> [9.16]
 <ul>
-<li><em>Refleksi:</em> __________________________________________________________________________</li>
+<li><em>Refleksi:</em> Ketika saya mengakui GPS masih dapat dimanipulasi, pemeran dosen mengangguk dan nada bicaranya menjadi lebih terbuka. Kejujuran mengenai batas solusi membuat diskusi terasa lebih aman dan realistis.</li>
 </ul></li>
 <li><strong>Keberatan spesifik apa yang dilemparkan oleh rekan Anda yang membuat Anda menyadari adanya kelemahan dalam desain solusi kelompok Anda? Bagaimana Anda akan merevisinya?</strong> [9.16]
 <ul>
-<li><em>Refleksi:</em> __________________________________________________________________________</li>
+<li><em>Refleksi:</em> Keberatan mengenai antrean saat mahasiswa men-tap RFID menunjukkan bahwa tambahan verifikasi dapat mengganggu proses masuk kelas. Saya akan merevisinya dengan trial terbatas untuk mengukur waktu pemindaian dan menyederhanakan alur jika terjadi penumpukan.</li>
 </ul></li>
 <li><strong>Pernyataan Penggunaan AI:</strong> Jika Anda menggunakan bantuan AI (seperti ChatGPT atau Gemini) dalam merancang analogi, menyusun Tangga Bukti, atau melatih skenario keberatan sebelum kelas, tuliskan <strong>Pernyataan Penggunaan AI (<em>AI Statement</em>)</strong> Anda secara jujur dan transparan di bawah ini (Sebutkan: nama alat, peran AI, data yang dibagikan, perintah/prompt kunci, serta proses verifikasi mandiri yang Anda lakukan) [14.15, E.7]:
 <ul>
-<li><em>AI Statement:</em> ________________________________________________________________________</li>
+<li><em>AI Statement:</em> Saya menggunakan OpenAI Codex setelah simulasi untuk membantu menyusun pengalaman ke dalam struktur LK Bab 9, memetakan tangga bukti, dan merapikan respons terhadap keberatan. Data yang dibagikan berupa ringkasan proyek, feedback rekan, serta evidence yang sudah ada tanpa nama pribadi. Instruksi utamanya adalah menggunakan pengalaman saya tanpa mengarang informasi. Saya memverifikasi hasil dengan membandingkannya terhadap prototype, screenshot pengujian, foto, serta feedback rekan, dan menolak klaim yang tidak didukung evidence.</li>
 </ul></li>
 </ol>
 <hr>
@@ -468,6 +469,56 @@ ________________________________________________________________________________
 </tr>
 </tbody>
 </table>
+</section>
+<section id="hasil-penilaian-mandiri" class="level3">
+<h3 class="anchored" data-anchor-id="hasil-penilaian-mandiri"><strong>Hasil Penilaian Mandiri</strong></h3>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 33%">
+<col style="width: 33%">
+<col style="width: 33%">
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Kriteria</th>
+<th style="text-align: right;">Skor 1–4</th>
+<th style="text-align: left;">Evidence singkat</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Hasil yang Diinginkan</td>
+<td style="text-align: right;">4</td>
+<td style="text-align: left;">Desired state menggunakan kebutuhan dosen: integritas kehadiran tanpa pemeriksaan manual yang berat</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Kejelasan Mekanisme</td>
+<td style="text-align: right;">3</td>
+<td style="text-align: left;">Alur RFID–website–selfie dapat dijelaskan, tetapi masih perlu demonstrasi untuk audiens nonteknis</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Tangga Bukti</td>
+<td style="text-align: right;">4</td>
+<td style="text-align: left;">Demonstrasi prototype dan pengujian radius dipadukan dengan batas konteks masing-masing</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Pengakuan Risiko</td>
+<td style="text-align: right;">4</td>
+<td style="text-align: left;">Manipulasi GPS, biaya, kegagalan integrasi, antrean, dan internet disampaikan bersama rencana trial</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Manajemen Keberatan</td>
+<td style="text-align: right;">3</td>
+<td style="text-align: left;">Keberatan diparafrasa dan dijawab tenang, tetapi mitigasi masih perlu diuji pada penggunaan kelas nyata</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Etika Kebebasan Memilih</td>
+<td style="text-align: right;">4</td>
+<td style="text-align: left;">Penutup memberi dosen ruang untuk mempertimbangkan atau menolak pengujian lanjutan</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Total: 22/24 — Unggul.</strong></p>
 <hr>
 <p><em>“Jangan membuat orang sekadar terpesona. Bantulah mereka menilai secara objektif apakah masa depan yang Anda tawarkan benar-benar bernilai, realistis, dan tepercaya bagi kehidupan mereka.”</em> [9.20]</p>
 
@@ -880,7 +931,7 @@ ________________________________________________________________________________
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<p>Portfolio KIPP-2 · Nama Mahasiswa</p>
+<p>Portfolio KIPP-2 · Davindra Rasya Nugroho</p>
 </div>   
     <div class="nav-footer-center">
       &nbsp;

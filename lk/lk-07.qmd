@@ -71,26 +71,43 @@ Gunakan **5 Langkah Pitch Minat** berikut (Bab 7.7.2):
 > 
 > **Tulis jawaban Anda di sini:**
 > 
-> 
-> 
+> Dosen pengampu mengalami kesulitan memastikan keakuratan data kehadiran ketika mahasiswa dapat melakukan presensi tanpa benar-benar mengikuti kelas, sehingga catatan kehadiran belum selalu mencerminkan kondisi sebenarnya. Dosen membutuhkan cara memverifikasi kehadiran secara efisien, dengan mempertimbangkan waktu mengajar, privasi mahasiswa, dan kemungkinan manipulasi.
 
 ### **Bagian 2: Matriks Detoks Fitur Anda**
 > *Gunakan tabel ini untuk memotong fitur-fitur yang hanya memuaskan ego pembuat tetapi tidak melayani kebutuhan pendengar.*
 
 | Nama Fitur | Manfaat Langsung | Nilai Relasional (Sebutkan Perannya) | Bukti yang Anda Miliki/Perlukan | Keputusan Anda (Pertahankan / Pangkas) |
 |:---|:---|:---|:---|:---|
-| **Fitur A:** | | | | |
-| **Fitur B:** | | | | |
-| **Fitur C:** | | | | |
+| **Pemeriksaan lokasi/GPS** | Memeriksa apakah ponsel yang digunakan untuk presensi berada di dalam radius kelas | **Bagi dosen dan pihak kampus:** data presensi lebih berkaitan dengan lokasi mahasiswa. **Bagi mahasiswa yang hadir:** pencatatan terasa lebih adil | [Screenshot pengujian dari kos](../portfolio/evidence-week-07.png) menunjukkan sistem menolak presensi karena berada di luar radius | **PERTAHANKAN**, karena langsung menanggapi masalah presensi dari luar kampus. Batasnya, GPS masih mungkin dimanipulasi |
+| **Selfie dengan waktu dan lokasi** | Menambahkan bukti visual dan konteks waktu saat mahasiswa melakukan presensi | **Bagi dosen:** tersedia lapisan verifikasi identitas selain data lokasi. **Bagi mahasiswa:** proses tetap dapat dilakukan melalui website | Screenshot atau demonstrasi alur pengambilan selfie pada prototype | **PERTAHANKAN DENGAN BATAS**, karena membantu verifikasi tetapi belum menjamin bahwa foto tidak dimanipulasi |
+| **Tap kartu RFID sebelum nama muncul di website** | Membatasi pilihan presensi pada mahasiswa yang telah melakukan tap di perangkat fisik dalam kelas | **Bagi pihak kampus:** kehadiran digital dihubungkan dengan tindakan fisik di ruang kelas. **Bagi dosen:** mengurangi kebutuhan memeriksa mahasiswa satu per satu | [Foto prototype RFID](../portfolio/evidence-week-10.jpg) dan demonstrasi nama mahasiswa muncul setelah kartu dibaca | **PERTAHANKAN UNTUK PENGEMBANGAN**, karena menutup sebagian celah GPS dan selfie, tetapi membutuhkan perangkat serta biaya tambahan |
+| **Halaman profil** | Menampilkan informasi akun mahasiswa | **Bagi pengguna:** memudahkan melihat identitas akun, tetapi tidak memberikan nilai langsung terhadap pencegahan titip absen | Screenshot halaman profil; belum ada evidence bahwa fitur ini memperkuat validitas presensi | **PANGKAS DARI PITCH**, karena tidak menempel langsung pada masalah utama dan dapat mengalihkan perhatian dari mekanisme verifikasi |
 
 *Catatan Etis: Menyembunyikan risiko atau keterbatasan solusi demi terlihat menarik adalah pelanggaran integritas profesional. Jika solusi Anda memiliki keterbatasan (misalnya: tidak berjalan lancar tanpa jaringan internet), sampaikan hal itu secara jujur. Kejujuran terhadap batas justru meningkatkan kredibilitas Anda (Bab 7.8, 9.8).*
 
 ### **Bagian 3: Draf Pitch Minat 60 Detik**
 > *Tuliskan draf lisan Anda (maksimal 120 kata) berdasarkan 5 langkah Pitch Minat Bab 7:*
 > 
-> 
-> 
-> 
+> “Survei dan observasi kelompok kami menunjukkan bahwa titip absen membuat data kehadiran belum selalu mencerminkan mahasiswa yang benar-benar mengikuti kelas. Prototype awal kami memeriksa lokasi ponsel dan meminta selfie dengan informasi waktu serta lokasi. Pengujian menunjukkan pembatasan radius dapat bekerja, tetapi GPS dan selfie masih mungkin dimanipulasi. Karena itu, versi berikutnya menambahkan tap RFID pada perangkat di kelas sebelum nama mahasiswa muncul di website. Mekanisme berlapis ini dapat memperkuat verifikasi tanpa meminta dosen memeriksa setiap mahasiswa secara manual. Namun, penerapannya membutuhkan perangkat dan biaya tambahan. Apakah solusi ini layak diuji lebih lanjut oleh pihak kampus?”
+>
+> **Jumlah kata: 95 kata.**
+
+### **Bagian 4: Hasil Uji Pitch Bersama Rekan**
+
+| Kriteria | Skor 1–4 | Feedback rekan |
+|:---|---:|:---|
+| Kecocokan (*Fit*) | 4 | Solusi dinilai menempel pada masalah titip absen dan berkembang dari celah yang ditemukan pada prototype awal |
+| Kejelasan Mekanisme | 3 | Peralihan dari pengujian di kos menuju RFID terasa terlalu cepat ketika didengarkan secara langsung |
+| Penerjemahan Nilai | 4 | Penjelasan menghubungkan verifikasi berlapis dengan kebutuhan pihak kampus dan pengurangan pemeriksaan manual oleh dosen |
+| Kejujuran & Batas | 4 | Pitch menyatakan bahwa GPS dan selfie masih dapat dimanipulasi serta RFID membutuhkan perangkat dan biaya tambahan |
+
+**Bagian paling jelas:** Transisi dari prototype awal berbasis GPS dan selfie yang masih memiliki celah menuju kombinasi tap RFID dan verifikasi website.
+
+**Bagian yang membingungkan:** Hubungan antara pengujian presensi dari kos dan alasan penambahan RFID awalnya terasa terlalu cepat saat disampaikan secara lisan.
+
+**Fitur atau detail yang tidak perlu ditekankan:** Detail kegagalan presensi dari kos dapat dipersingkat agar fokus tetap berada pada celah GPS/selfie dan alasan penambahan RFID.
+
+**Adaptasi setelah feedback:** Pitch revisi tidak lagi menjelaskan jarak atau urutan pengujian dari kos secara terperinci. Evidence tersebut diringkas menjadi pernyataan bahwa pembatasan radius dapat bekerja, kemudian pitch langsung menjelaskan keterbatasan GPS dan selfie sebagai alasan pengembangan RFID.
 > 
 
 ---
@@ -104,6 +121,17 @@ Setelah menyelesaikan lembar kerja ini, ujilah draf pitch Anda bersama rekan sej
 | **Kejelasan Mekanisme** | Menjejalkan daftar fitur teknis (terjadi *Feature Dumping*). | Cara kerja mulai dijelaskan tetapi masih didominasi jargon teknis. | Cara kerja dijelaskan secara ringkas dan mudah dibayangkan oleh pendengar awam. | Cara kerja sangat jernih, didukung analogi membumi atau prototipe yang siap dicoba. |
 | **Penerjemahan Nilai** | Manfaat/nilai dianggap sama saja bagi semua peran yang terlibat. | Mulai menyebutkan manfaat, tetapi belum membedakan nilai spesifik tiap peran. | Mampu menerjemahkan fitur menjadi nilai fungsional yang berbeda bagi tiap peran. | Nilai relasional disampaikan secara presisi dan bermakna bagi tanggung jawab spesifik sasaran. |
 | **Kejujuran & Batas** | Mengklaim solusi sempurna tanpa cela (janji berlebihan / *overpromise*). | Mengakui adanya batas kemampuan solusi tetapi hanya jika ditanya. | Menyatakan batas kemampuan dan risiko solusi secara terbuka dan realistis sejak awal. | Menunjukkan batas solusi secara ksatria serta menawarkan rencana mitigasi atau bukti pendukung. |
+
+### **Hasil Penilaian Mandiri**
+
+| Kriteria | Skor 1–4 | Alasan singkat |
+|:---|---:|:---|
+| Kecocokan (*Fit*) | 4 | GPS, selfie, dan RFID dihubungkan langsung dengan celah verifikasi dalam masalah titip absen |
+| Kejelasan Mekanisme | 3 | Alur sudah ringkas dan dapat dibayangkan, tetapi integrasi RFID dan website masih memerlukan demonstrasi agar sepenuhnya jelas |
+| Penerjemahan Nilai | 4 | Manfaat dibedakan menjadi nilai bagi dosen, pihak kampus, dan mahasiswa yang hadir dengan jujur |
+| Kejujuran & Batas | 4 | Keterbatasan manipulasi GPS/selfie serta biaya RFID dinyatakan sebelum target menanyakannya |
+
+**Total: 15/16 — Unggul.**
 
 ---
 *Komunikasi yang berpusat pada manusia tidak menuntut Anda membawa solusi yang sempurna tanpa cela. Ia hanya meminta Anda jujur terhadap apa yang dapat dilakukan oleh solusi Anda hari ini demi membangun relasi kepercayaan yang langgeng.* (Bab 7.18)
