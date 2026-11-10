@@ -170,8 +170,12 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#bagian-1-pernyataan-masalah-sasaran" id="toc-bagian-1-pernyataan-masalah-sasaran" class="nav-link" data-scroll-target="#bagian-1-pernyataan-masalah-sasaran"><strong>Bagian 1: Pernyataan Masalah Sasaran</strong></a></li>
   <li><a href="#bagian-2-matriks-detoks-fitur-anda" id="toc-bagian-2-matriks-detoks-fitur-anda" class="nav-link" data-scroll-target="#bagian-2-matriks-detoks-fitur-anda"><strong>Bagian 2: Matriks Detoks Fitur Anda</strong></a></li>
   <li><a href="#bagian-3-draf-pitch-minat-60-detik" id="toc-bagian-3-draf-pitch-minat-60-detik" class="nav-link" data-scroll-target="#bagian-3-draf-pitch-minat-60-detik"><strong>Bagian 3: Draf Pitch Minat 60 Detik</strong></a></li>
+  <li><a href="#bagian-4-hasil-uji-pitch-bersama-rekan" id="toc-bagian-4-hasil-uji-pitch-bersama-rekan" class="nav-link" data-scroll-target="#bagian-4-hasil-uji-pitch-bersama-rekan"><strong>Bagian 4: Hasil Uji Pitch Bersama Rekan</strong></a></li>
   </ul></li>
-  <li><a href="#rubrik-evaluasi-mandiri-self-assessment" id="toc-rubrik-evaluasi-mandiri-self-assessment" class="nav-link" data-scroll-target="#rubrik-evaluasi-mandiri-self-assessment">📊 Rubrik Evaluasi Mandiri (<em>Self-Assessment</em>)</a></li>
+  <li><a href="#rubrik-evaluasi-mandiri-self-assessment" id="toc-rubrik-evaluasi-mandiri-self-assessment" class="nav-link" data-scroll-target="#rubrik-evaluasi-mandiri-self-assessment">📊 Rubrik Evaluasi Mandiri (<em>Self-Assessment</em>)</a>
+  <ul class="collapse">
+  <li><a href="#hasil-penilaian-mandiri" id="toc-hasil-penilaian-mandiri" class="nav-link" data-scroll-target="#hasil-penilaian-mandiri"><strong>Hasil Penilaian Mandiri</strong></a></li>
+  </ul></li>
   </ul></li>
   </ul>
 </nav>
@@ -309,6 +313,7 @@ ul.task-list li input[type="checkbox"] {
 <p><em>Tuliskan Pernyataan Masalah Pelanggan (CPS) secara presisi berdasarkan formula Bab 5:</em></p>
 <p><strong>[Pribadi/Peran]</strong> mengalami <strong>[Keadaan yang teramati]</strong> ketika <strong>[Konteks]</strong>, sehingga <strong>[Dampak]</strong>. Ia membutuhkan <strong>[Hasil/Kemampuan]</strong>, dengan mempertimbangkan <strong>[Kendala]</strong>.</p>
 <p><strong>Tulis jawaban Anda di sini:</strong></p>
+<p>Dosen pengampu mengalami kesulitan memastikan keakuratan data kehadiran ketika mahasiswa dapat melakukan presensi tanpa benar-benar mengikuti kelas, sehingga catatan kehadiran belum selalu mencerminkan kondisi sebenarnya. Dosen membutuhkan cara memverifikasi kehadiran secara efisien, dengan mempertimbangkan waktu mengajar, privasi mahasiswa, dan kemungkinan manipulasi.</p>
 </blockquote>
 </section>
 <section id="bagian-2-matriks-detoks-fitur-anda" class="level3">
@@ -317,13 +322,6 @@ ul.task-list li input[type="checkbox"] {
 <p><em>Gunakan tabel ini untuk memotong fitur-fitur yang hanya memuaskan ego pembuat tetapi tidak melayani kebutuhan pendengar.</em></p>
 </blockquote>
 <table class="caption-top table">
-<colgroup>
-<col style="width: 20%">
-<col style="width: 20%">
-<col style="width: 20%">
-<col style="width: 20%">
-<col style="width: 20%">
-</colgroup>
 <thead>
 <tr class="header">
 <th style="text-align: left;">Nama Fitur</th>
@@ -335,25 +333,32 @@ ul.task-list li input[type="checkbox"] {
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: left;"><strong>Fitur A:</strong></td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;"><strong>Pemeriksaan lokasi/GPS</strong></td>
+<td style="text-align: left;">Memeriksa apakah ponsel yang digunakan untuk presensi berada di dalam radius kelas</td>
+<td style="text-align: left;"><strong>Bagi dosen dan pihak kampus:</strong> data presensi lebih berkaitan dengan lokasi mahasiswa. <strong>Bagi mahasiswa yang hadir:</strong> pencatatan terasa lebih adil</td>
+<td style="text-align: left;"><a href="../portfolio/evidence-week-07.png">Screenshot pengujian dari kos</a> menunjukkan sistem menolak presensi karena berada di luar radius</td>
+<td style="text-align: left;"><strong>PERTAHANKAN</strong>, karena langsung menanggapi masalah presensi dari luar kampus. Batasnya, GPS masih mungkin dimanipulasi</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;"><strong>Fitur B:</strong></td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;"><strong>Selfie dengan waktu dan lokasi</strong></td>
+<td style="text-align: left;">Menambahkan bukti visual dan konteks waktu saat mahasiswa melakukan presensi</td>
+<td style="text-align: left;"><strong>Bagi dosen:</strong> tersedia lapisan verifikasi identitas selain data lokasi. <strong>Bagi mahasiswa:</strong> proses tetap dapat dilakukan melalui website</td>
+<td style="text-align: left;">Screenshot atau demonstrasi alur pengambilan selfie pada prototype</td>
+<td style="text-align: left;"><strong>PERTAHANKAN DENGAN BATAS</strong>, karena membantu verifikasi tetapi belum menjamin bahwa foto tidak dimanipulasi</td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;"><strong>Fitur C:</strong></td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;"><strong>Tap kartu RFID sebelum nama muncul di website</strong></td>
+<td style="text-align: left;">Membatasi pilihan presensi pada mahasiswa yang telah melakukan tap di perangkat fisik dalam kelas</td>
+<td style="text-align: left;"><strong>Bagi pihak kampus:</strong> kehadiran digital dihubungkan dengan tindakan fisik di ruang kelas. <strong>Bagi dosen:</strong> mengurangi kebutuhan memeriksa mahasiswa satu per satu</td>
+<td style="text-align: left;"><a href="../portfolio/evidence-week-10.jpg">Foto prototype RFID</a> dan demonstrasi nama mahasiswa muncul setelah kartu dibaca</td>
+<td style="text-align: left;"><strong>PERTAHANKAN UNTUK PENGEMBANGAN</strong>, karena menutup sebagian celah GPS dan selfie, tetapi membutuhkan perangkat serta biaya tambahan</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>Halaman profil</strong></td>
+<td style="text-align: left;">Menampilkan informasi akun mahasiswa</td>
+<td style="text-align: left;"><strong>Bagi pengguna:</strong> memudahkan melihat identitas akun, tetapi tidak memberikan nilai langsung terhadap pencegahan titip absen</td>
+<td style="text-align: left;">Screenshot halaman profil; belum ada evidence bahwa fitur ini memperkuat validitas presensi</td>
+<td style="text-align: left;"><strong>PANGKAS DARI PITCH</strong>, karena tidak menempel langsung pada masalah utama dan dapat mengalihkan perhatian dari mekanisme verifikasi</td>
 </tr>
 </tbody>
 </table>
@@ -363,7 +368,52 @@ ul.task-list li input[type="checkbox"] {
 <h3 class="anchored" data-anchor-id="bagian-3-draf-pitch-minat-60-detik"><strong>Bagian 3: Draf Pitch Minat 60 Detik</strong></h3>
 <blockquote class="blockquote">
 <p><em>Tuliskan draf lisan Anda (maksimal 120 kata) berdasarkan 5 langkah Pitch Minat Bab 7:</em></p>
+<p>“Survei dan observasi kelompok kami menunjukkan bahwa titip absen membuat data kehadiran belum selalu mencerminkan mahasiswa yang benar-benar mengikuti kelas. Prototype awal kami memeriksa lokasi ponsel dan meminta selfie dengan informasi waktu serta lokasi. Pengujian menunjukkan pembatasan radius dapat bekerja, tetapi GPS dan selfie masih mungkin dimanipulasi. Karena itu, versi berikutnya menambahkan tap RFID pada perangkat di kelas sebelum nama mahasiswa muncul di website. Mekanisme berlapis ini dapat memperkuat verifikasi tanpa meminta dosen memeriksa setiap mahasiswa secara manual. Namun, penerapannya membutuhkan perangkat dan biaya tambahan. Apakah solusi ini layak diuji lebih lanjut oleh pihak kampus?”</p>
+<p><strong>Jumlah kata: 95 kata.</strong></p>
 </blockquote>
+</section>
+<section id="bagian-4-hasil-uji-pitch-bersama-rekan" class="level3">
+<h3 class="anchored" data-anchor-id="bagian-4-hasil-uji-pitch-bersama-rekan"><strong>Bagian 4: Hasil Uji Pitch Bersama Rekan</strong></h3>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 33%">
+<col style="width: 33%">
+<col style="width: 33%">
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Kriteria</th>
+<th style="text-align: right;">Skor 1–4</th>
+<th style="text-align: left;">Feedback rekan</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Kecocokan (<em>Fit</em>)</td>
+<td style="text-align: right;">4</td>
+<td style="text-align: left;">Solusi dinilai menempel pada masalah titip absen dan berkembang dari celah yang ditemukan pada prototype awal</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Kejelasan Mekanisme</td>
+<td style="text-align: right;">3</td>
+<td style="text-align: left;">Peralihan dari pengujian di kos menuju RFID terasa terlalu cepat ketika didengarkan secara langsung</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Penerjemahan Nilai</td>
+<td style="text-align: right;">4</td>
+<td style="text-align: left;">Penjelasan menghubungkan verifikasi berlapis dengan kebutuhan pihak kampus dan pengurangan pemeriksaan manual oleh dosen</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Kejujuran &amp; Batas</td>
+<td style="text-align: right;">4</td>
+<td style="text-align: left;">Pitch menyatakan bahwa GPS dan selfie masih dapat dimanipulasi serta RFID membutuhkan perangkat dan biaya tambahan</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Bagian paling jelas:</strong> Transisi dari prototype awal berbasis GPS dan selfie yang masih memiliki celah menuju kombinasi tap RFID dan verifikasi website.</p>
+<p><strong>Bagian yang membingungkan:</strong> Hubungan antara pengujian presensi dari kos dan alasan penambahan RFID awalnya terasa terlalu cepat saat disampaikan secara lisan.</p>
+<p><strong>Fitur atau detail yang tidak perlu ditekankan:</strong> Detail kegagalan presensi dari kos dapat dipersingkat agar fokus tetap berada pada celah GPS/selfie dan alasan penambahan RFID.</p>
+<p><strong>Adaptasi setelah feedback:</strong> Pitch revisi tidak lagi menjelaskan jarak atau urutan pengujian dari kos secara terperinci. Evidence tersebut diringkas menjadi pernyataan bahwa pembatasan radius dapat bekerja, kemudian pitch langsung menjelaskan keterbatasan GPS dan selfie sebagai alasan pengembangan RFID. &gt;</p>
 <hr>
 </section>
 </section>
@@ -418,10 +468,50 @@ ul.task-list li input[type="checkbox"] {
 </tr>
 </tbody>
 </table>
+<section id="hasil-penilaian-mandiri" class="level3">
+<h3 class="anchored" data-anchor-id="hasil-penilaian-mandiri"><strong>Hasil Penilaian Mandiri</strong></h3>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 33%">
+<col style="width: 33%">
+<col style="width: 33%">
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Kriteria</th>
+<th style="text-align: right;">Skor 1–4</th>
+<th style="text-align: left;">Alasan singkat</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Kecocokan (<em>Fit</em>)</td>
+<td style="text-align: right;">4</td>
+<td style="text-align: left;">GPS, selfie, dan RFID dihubungkan langsung dengan celah verifikasi dalam masalah titip absen</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Kejelasan Mekanisme</td>
+<td style="text-align: right;">3</td>
+<td style="text-align: left;">Alur sudah ringkas dan dapat dibayangkan, tetapi integrasi RFID dan website masih memerlukan demonstrasi agar sepenuhnya jelas</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Penerjemahan Nilai</td>
+<td style="text-align: right;">4</td>
+<td style="text-align: left;">Manfaat dibedakan menjadi nilai bagi dosen, pihak kampus, dan mahasiswa yang hadir dengan jujur</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Kejujuran &amp; Batas</td>
+<td style="text-align: right;">4</td>
+<td style="text-align: left;">Keterbatasan manipulasi GPS/selfie serta biaya RFID dinyatakan sebelum target menanyakannya</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Total: 15/16 — Unggul.</strong></p>
 <hr>
 <p><em>Komunikasi yang berpusat pada manusia tidak menuntut Anda membawa solusi yang sempurna tanpa cela. Ia hanya meminta Anda jujur terhadap apa yang dapat dilakukan oleh solusi Anda hari ini demi membangun relasi kepercayaan yang langgeng.</em> (Bab 7.18)</p>
 
 
+</section>
 </section>
 </section>
 
